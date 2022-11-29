@@ -22,8 +22,12 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 ## ಲೇಖನ, ವಿಷಯಗಳು / Articles and Materials
 
 ### ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by modification time
+  
+- [ಎಕಾರದ ಆವೇಶ](content/ಎಕಾರದ%20ಆವೇಶ.md)
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by creation time
+  
+- [ಎಕಾರದ ಆವೇಶ](content/ಎಕಾರದ%20ಆವೇಶ.md)
 
 ## ಸಹಯೋಗ / Contributing
 
