@@ -23,10 +23,12 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by modification time
   
+- [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
 - [ಎಕಾರದ ಆವೇಶ](content/ಎಕಾರದ%20ಆವೇಶ.md)
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by creation time
   
+- [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
 - [ಎಕಾರದ ಆವೇಶ](content/ಎಕಾರದ%20ಆವೇಶ.md)
 
 ## ಸಹಯೋಗ / Contributing
