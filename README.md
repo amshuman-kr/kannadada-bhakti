@@ -21,7 +21,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ## ಲೇಖನ, ವಿಷಯಗಳು / Articles and Materials
 
-### ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by modification time
+### ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of modification time
   
 - [ಸರ್ವನಾಮಗಳ ಸರ್ಗ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md)
 - [ದ್ರಾವಿಡಭಾಷೆಗಳ ವಿಶೇಷಸ್ವರಗಳು](content/ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md)
@@ -29,7 +29,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 - [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
 - [ಎಕಾರದ ಆವೇಶ](content/ಎಕಾರದ%20ಆವೇಶ.md)
 
-### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by creation time
+### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of creation time
   
 - [ಸರ್ವನಾಮಗಳ ಸರ್ಗ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md)
 - [ದ್ರಾವಿಡಭಾಷೆಗಳ ವಿಶೇಷಸ್ವರಗಳು](content/ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md)
