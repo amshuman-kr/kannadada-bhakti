@@ -23,6 +23,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by modification time
   
+- [ಸರ್ವನಾಮಗಳ ಸರ್ಗ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md)
 - [ದ್ರಾವಿಡಭಾಷೆಗಳ ವಿಶೇಷಸ್ವರಗಳು](content/ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md)
 - [ವಕಾರದ ವಿಭಕ್ತಿ](content/ವಕಾರದ%20ವಿಭಕ್ತಿ.md)
 - [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
@@ -30,6 +31,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯಾನುಕ್ರಮವಾಗಿ / Sorted by creation time
   
+- [ಸರ್ವನಾಮಗಳ ಸರ್ಗ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md)
 - [ದ್ರಾವಿಡಭಾಷೆಗಳ ವಿಶೇಷಸ್ವರಗಳು](content/ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md)
 - [ವಕಾರದ ವಿಭಕ್ತಿ](content/ವಕಾರದ%20ವಿಭಕ್ತಿ.md)
 - [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
