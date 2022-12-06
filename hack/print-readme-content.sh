@@ -12,9 +12,10 @@ ls -1t ./content | while read -r i; do
         ia=$(article_name "$i")
         ie=$(escape_space "$i")
 
-        echo "- [$ia](content/$ie)"
-
-        if [ -d "content/$i" ]; then
+        if [ -f "content/$i" ]; then
+            echo "- [$ia](content/$ie)"
+        elif [ -d "content/$i" ]; then
+            echo "- $ia"
             ls -1 "content/${i}" | grep '.md$' | while read -r j; do
                 ja=$(article_name "$j")
                 je=$(escape_space "$j")
