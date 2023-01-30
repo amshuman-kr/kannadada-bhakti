@@ -55,7 +55,7 @@ In other words,
 
 - The distal demonstrative `am̐`/`ə̃` is the distral demonstrative pronominal root.
 In Kannada, it is also the [accusative](https://en.wikipedia.org/wiki/Accusative_case) suffix.
-- The proximal demonstrative `im̐`/`ĩ`, medial/*presentative* `um̐`/`ũ` are the proximal and medial/*presentative* demonstrative pronominal roots correspondingly.
+- The proximal demonstrative `im̐`/`ĩ`, medial/[*presentative*](https://ygdp.yale.edu/phenomena/dative-presentatives) `um̐`/`ũ` are the proximal and medial/*presentative* demonstrative pronominal roots correspondingly.
 They both (`im̐`/`ĩ` and `um̐`/`ũ`) are also the second-person pronominal roots.
 Among them, in Kannada, `im̐`/`ĩ` is also the root of the `iṁ` suffix which is widely known as the [instrumental](https://en.wikipedia.org/wiki/Instrumental_case) suffix but really is also the [ablative](https://en.wikipedia.org/wiki/Ablative_case) suffix.
 - The *presentative* `um̐`/`ũ` is also used as the *collectivising*/*conjunctive* suffix (`uṁ` in [Old Kannada](https://en.wikipedia.org/wiki/Old_Kannada) and `ū` in modern Kannada)
