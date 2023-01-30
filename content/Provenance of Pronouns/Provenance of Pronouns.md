@@ -64,7 +64,7 @@ It is also the root of the *emphasising* suffix `ē`.
 - `æm̐`/`æ̃` with an interrogative tone is the interrogative pronominal root.
 It is also the root of the interrogative/*speculative*/*skeptical* suffixes `ā`, `ē`, `ō`.
 
-This proposition, on the one hand, takes the provenance of of the pronouns back to a pre-historical (perhaps even a *proto-linguistic*) time and one the other, to baby-talk.
+This hypothesis, on the one hand, takes the provenance of of the pronouns back to a pre-historical (perhaps even a *proto-linguistic*) time and one the other, to baby-talk.
 That these nasalised vowels are naturally suited to signify the above mentioned semantics can be pictorially represented as follows.
 
 <img style="width: 100%" src="Pronouns-image.png" alt="That these nasalised vowels are naturally suited to signify the above mentioned semantics can be pictorially represented as follows." />
