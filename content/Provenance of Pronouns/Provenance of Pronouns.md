@@ -49,7 +49,7 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
 
 ## Summary
 
-Kannada and other Dravidian languages systematically use the nasalised vowels `am̐`/`ə̃`, `im̐`/`ĩ`, `um̐`/`ũ`, `æm̐`/`æ̃` (and their longer forms `ām̐`/`ɑ̃ː`, `īm̐`/`ĩː`, `ūm̐`/`ũː`, `ǣm̐`/`æ̃ː`) as distal, proximal, medial demonstrative third-person, second person, first-person and interrogative pronominal roots.
+Kannada and other Dravidian languages systematically use the nasalised vowels `am̐`/`ə̃`, `im̐`/`ĩ`, `um̐`/`ũ`, `æm̐`/`æ̃` (and their longer forms `ām̐`/`ɑ̃ː`, `īm̐`/`ĩː`, `ūm̐`/`ũː`, `ǣm̐`/`æ̃ː`) as distal, proximal, medial [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) third-person, second-person, first-person and [interrogative](https://en.wikipedia.org/wiki/Interrogative_word#Interrogative_pronoun) pronominal roots.
 Other language families (for example, Indo-European), also use these but less systematically.
 In other words,
 
