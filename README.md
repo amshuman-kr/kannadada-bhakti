@@ -23,17 +23,22 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of modification time
   
+- Provenance of Pronouns
+	 - [Introduction and Context](content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md)
+	 - [Provenance of Pronouns](content/Provenance%20of%20Pronouns/Provenance%20of%20Pronouns.md)
 - ಸರ್ವನಾಮಗಳ ಸರ್ಗ
 	 - [ಪ್ರಸ್ತಾವನೆ ಮತ್ತು ಪೂರ್ವಪಕ್ಷ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಪ್ರಸ್ತಾವನೆ%20ಮತ್ತು%20ಪೂರ್ವಪಕ್ಷ.md)
 	 - [ಸರ್ವನಾಮಗಳ ಸರ್ಗ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md)
-- [ದ್ರಾವಿಡಭಾಷೆಗಳ ವಿಶೇಷಸ್ವರಗಳು](content/ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md)
 - [ವಕಾರದ ವಿಭಕ್ತಿ](content/ವಕಾರದ%20ವಿಭಕ್ತಿ.md)
+- [ದ್ರಾವಿಡಭಾಷೆಗಳ ವಿಶೇಷಸ್ವರಗಳು](content/ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md)
 - [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
 - [ಎಕಾರದ ಆವೇಶ](content/ಎಕಾರದ%20ಆವೇಶ.md)
 
-
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of creation time
   
+- Provenance of Pronouns
+	 - [Introduction and Context](content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md)
+	 - [Provenance of Pronouns](content/Provenance%20of%20Pronouns/Provenance%20of%20Pronouns.md)
 - ಸರ್ವನಾಮಗಳ ಸರ್ಗ
 	 - [ಪ್ರಸ್ತಾವನೆ ಮತ್ತು ಪೂರ್ವಪಕ್ಷ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಪ್ರಸ್ತಾವನೆ%20ಮತ್ತು%20ಪೂರ್ವಪಕ್ಷ.md)
 	 - [ಸರ್ವನಾಮಗಳ ಸರ್ಗ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md)
