@@ -119,8 +119,7 @@ Grammatical Case | Masculine Singular | Feminine  Singular | [Rational](https://
 [Nominative](https://en.wikipedia.org/wiki/Nominative_case) | avaṁ/avan/avanu | avaḷ/avaḷu | avar/avaru | adu | avu | avugaḷ/avugaḷu 
 [Accusative](https://en.wikipedia.org/wiki/Accusative_case) | avanaṁ/avana/avananu/avanannu | avaḷaṁ/avaḷa/avaḷanu/avaḷannu | avaraṁ/avara/avaranu/avarannu | adaṁ/ada/adanu/adannu<br/>adaṟaṁ | (avaṁ/ava/avanu)?/avannu | avugaḷaṁ/avugaḷa/avugaḷanu/avugaḷannu 
 [Instrumental](https://en.wikipedia.org/wiki/Instrumental_case)/[Ablative](https://en.wikipedia.org/wiki/Ablative_case) | avaniṁ/avaniṁda | avaḷiṁ/avaḷiṁda | avariṁ/avariṁda | adaṟiṁ/adaṟiṁda<br/>adariṁ/adariṁda | (aviṁ/aviṁda)? | avugaḷiṁ/avugaḷiṁda
-[Dative](https://en.wikipedia.org/wiki/Dative_case) | avaṁge/avage<br/>(avaniṁge)?/avanige | avaḷge<br/>avaḷiṁge/avaḷige | avarge<br/>avariṁge/avarige | adarke/adake/adakke | avarke?/avake/avakke	| avugaḷge
-avugaḷiṁge/avugaḷige
+[Dative](https://en.wikipedia.org/wiki/Dative_case) | avaṁge/avage<br/>(avaniṁge)?/avanige | avaḷge<br/>avaḷiṁge/avaḷige | avarge<br/>avariṁge/avarige | adarke/adake/adakke | avarke?/avake/avakke	| avugaḷge<br/>avugaḷiṁge/avugaḷige
 [Genitive](https://en.wikipedia.org/wiki/Genitive_case) | avana | avaḷa | avara | adaṟa<br/>adara | (ava)? | avugaḷa
 [Locative](https://en.wikipedia.org/wiki/Locative_case) | avanoḷ/avanoḷu<br/>avanal/avanali/avanalli | avaḷoḷ/avaḷoḷu<br/>avaḷal/avaḷali/avaḷalli | avaroḷ/avaroḷu<br/>avaral/avarali/avaralli | adaṟoḷ/adaṟoḷu<br/>adaroḷ/adaroḷu<br/>adaral/adarali/adaralli | (avoḷ/avoḷu<br/>aval/avali/avalli)? | avugaḷoḷ/avugaḷoḷu<br/>avugaḷal/avugaḷali/avugaḷalli
 
