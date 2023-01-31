@@ -69,7 +69,7 @@ This section refers to the relevant parts from the [Introduction and Context](#p
 ### Kannada Pronominal Forms
 
 As a referance for the upcoming investigation and discussion, most of the first-person, second-person,  third-person, interrogative
-and [reflexive](https://en.wikipedia.org/wiki/Reflexive_pronoun) found in [Old](https://en.wikipedia.org/wiki/Old_Kannada),
+and [reflexive](https://en.wikipedia.org/wiki/Reflexive_pronoun) pronominal forms found in [Old](https://en.wikipedia.org/wiki/Old_Kannada),
 [Middle](https://en.wikipedia.org/wiki/Kannada#Middle_Kannada) and [Modern Kannada](https://en.wikipedia.org/wiki/Kannada#Modern_Kannada),
 including their grammatical [case](https://en.wikipedia.org/wiki/Grammatical_case), gender and number variations are given below.
 For the sake of brevity, some of the regional/dialectical variations in the pronominal forms ([accusative](https://en.wikipedia.org/wiki/Accusative_case) `anna` suffix, [locative](https://en.wikipedia.org/wiki/Locative_case) `oḷage`/`oḷaga`, `āge`/`āga` suffix) have been omitted.
