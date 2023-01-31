@@ -59,10 +59,10 @@ This document is an investigation into the reasons behind this regularity in the
 
 Due to the complexity and subtlety involved in the investigation of the pronoun forms in Kannada and other [Dravidian languages](https://en.wikipedia.org/wiki/Dravidian_languages), this document has become unavoidably detailed and long.
 So, for the ease of access, publishing, collaboration, revision tracking as well as for some technical reasons, this document has been split into two parts.
-- [Introduction and Context](#introduction-and-context) - The current document.
+- [Introduction and Context](#provenance-of-pronouns) - The current document.
 A brief introduction to the topic and the context for this investigation, such as a listing of the various pronoun forms in Kannada and other Dravidian languages and highlights of some relevant existing scholarly work can be seen here.
 - [Provenance of Pronouns](Provenance%20of%20Pronouns.md) - The actual investigation of pronoun roots of Kannada and other Dravidian languages.
-This section refers to the relevant parts from the [Introduction and Context](#introduction-and-context) section as required during the investigation of the pronoun roots of Kannada and other Dravidian languages. 
+This section refers to the relevant parts from the [Introduction and Context](#provenance-of-pronouns) section as required during the investigation of the pronoun roots of Kannada and other Dravidian languages. 
 
 ## Context
 
