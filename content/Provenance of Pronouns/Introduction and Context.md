@@ -80,7 +80,7 @@ More details about this can be seen [here]().
 
 #### Third-person, distal demonstrative (a)
 
-Grammatical Case | Masculine Singular | Feminine  Singular | [Rational](https://en.wikipedia.org/wiki/Noun_class#Common_criteria_for_noun_classes) Plural |	Neuter Singular | Neuter Plural | Neuter Ploral 'gaḷ' suffix 
+Grammatical Case | Masculine Singular | Feminine  Singular | [Rational](https://en.wikipedia.org/wiki/Noun_class#Common_criteria_for_noun_classes) Plural |	Neuter Singular | Neuter Plural | Neuter Plural 'gaḷ' suffix 
 --- | --- | --- | --- | --- | --- | ---
 [Nominative](https://en.wikipedia.org/wiki/Nominative_case) | avaṁ/avan/avanu | avaḷ/avaḷu | avar/avaru | adu | avu | avugaḷ/avugaḷu 
 [Accusative](https://en.wikipedia.org/wiki/Accusative_case) | avanaṁ/avana/avananu/avanannu | avaḷaṁ/avaḷa/avaḷanu/avaḷannu | avaraṁ/avara/avaranu/avarannu | adaṁ/ada/adanu/adannu<br/>adaṟaṁ | (avaṁ/ava/avanu)?/avannu | avugaḷaṁ/avugaḷa/avugaḷanu/avugaḷannu 
@@ -94,7 +94,7 @@ The distal [demonstrative determiner](https://en.wikipedia.org/wiki/Demonstrativ
 
 #### Third-person, proximal demonstrative (i)
 
-Grammatical Case | Masculine Singular | Feminine  Singular | [Rational](https://en.wikipedia.org/wiki/Noun_class#Common_criteria_for_noun_classes) Plural |	Neuter Singular | Neuter Plural | Neuter Ploral 'gaḷ' suffix 
+Grammatical Case | Masculine Singular | Feminine  Singular | [Rational](https://en.wikipedia.org/wiki/Noun_class#Common_criteria_for_noun_classes) Plural |	Neuter Singular | Neuter Plural | Neuter Plural 'gaḷ' suffix 
 --- | --- | --- | --- | --- | --- | ---
 Nominative | ivaṁ/ivan/ivanu | ivaḷ/ivaḷu | ivar/ivaru | idu | ivu | ivugaḷu
 Acusaive | ivanaṁ/ivana/ivananu/ivanannu | ivaḷaṁ/ivaḷa/ivaḷanu/ivaḷannu | ivaraṁ/ivara/ivaranu/ivarannu | idaṁ/ida/idanu/idannu<br/>idaṟaṁ | (ivaṁ/iva/ivanu)?/ivannu | ivugaḷaṁ/ivugaḷa/ivugaḷanu/ivugaḷannu
