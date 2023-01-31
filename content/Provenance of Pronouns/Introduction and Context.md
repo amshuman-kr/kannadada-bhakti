@@ -170,4 +170,5 @@ As mentioned [above](#note), the actual investigation of the pronoun forms in Ka
 
 ## Revisions
 
+- The [Kannada Pronominal Forms](#kannada-pronominal-forms) section has been translated.
 - The [Introduction](#introduction) section is translated.
