@@ -81,7 +81,7 @@ More details about this can be seen [here]().
 #### Third-person, distal demonstrative (a)
 
 Grammatical Case | Masculine Singular | Feminine  Singular | [Rational](https://en.wikipedia.org/wiki/Noun_class#Common_criteria_for_noun_classes) Plural |	Neuter Singular | Neuter Plural | Neuter Plural 'gaḷ' suffix 
---- | --- | --- | --- | --- | --- | ---
+:-- | :-- | :-- | :-- | :-- | :-- | :--
 [Nominative](https://en.wikipedia.org/wiki/Nominative_case) | avaṁ/avan/avanu | avaḷ/avaḷu | avar/avaru | adu | avu | avugaḷ/avugaḷu 
 [Accusative](https://en.wikipedia.org/wiki/Accusative_case) | avanaṁ/avana/avananu/avanannu | avaḷaṁ/avaḷa/avaḷanu/avaḷannu | avaraṁ/avara/avaranu/avarannu | adaṁ/ada/adanu/adannu<br/>adaṟaṁ | (avaṁ/ava/avanu)?/avannu | avugaḷaṁ/avugaḷa/avugaḷanu/avugaḷannu 
 [Instrumental](https://en.wikipedia.org/wiki/Instrumental_case)/[Ablative](https://en.wikipedia.org/wiki/Ablative_case) | avaniṁ/avaniṁda | avaḷiṁ/avaḷiṁda | avariṁ/avariṁda | adaṟiṁ/adaṟiṁda<br/>adariṁ/adariṁda | (aviṁ/aviṁda)? | avugaḷiṁ/avugaḷiṁda
@@ -95,7 +95,7 @@ The distal [demonstrative determiner](https://en.wikipedia.org/wiki/Demonstrativ
 #### Third-person, proximal demonstrative (i)
 
 Grammatical Case | Masculine Singular | Feminine  Singular | [Rational](https://en.wikipedia.org/wiki/Noun_class#Common_criteria_for_noun_classes) Plural |	Neuter Singular | Neuter Plural | Neuter Plural 'gaḷ' suffix 
---- | --- | --- | --- | --- | --- | ---
+:-- | :-- | :-- | :-- | :-- | :-- | :--
 Nominative | ivaṁ/ivan/ivanu | ivaḷ/ivaḷu | ivar/ivaru | idu | ivu | ivugaḷu
 Acusaive | ivanaṁ/ivana/ivananu/ivanannu | ivaḷaṁ/ivaḷa/ivaḷanu/ivaḷannu | ivaraṁ/ivara/ivaranu/ivarannu | idaṁ/ida/idanu/idannu<br/>idaṟaṁ | (ivaṁ/iva/ivanu)?/ivannu | ivugaḷaṁ/ivugaḷa/ivugaḷanu/ivugaḷannu
 Instrumental/Ablative | ivaniṁ/ivaniṁda | ivaḷiṁ/ivaḷiṁda | ivariṁ/ivariṁda | idaṟiṁ/idaṟiṁda<br/>idariṁ/idariṁda | (iviṁ/iviṁda)? | ivugaḷiṁ/ivugaḷiṁda
@@ -108,7 +108,7 @@ The proximal demonstrative determiner forms is `ī`.
 #### First-person
 
 Grammatical Case | Singular, starting with the consonant `n` | Singular, starting with a vowel | Plural, starting with the consonant `n` | Plural, starting with a vowel
---- | --- | --- | --- | ---
+:-- | :-- | :-- | :-- | :--
 Nominative | nāṁ/nā/nān/nānu | āṁ/ān/ānu | nām/nāv/nāvu | ām (āv/āvu)?
 Accusative | nannaṁ/nanna/nannanu/nannannu | ennaṁ/enna/ennanu/ennannu | nammaṁ/namma/nammanu/nammannu | emmaṁ/emma/emmanu/emmannu
 Instrumental/Ablative | nanniṁ/nanniṁda | enniṁ enniṁda | (nammiṁ)? nammiṁda | (emmiṁ)? emmiṁda
@@ -119,7 +119,7 @@ Locative | nannoḷ/nannoḷu<br/>nannal/nannali/nannalli | ennoḷ/ennoḷu<br/
 #### Second-person
 
 Grammatical Case | Singular | Plural
---- | --- | ---
+:-- | :-- | :--
 Nominative | nīṁ/nī/nīn/nīnu | nīm/nīv/nīvu
 Accusative | ninnaṁ/ninna/ninnanu/ninnannu | nimmaṁ/nimma/nimmanu/nimmannu
 Instrumental/Ablative | ninniṁ/ninniṁda | (nimmiṁ)? nimmiṁda
@@ -130,7 +130,7 @@ Locative | ninnoḷ/ninnoḷu<br/>ninnal/ninnali/ninnalli | nimmoḷ/nimmoḷu<b
 #### Interrogative, starting with a vowel
 
 Grammatical Case | Masculine Singular | Feminine Singular | Rational Plural | Neuter Singular | Neuter Plural
---- | --- | --- | --- | --- | ---
+:-- | :-- | :-- | :-- | :-- | :--
 Nominative | āvaṁ/āva/āvan/āvanu | āvaḷ/āvaḷu | ār/āru<br/>(āvaru)? | āvudu | āvuvu<br/>āvuvugaḷu
 Accusative | āvanaṁ/āvana/āvananu/āvanannu | āvaḷaṁ/āvaḷa/āvaḷanu/āvaḷannu | āraṁ/āra/āranu/ārannu | āvudaṁ/āvuda/āvudanu/āvudannu | āvuvaṁ/āvuva/āvuvanu/āvuvannu<br/>(āvuvugaḷaṁ/avuvugaḷa/āvuvugaḷanu/āvuvugaḷannu)?
 Instrumental/Ablative | āvaniṁ/āvaniṁda | āvaḷiṁ/āvaḷiṁda | āriṁ/āriṁda | āvudaṟiṁ/āvudaṟiṁda | (āvuviṁ/āvuviṁda)?<br/> āvuvugaḷiṁ/āvuvugaḷiṁda
@@ -143,7 +143,7 @@ The [interrogative determiner](https://en.wikipedia.org/wiki/Determiner#Interrog
 #### Interrogative, starting with the consonant y
 
 Grammatical Case | Masculine Singular | Feminine Singular | Rational Plural |	Neuter Singular | Neuter Plural
---- | --- | --- | --- | --- | ---
+:-- | :-- | :-- | :-- | :-- | :--
 Nominative | (yāvaṁ/yāva)?<br/>yāvan/yāvanu | yāvaḷ/yāvaḷu | yār/yāru<br/>(yāvaru)? | yāvudu | yāvuvu<br/>yāvuvugaḷu
 Accusative | yāvanaṁ/yāvana/yāvananu/yāvanannu | yāvaḷaṁ/yāvaḷa/yāvaḷanu/yāvaḷannu | yāraṁ/yāra/yāranu/yārannu | yāvudaṁ/yāvuda/yāvudanu/yāvudannu | yāvuvaṁ/yāvuva/yāvuvanu/yāvuvannu<br/>(yāvuvugaḷaṁ/yāvuvugaḷa/yāvuvugaḷanu/yāvuvugaḷannu)?
 Instrumental/Ablative | yāvaniṁ/yāvaniṁda | yāvaḷiṁ/yāvaḷiṁda | yāriṁ/yāriṁda | yāvudaṟiṁ/yāvudaṟiṁda | (yāvuviṁ/yāvuviṁda)?<br/>yāvuvugaḷiṁ/yāvuvugaḷiṁda
@@ -156,7 +156,7 @@ The interrogative determiner form is `yāva`.
 #### Reflexive
 
 Grammatical Case | Singular | Plural
---- | --- | ---
+:-- | :-- | :--
 Nominative | tāṁ/tā/tān/tānu | tām/tāv/tāvu
 Accusative | tannaṁ/tanna/tannanu/tannannu | tammaṁ/tamma/tammanu/tammannu
 Instrumental/Ablative | tanniṁ/tanniṁda | (tammiṁ)? tammiṁda
