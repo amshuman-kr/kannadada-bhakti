@@ -72,6 +72,10 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
       - ["A Comparative grammar of the Dravidian", Chapter "Pronouns", Page <a href="https://archive.org/details/acomparitivegrammarofdravidianlanguagesrobertcaldwell1856bookmark_589_l/page/346/mode/2up" rel="nofollow">346</a>](#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-346)
       - ["A Comparative grammar of the Dravidian", Chapter "Pronouns", Page <a href="https://archive.org/details/acomparitivegrammarofdravidianlanguagesrobertcaldwell1856bookmark_589_l/page/347/mode/2up" rel="nofollow">347</a>](#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-347)
       - ["A Comparative grammar of the Dravidian", Chapter "Pronouns", Page <a href="https://archive.org/details/acomparitivegrammarofdravidianlanguagesrobertcaldwell1856bookmark_589_l/page/348/mode/2up" rel="nofollow">348</a>](#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-348)
+  - [Masti Venkatesha Iyengar](#masti-venkatesha-iyengar)
+    - ["namma nuḍi", Chapter "vacana, vibhakti pratyayagaḷu", Page 52](#namma-nuḍi-chapter-vacana-vibhakti-pratyayagaḷu-page-52)
+    - ["namma nuḍi", Chapter "vacana, vibhakti pratyayagaḷu", Page 53](#namma-nuḍi-chapter-vacana-vibhakti-pratyayagaḷu-page-53)
+    - [Summary](#summary-2)
 - [Continuation](#continuation)
 - [Revisions](#revisions)
 
@@ -547,12 +551,42 @@ So, according to Caldwell, the main forms of the interrogative pronoun in Kannad
 Nominative | yāvanu,yāvaḷu/yāvudu,yāru | yāvan/yāvaḷ/yād/yār<br/>evan/evaḷ/ed/ēvar<br/>ār | yāvan/yāvaḷ/yār<br/>evan/evaḷ/ed/ēvar<br/>ār || evaḍu/ēdi/evaru
 Interrogative suffix | ā | ā | ā | ā | ā
 
+### Masti Venkatesha Iyengar
+
+[Masti Venkatesha Iyengar](https://en.wikipedia.org/wiki/Masti_Venkatesha_Iyengar), in his book "[namma nuḍi](https://www.sapnaonline.com/verify/books/namma-nudi-masti-venkatesha-8177470493-9788177470499)", has a slightly different take on the pronouns in Kannada and other Dravidian Languages than Robert Caldwell.
+
+#### "namma nuḍi", Chapter "vacana, vibhakti pratyayagaḷu", Page 52
+
+> 67. kannaḍa sarvanāmagaḷu ivu.
+
+> ... tamiḷinalli ān, nān eṁdu idda śabda teluginalli ēnu, nēnu eṁdāyitu eṁdu hēḷuvudu vāḍike. iveraḍakkū mūladalli oṁdu madhyasthavāda svara iddirabēku. adu oṁdu bhāṣege ā eṁdu innoṁdakke ē eṁdu iḷiyitu eṁdu hēḷuvudu heccu sariyāgabahudu.
+
+> maryādeyalli nīṁgaḷ, avargaḷ muṁtāgi gaḷ heccāgi sēruvuduṁṭu. ī padagaḷa hōlikeya mēle nāṁgaḷ eṁdu pada āguttade. tamiḷ, telugu, maleyāḷa bhāṣegaḷalli prathama puruṣada sarvanāmada
+
+> <sub> [Continues in page 53.]</sub>
+
+####  "namma nuḍi", Chapter "vacana, vibhakti pratyayagaḷu", Page 53
+
+> bahuvacanadalli eraḍu rūpagaḷiveyeṁdū avugaḷalli oṁdu, 'nīvū sēri nāvu', eṁba arthavannū innoṁdu, 'nimmannu biṭṭu nāvu', eṁba arthavannū koḍuttaveṁdū tiḷiyuttade. kannaḍadalli ī bhēda kāṇuvudilla.
+
+> 68. ... yāru prāyaśaḥ bahuvacana. ādare yāvanu yāvaḷu ennuvudu udda heccu eṁba kāraṇadiṁdalō yāru ēkavacanadaṁte prayōgakke baṁdide. avanu (avaḷu). "yāru baṁdaddu?"
+
+#### Summary
+
+It is generally said that `ān`, `nān` of Tamil become `ēnu`, `nēnu` in Telugu.
+It might be more appropriate to say that, originally, there was an intermediate vowel which descended as `ā` to one language and `ē` to the other.
+
+In the rational plural (and [plurals of respect](https://en.wikipedia.org/wiki/Royal_we)), an extra `gaḷ` suffix can appear, producing `nīṁgaḷ`, `avargaḷ` and the similar first-person version `nāṁgaḷ`.
+Tamil, Telugu and Malayalam have this kind of two variations of the first-person plural which differ in [clusivity](https://en.wikipedia.org/wiki/Clusivity).
+Kannada has similar two variations of the first-person plural but does not have the clusivity difference.
+
 ## Continuation
 
 As mentioned [above](#note), the actual investigation of the pronoun forms in Kannada and other Dravidian languages and other related topics is continued [here](Provenance%20of%20Pronouns.md).
 
 ## Revisions
 
+- The [Masti Venkatesha Iyengar](#masti-venkatesha-iyengar) section has been translated.
 - The [śabdamaṇidarpaṇaṁ of kēśirāja](#śabdamaṇidarpaṇaṁ-of-kēśirāja) and [Robert Caldwell](#robert-caldwell) sections have been translated.
 - The [Kannada Pronominal Forms](#kannada-pronominal-forms) section has been translated.
 - The [Introduction](#introduction) section is translated.
