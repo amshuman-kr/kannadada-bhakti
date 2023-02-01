@@ -261,7 +261,7 @@ vr̥tti - adu idu udu eṁbivaṟa kaḍeya dukārakke pulliṁgadoḷ vakārād
 
 prayōgaṁ -
     vakārādēśakke: avaṁ ivaṁ uvaṁ eṁdu.
-    bahuvacanakke: avar ivar uvar eṁdu.1
+    bahuvacanakke: avar ivar uvar eṁdu.
     takārādēśakke: ātanītanūtaneṁdu.
         ātaṁ <sup>2</sup>duryōdhananiṁ-
         tītaṁ<sup>2</sup> ravijātanūtanaśvatthāmaṁ|
