@@ -6,10 +6,6 @@
 
 This document was originally published in Kannada and that original Kannada version can be seen [here](../ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಪ್ರಸ್ತಾವನೆ%20ಮತ್ತು%20ಪೂರ್ವಪಕ್ಷ.md).
 
-This is a partial and progressive English translation of the original Kannada document.
-Due to time constraint, I plan to translate one section at a time.
-I apologize for the inconvenience caused by this approach to translation.
-
 ## About Transliteration
 
 Kannada and other Dravidian words and word fragments are transliterated in this document using [ISO 15919](https://en.wikipedia.org/wiki/ISO_15919) wherever possible and is unambiguous.
@@ -76,8 +72,15 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
     - ["namma nuḍi", Chapter "vacana, vibhakti pratyayagaḷu", Page 52](#namma-nuḍi-chapter-vacana-vibhakti-pratyayagaḷu-page-52)
     - ["namma nuḍi", Chapter "vacana, vibhakti pratyayagaḷu", Page 53](#namma-nuḍi-chapter-vacana-vibhakti-pratyayagaḷu-page-53)
     - [Summary](#summary-2)
+  - [Tulu Pronominal Forms](#tulu-pronominal-forms)
+    - [First-person](#first-person-1)
+    - [Second-person](#second-person-1)
+    - [Third-person, distal demonstrative (a)](#third-person-distal-demonstrative-a-1)
+    - [Third-person, proximal demonstrative (ŭ)](#third-person-proximal-demonstrative-ŭ)
+    - [Interrogative](#interrogative)
 - [Continuation](#continuation)
 - [Revisions](#revisions)
+
 
 ## License
 
@@ -580,12 +583,76 @@ In the rational plural (and [plurals of respect](https://en.wikipedia.org/wiki/R
 Tamil, Telugu and Malayalam have this kind of two variations of the first-person plural which differ in [clusivity](https://en.wikipedia.org/wiki/Clusivity).
 Kannada has similar two variations of the first-person plural but does not have the clusivity difference.
 
+### Tulu Pronominal Forms
+
+One of the main keys to unlocking the origins of the pronominal forms of Kannada and all the Dravidian languages seem to be hidden in the Tulu pronouns.
+But Masti Venkatesha Iyengar has not discussed Tulu pronouns and Caldwell's discussion of Tulu pronouns is incomplete.
+So, as a reference for the upcoming investigation, it is necessary to list the Tulu pronominal forms with their regional/dialectal variations.
+
+For this, the "Pronouns" chapter (pages 142 through 162) of Dr. Padmanabha Kekunnaya's book "A Comparative Study of Tulu Dialects" is the source.
+But for the sake of brevity, only the summary and the lists are given and the source text has not been quoted.
+
+In pronouns and elsewhere, Tulu uses some vowels which are rare (almost lost) in Kannada.
+Mainly, these are `ŭ`/`ɯ` and `æ`.
+These vowels too have [short (`ɯ`/`ɯː`) and long (`æ`/`æː`)](https://en.wikipedia.org/wiki/Length_(phonetics)) forms.
+
+More details about these exotic (in Indian Languages, i.e.) vowels can be seen [here](../ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md). Please note that the document is in Kannada and is yet to be translated to English.
+
+As Masti Venkatesha Iyengar mentions above, Tulu also has the two first-person plural forms which differ in clusivity,
+though, like he notes, Kannada doesn't have the clusivity distinction between its two first-person plural forms.
+
+#### First-person
+
+&nbsp; | Singular | Plural, exclusive | Plural, inclusive
+:-- | :-- | :-- | :--
+Nominative | ēnŭ | eṁkḷŭ | namo
+Inflexional substitute | en | eṁkḷe/eṁkḷæ | nama<br/>naṁ/naṅ
+Grammatical gender suffixes of finite verb forms | æ | o | o
+
+#### Second-person
+
+&nbsp; | Singular | Plural
+:-- | :-- | :--
+Nominative | ī | ikḷŭ/iṁkḷŭ/iṁkŭḷŭ<br>nikḷŭ/niṁkḷŭ/nigŭlŭ<br/>īrŭ
+Inflexional substitute | in/iṁ/iṅ<br/>nin/niṁ/niṅ/nik | ikḷe/ikḷæ/iṁkḷe/iṁkḷæ<br/>nikḷe/nikḷæ/niṁkḷe/niṁkḷæ/nigŭle/nigŭlæ/nigale/nigalæ<br/>īre/īræ
+Grammatical gender suffixes of finite verb forms | a | arŭ
+
+#### Third-person, distal demonstrative (a)
+
+&nbsp; | Masculine Singular | Feminine Singular | Rational Plural | Neuter Singular | Neuter Plural
+:-- | :-- | :-- | :-- | :-- | :--
+Nominative | āye | āḷŭ | ākḷu/ākḷŭ/agŭlŭ<br/>ārŭ | avu | avu/abo/aykakḷu/aykulu
+Inflexional substitute | āya/āye/āyæ | āḷe/āḷæ/aḷe | ākḷe/ākḷæ/āgŭle/agŭlæ<br/>āre/āræ | ayi/avu | ave/abe<br/>aykakḷe/aykule
+Grammatical gender suffixes of finite verb forms | e | aḷŭ | erŭ | (ŭ?)nŭ | o
+
+The distal demonstrative determiner form is `ā`.
+
+#### Third-person, proximal demonstrative (ŭ)
+
+&nbsp; | Masculine Singular | Feminine Singular | Rational Plural | Neuter Singular | Neuter Plural
+:-- | :-- | :-- | :-- | :-- | :--
+Nominative | ŭṁbye/uṁbe/iṁbye/iṁbe | ŭṁbaḷŭ/uṁbaḷŭ/ŭṁboḷŭ/iṁbaḷŭ/iṁboḷŭ/mōḷŭ | mekḷŭ/ŭṁbekḷŭ/ŭṁbakḷŭ/iṁbekḷŭ/mokḷŭ/mōgulŭ/mogalŭ<br/>ŭṁberŭ/iṁberŭ/mērŭ | ŭṁdu/uṁdu/iṁdu/iṁdŭ | ŭṁbu/ŭṁbo<br/>iṁdekḷŭ/uṁdekḷŭ/nēkḷŭ<br/>iṁdeklu/uṁdeklu/nekkulu
+Inflexional substitute | ŭṁbya/iṁbya/iṁbe | ŭṁbaḷe/ŭṁbaḷæ/iṁbaḷe/iṁbaḷæ/mūḷe/mūḷæ | mekḷe/mekḷæ/ŭṁbekḷe/ŭṁbekḷæ/ŭṁbakḷe/ŭṁbakḷæ/iṁbekḷe/iṁbekḷæ/iṁbakḷe/iṁbakḷæ/mokḷe/mokḷæ/mogŭle/mogŭlæ/mogale/mogalæ<br/>ŭṁbere/ŭṁberæ/iṁbere/iṁberæ/mēre/mēræ | ŭṁde/uṁde/iṁde/une/ne | ŭṁbe/iṁdekḷe/iṁdekḷæ/uṁdekḷe/uṁdaklæ/nekḷe/nekḷæ/iṁdekle/iṁdeklæ/uṁdekle/uṁdeklæ/nekkule/nekkulæ
+Grammatical gender suffixes of finite verb forms | e | aḷŭ | erŭ | (ŭ?)nŭ | o
+
+The proximal demonstrative determiner form is `ī`.
+
+#### Interrogative
+
+&nbsp; | Rational Singular/Plural | Neuter Singular | Neuter Plural
+:-- | :-- | :-- | :--
+Nominative | ērŭ | ovu/ōvu/evu | oykalŭ/oyikŭlŭ
+Inflexional substitute | ēre/ēræ | oyi | oyikḷe/oyikḷæ/oyikule/oyikulæ
+
+The interrogative suffix is `ā` and the interrogative determiner form is `vā`.
+
 ## Continuation
 
 As mentioned [above](#note), the actual investigation of the pronoun forms in Kannada and other Dravidian languages and other related topics is continued [here](Provenance%20of%20Pronouns.md).
 
 ## Revisions
 
+- The [Tulu Pronominal Forms](#tulu-pronominal-forms) section has been translated.
 - The [Masti Venkatesha Iyengar](#masti-venkatesha-iyengar) section has been translated.
 - The [śabdamaṇidarpaṇaṁ of kēśirāja](#śabdamaṇidarpaṇaṁ-of-kēśirāja) and [Robert Caldwell](#robert-caldwell) sections have been translated.
 - The [Kannada Pronominal Forms](#kannada-pronominal-forms) section has been translated.
