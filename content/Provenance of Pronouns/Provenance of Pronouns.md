@@ -73,4 +73,4 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 - [Background](#background) and [Summary](#summary) sections are translated.
 
-A more detailed revision history can be seen [here](../../../../commits/main/content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md).
+A more detailed revision history can be seen [here](../../../../commits/main/content/Provenance%20of%20Pronouns/Provenance%20of%20Pronouns.md).
