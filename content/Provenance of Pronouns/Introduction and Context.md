@@ -657,3 +657,5 @@ As mentioned [above](#note), the actual investigation of the pronoun forms in Ka
 - The [śabdamaṇidarpaṇaṁ of kēśirāja](#śabdamaṇidarpaṇaṁ-of-kēśirāja) and [Robert Caldwell](#robert-caldwell) sections have been translated.
 - The [Kannada Pronominal Forms](#kannada-pronominal-forms) section has been translated.
 - The [Introduction](#introduction) section is translated.
+
+A more detailed revision history can be seen [here](../../../../commits/main/content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md).
