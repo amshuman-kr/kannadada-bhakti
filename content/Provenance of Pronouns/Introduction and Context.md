@@ -658,4 +658,4 @@ As mentioned [above](#note), the actual investigation of the pronoun forms in Ka
 - The [Kannada Pronominal Forms](#kannada-pronominal-forms) section has been translated.
 - The [Introduction](#introduction) section is translated.
 
-A more detailed revision history can be seen [here](../../../../commits/main/content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md).
+A more detailed revision history can be seen [here](../../../../commits/main/content/Provenance%20of%20Pronouns/Provenance%20of%20Pronouns.md).
