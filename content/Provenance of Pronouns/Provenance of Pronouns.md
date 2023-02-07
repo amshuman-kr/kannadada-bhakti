@@ -814,8 +814,8 @@ are not without a sense of irony.
 
 It is lucky that ordinary Kannadigas did not fall into this trap as they have been using `iṁ`/`iṁda` as ablative suffixes freely.
 The constructions `attaṇiṁ` and `deseyiṁda` never really caught on.
-That even the grammarians who declared the motto "*prayōgaśaraṇāḥ vaiyākaraṇāḥ*" stumbled in this way is a reminder to all of us to 
-think a hundred times before declaring any usage in language as incorrect or ungrammatical.
+That even the grammarians who declared the motto "*prayōgaśaraṇāḥ vaiyākaraṇāḥ*" stumbled in this way is a reminder to us all
+to think a hundred times before declaring any usage in language as incorrect or ungrammatical.
 
 Now that it is clear that the third-person proximal demonstrative pronominal root `im̐`/`ɪ̃` is also used in Kannada as the instrumental/ablative suffix,
 it is not hard to see that its distal counterpart, the third-person distal demonstrative pronominal root `am̐`/`ə̃`,
