@@ -61,7 +61,6 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
 - [Summary](#summary-1)
 - [Revisions](#revisions)
 
-
 ## License
 
 [![GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://www.gnu.org/graphics/gplv3-127x51.png) ![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](../README.md#ಪರವಾನಗಿ--license)
@@ -830,7 +829,7 @@ thus, achieving the accusative semantics.
 not just by comparison with the proximal counterpart `im̐`/`ɪ̃` being used in Kannada as the instrumental/ablative suffix,
 but also by the processes of derivation and their implication on semantics.*
 
-#### The medial/presentative `udu` and the collectivising/conjugating suffix `uṁ`
+#### The medial/presentative udu and the collectivising/conjugating suffix uṁ
 
 In Old Kannada, `uṁ` is used as a collectivising/conjugating suffix.
 This is mentioned in śabdamaṇidarpaṇaṁ, verse [133](https://archive.org/details/abdamaidarpaa00kirjuoft/page/177/mode/1up).
