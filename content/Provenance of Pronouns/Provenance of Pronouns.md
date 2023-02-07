@@ -813,7 +813,7 @@ To paraphrase a famous movie dialogue, grammar gods (i.e., [Goddess Saraswati](h
 are not without a sense of irony.
 
 It is lucky that ordinary Kannadigas did not fall into this trap as they have been using `iṁ`/`iṁda` as ablative suffixes freely.
-The constructions `attaṇiṁ` and `deseyiṁ` never really caught on.
+The constructions `attaṇiṁ` and `deseyiṁda` never really caught on.
 That even the grammarians who declared the motto "*prayōgaśaraṇāḥ vaiyākaraṇāḥ*" stumbled in this way is a reminder to all of us to 
 think a hundred times before declaring any usage in language as incorrect or ungrammatical.
 
