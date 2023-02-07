@@ -54,12 +54,11 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
     - [Semantics of and the processes behind aṁta/iṁta/eṁta](#semantics-of-and-the-processes-behind-aṁtaiṁtaeṁta)
     - [Are the third-person demonstrative pronominal roots nasalised?](#are-the-third-person-demonstrative-pronominal-roots-nasalised)
     - [Third-person demonstrative pronouns in Kannada and their relationship to case suffixes](#third-person-demonstrative-pronouns-in-kannada-and-their-relationship-to-case-suffixes)
-    - [The medial/presentative udu and the collectivising/conjugating suffix uṁ](#the-medialpresentative-udu-and-the-collectivisingconjugating-suffix-uṁ)
+    - [The medial/presentative udu and the aggregating suffix uṁ](#the-medialpresentative-udu-and-the-aggregating-suffix-uṁ)
       - [Verse 133](#verse-133)
         - [Summary](#summary)
   - [Indo-European Languages](#indo-european-languages)
 - [Summary](#summary-1)
-- [Revisions](#revisions)
 
 ## License
 
