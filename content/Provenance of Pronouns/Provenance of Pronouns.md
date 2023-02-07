@@ -829,9 +829,9 @@ thus, achieving the accusative semantics.
 not just by comparison with the proximal counterpart `im̐`/`ɪ̃` being used in Kannada as the instrumental/ablative suffix,
 but also by the processes of derivation and their implication on semantics.*
 
-#### The medial/presentative udu and the collectivising/conjugating suffix uṁ
+#### The medial/presentative udu and the aggregating suffix uṁ
 
-In Old Kannada, `uṁ` is used as a collectivising/conjugating suffix.
+In Old Kannada, `uṁ` is used as an aggregating suffix.
 This is mentioned in śabdamaṇidarpaṇaṁ, verse [133](https://archive.org/details/abdamaidarpaa00kirjuoft/page/177/mode/1up).
 
 ##### Verse 133
@@ -868,7 +868,7 @@ prayōgaṁ -
 
 ###### Summary
 
-The collectivising/conjugating suffixes `aṁ`/`uṁ` do not apply in the genitive case; in the accusative case they apply before the accusative suffix;
+The aggregating suffixes `aṁ`/`uṁ` do not apply in the genitive case; in the accusative case they apply before the accusative suffix;
 in the other cases they apply after the case suffixes.
 
 In Modern Kannada (perhaps in Middle Kannada too), `uṁ` has turned into `ū`.
@@ -878,9 +878,9 @@ For example,
 
 As already discussed [above](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u), original semantics of the
 medial demonstrative pronominal root `um̐`/`ũ` is *presentative*.
-In light of this, it becomes clear that the collectivising/conjugating suffixes, `uṁ` in Old Kannada and `ū` in Modern Kannada,
+In light of this, it becomes clear that the aggregating suffixes, `uṁ` in Old Kannada and `ū` in Modern Kannada,
 are originally derived from the presentative pronominal root `um̐`/`ũ`,
-because the role of the collectivising/conjugating suffixes `uṁ`/`ū` is to present more one or more things so that the rest of the sentence
+because the role of the aggregating suffixes `uṁ`/`ū` is to present more one or more things so that the rest of the sentence
 can continue on about them.
 
 The derivation process could be as follows.
@@ -903,10 +903,10 @@ so that the `kāḍige hōdaru` can be said only once but still apply to all of 
 Similarly, in Old Kannada, `naranuṁ naranaṁdananaṁ`, `kāliṁdeyuṁ kaiyiṁdeyuṁ`, `drōṇaṁgaṁ ninagaṁ`, `jādiyattaṇiṁdeyuṁ kēdageyattaṇiṁdeyuṁ`,
 `caladoḷamācāradoḷaṁ`, `alliyumilliyumelliyaṁ` etc., `um` presents one or more things for the rest of the sentence.
 
-Though this analysis applies to the accusative case as well, the variation in Old Kannada of the collectivising/conjugating suffix  `um` 
+Though this analysis applies to the accusative case as well, the variation in Old Kannada of the aggregating suffix  `um` 
 applying before the accusative suffix (`aṁ`/`am̐`/`ə̃`) seems peculiar.
 I.e., in the above example from śabdamaṇidarpaṇaṁ, `avarumaṁ aṁtakanormeye`, i.e., `avar + uṁ + aṁ => avarumaṁ`.
-But in Modern Kannada (perhaps in Middle Kannada too), the collectivising/conjugating suffix `ū` applies after the accusative suffix
+But in Modern Kannada (perhaps in Middle Kannada too), the aggregating suffix `ū` applies after the accusative suffix
 just like in the other casess.
 For example, the Modern Kannada "translation" of the above Old Kannada example would be `avarannū aṁtakanommeye`,
 i.e., `avar + annu + ū => avarannū`.
@@ -917,20 +917,20 @@ the accusative case indicates the target or object of the action indicated by th
 In a crude comparison to English grammar, it can be said that if the nominative case indicates the
 [`subject`](https://en.wikipedia.org/wiki/Subject_(grammar) in a sentence, the accusative case indicates the
 [`object`](https://en.wikipedia.org/wiki/Object_(grammar).
-In light of this, both orders of applying of collectivising/conjugating suffix and the accusative suffix can be considered logically sound.
+In light of this, both orders of applying of aggregating suffix and the accusative suffix can be considered logically sound.
 
 - Modern Kannada, like in other cases, seems to prefer to "objectify" the root word first by appending the accusative suffix `aṁ`/`am̐`/`ə̃`
-and then present it for the rest of the sentence by appending the collectivising/conjugating suffix `ū`.
+and then present it for the rest of the sentence by appending the aggregating suffix `ū`.
 
-- Old Kannada, in the accusative case, seems to prefer to present the root word first by appending the collectivising/conjugating suffix `um`
+- Old Kannada, in the accusative case, seems to prefer to present the root word first by appending the aggregating suffix `um`
 and then "objectify" it by appending the accusative suffix `aṁ`/`am̐`/`ə̃`.
 
-Since such "targetting/objectification" semantics is not relevant in the other cases, there is no difference between the collectivising/conjugating
+Since such "targetting/objectification" semantics is not relevant in the other cases, there is no difference between the aggregating
 processes in Old and Modern Kannada.
 
-This investigation of the collectivising/conjugating suffixes, `um` in Old Kannada and `ū` in Modern Kannada,
-not only shows that these collectivising/conjugating suffixes are originally derived from the presentative pronominal root `um̐`/`ũ`,
-but also clarifies the variation in the collectivising/conjugating processes between Old and Modern Kannada in the accusative case,
+This investigation of the aggregating suffixes, `um` in Old Kannada and `ū` in Modern Kannada,
+not only shows that these aggregating suffixes are originally derived from the presentative pronominal root `um̐`/`ũ`,
+but also clarifies the variation in the aggregating processes between Old and Modern Kannada in the accusative case,
 the lack of such variation in the other cases.
 This gives a glimpse of the depth of the semantics of the pronominal roots and the wide-ranging breadth of use Kannada has put them into.
 
@@ -966,7 +966,7 @@ In Kannada, it is also the [accusative](https://en.wikipedia.org/wiki/Accusative
 - The proximal demonstrative `im̐`/`ĩ`, medial/[*presentative*](https://ygdp.yale.edu/phenomena/dative-presentatives) `um̐`/`ũ` are the proximal and medial/*presentative* demonstrative pronominal roots correspondingly.
 They both (`im̐`/`ĩ` and `um̐`/`ũ`) are also the second-person pronominal roots.
 Among them, in Kannada, `im̐`/`ĩ` is also the root of the `iṁ` suffix which is widely known as the [instrumental](https://en.wikipedia.org/wiki/Instrumental_case) suffix but really is also the [ablative](https://en.wikipedia.org/wiki/Ablative_case) suffix.
-- The *presentative* `um̐`/`ũ` is also used as the *collectivising*/*conjunctive* suffix (`uṁ` in [Old Kannada](https://en.wikipedia.org/wiki/Old_Kannada) and `ū` in modern Kannada)
+- The *presentative* `um̐`/`ũ` is also used as the *aggregating* suffix (`uṁ` in [Old Kannada](https://en.wikipedia.org/wiki/Old_Kannada) and `ū` in modern Kannada)
 - Self-referential `æm̐`/`æ̃` is the first-person pronominal root.
 It is also the root of the *emphasising* suffix `ē`.
 - `æm̐`/`æ̃` with an interrogative tone is the interrogative pronominal root.
@@ -979,6 +979,8 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 ## Revisions
 
+- Changed the terminology *collectivising/conjugating suffix* to *aggregating suffix*.
+I am grateful to [Pooja P](https://twitter.com/puujup) for the suggestion.
 - [Third-person Pronominal Roots](#third-person-pronominal-roots) section is translated.
 - [Background](#background) and [Summary](#summary) sections are translated.
 
