@@ -210,7 +210,7 @@ Locative | tannoḷ/tannoḷu<br/>tannal/tannali/tannalli | tammoḷ/tammoḷu<b
 
 In his book [śabdamaṇidarpaṇaṁ](https://en.wikipedia.org/wiki/Shabdamanidarpana) on Old Kannada grammar, [kēśirāja](https://en.wikipedia.org/wiki/Kesiraja)
 explicitly mentions only `nīṁ`/`nīn` (only the forms starting with the consonant `n`), `āṁ`/`ān` (only the forms starting with a vowel) and `tāṁ`/`tān`
-for the second-person, first-person and reflexive pronouns respectively.
+for the second-person, first-person and reflexive pronouns, respectively.
 
 ##### Verse [157](https://archive.org/details/abdamaidarpaa00kirjuoft/page/211/mode/1up)
 
@@ -239,7 +239,7 @@ nin, en, tan eṁba prakr̥tigaḷa mēle gaḷāgamaṁ pattaloḍamādudaṁ: 
 
 ###### Summary
 
-In the nominative case, the second-person, first-person and the reflexive pronouns are `nīṁ`/`nīn`, `āṁ`/`ānu`, `tāṁ`/`tān` respectively.
+In the nominative case, the second-person, first-person and the reflexive pronouns are `nīṁ`/`nīn`, `āṁ`/`ānu`, `tāṁ`/`tān`, respectively.
 In the dative case, the inflected forms `nin`, `en`, `tan` with an `a` suffix (i.e. `nina`, `ena`, `tana`), appear as substitutes,
 producing `ninage`, `enage`, `tanage`.
 In the rest of the grammatical cases, the inflected forms `nin`, `en`, `tan` without the `a` suffix, appear as substitutes.
@@ -247,7 +247,7 @@ In the rest of the grammatical cases, the inflected forms `nin`, `en`, `tan` wit
 #### First-person Pronouns
 
 For the third-person/demonstrative pronominal forms, kēśirāja not only mentions the well-known distal `a` and proximal `i`,
-but also the medial `u` forms.
+but also the [medial](https://en.wikipedia.org/wiki/Medial#Linguistics) `u` forms.
 
 ##### Verse [161](https://archive.org/details/abdamaidarpaa00kirjuoft/page/215/mode/1up)
 
@@ -321,7 +321,7 @@ prayōgaṁ -
 
 ###### Summary
 
-The masculine singular and rational plural forms of the interrogative neuter gender singular pronoun `āvudu` are `āvaṁ` and `ār` respectively.
+The masculine singular and rational plural forms of the interrogative neuter gender singular pronoun `āvudu` are `āvaṁ` and `ār`, respectively.
 
 ### Robert Caldwell
 
