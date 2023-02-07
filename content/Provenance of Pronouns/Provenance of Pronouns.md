@@ -928,11 +928,11 @@ and then "objectify" it by appending the accusative suffix `aṁ`/`am̐`/`ə̃`.
 Since such "targetting/objectification" semantics is not relevant in the other cases, there is no difference between the aggregating
 processes in Old and Modern Kannada.
 
-This investigation of the aggregating suffixes, `um` in Old Kannada and `ū` in Modern Kannada,
+This investigation of the aggregating suffixes, `uṁ` in Old Kannada and `ū` in Modern Kannada,
 not only shows that these aggregating suffixes are originally derived from the presentative pronominal root `um̐`/`ũ`,
 but also clarifies the variation in the aggregating processes between Old and Modern Kannada in the accusative case,
 the lack of such variation in the other cases.
-This gives a glimpse of the depth of the semantics of the pronominal roots and the wide-ranging breadth of use Kannada has put them into.
+This gives a glimpse of the depth of the semantics of the pronominal roots and the wide-ranging breadth of use Dravidian languages have put them into.
 
 ### Indo-European Languages
 
