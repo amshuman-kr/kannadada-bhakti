@@ -979,7 +979,7 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 ## Revisions
 
 - Changed the terminology *collectivising/conjugating suffix* to *aggregating suffix*.
-I am grateful to [Pooja P](https://twitter.com/puujup) for the suggestion.
+I am grateful to [Pooja P](https://github.com/poojapi) for the suggestion.
 - [Third-person Pronominal Roots](#third-person-pronominal-roots) section is translated.
 - [Background](#background) and [Summary](#summary) sections are translated.
 
