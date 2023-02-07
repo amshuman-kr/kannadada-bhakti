@@ -722,15 +722,15 @@ to indicate a different physical or metaphorical direction from the semantics of
 In [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit), a single [ablative](https://en.wikipedia.org/wiki/Ablative_case) form `ākāśāt`
 has the semantics of both the example words `bānigiṁta` and `bāniṁda`.
 
-*[Sediyapu Krishna Bhat](https://kn.wikipedia.org/wiki/ಸೇಡಿಯಾಪು_ಕೃಷ್ಣಭಟ್ಟ), in his pathbreaking research article "*paṁcamī vibhakti*"
+[Sediyapu Krishna Bhat](https://kn.wikipedia.org/wiki/ಸೇಡಿಯಾಪು_ಕೃಷ್ಣಭಟ್ಟ), in his pathbreaking research article "*paṁcamī vibhakti*"
 (this article has been included by [Dr. Padekallu Vishnu Bhat](https://www.clubhouse.com/@padekallu?utm_medium=ch_profile&utm_campaign=wSPhDP4r4o-9Pe_zqseDBA-212445)
 in the book "*vicāraprapaṁca*" which is a collection of writings of Sediyapu Krishna Bhat),
 has argued against the modern scholarly consensus that Kannada doesn't have an ablative suffix and for ablative semantics too it use the
 [instrumental](https://en.wikipedia.org/wiki/Instrumental_case) suffix.
 He goes on to argue that the ostensibly instrumental suffixes in Kannada (`iṁ`, `iṁda` etc.) are really ablative suffixes
 and for the instrumental case, Kannada relies mostly on the [locative](https://en.wikipedia.org/wiki/Locative_case) suffix
-(for example, `kattiyalli kaḍi` etc.).*
-In support of this, he argues that some kind of *separation* is key to the ablative case.
+(for example, `kattiyalli kaḍi` etc.).
+In support of this, he argues that a kind of (physical or metaphorical) *separation* is key to the ablative case.
 I.e., in `maradiṁda haṇṇu bittu`, `maradiṁda` is the ablative form because of the separation of the fruit from the tree.
 Similarly, in `kattiyalli kaḍi`, `kattiyalli` is the instrumental form because `katti` is instrumental in the action `kaḍi`,
 though `alli` is generally considered to be the locative suffix.
