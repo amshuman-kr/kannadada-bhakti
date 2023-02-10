@@ -58,7 +58,15 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
       - [Verse 133](#verse-133)
         - [Summary](#summary)
   - [Indo-European Languages](#indo-european-languages)
+- [Second-person Pronominal Roots](#second-person-pronominal-roots)
+  - [Dravidian Languages](#dravidian-languages-1)
+    - [Caldwell's arguments against nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-against-nīnninnīni-being-the-second-person-pronominal-roots)
+    - [Caldwell's arguments for nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-for-nīnninnīni-being-the-second-person-pronominal-roots)
+    - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments)
+    - [The process of producing nīn/nin from the second-person pronominal root vowel i](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i)
+  - [Indo-European Languages](#indo-european-languages-1)
 - [Summary](#summary-1)
+- [Revisions](#revisions)
 
 ## License
 
@@ -80,7 +88,7 @@ All the different third-person demonstrative pronominal forms are produced when 
 #### Kannada, Tamil
 
 &nbsp; | `an` (Masculine Singular) | `aḷ` (Feminine Singular) | `du` (Neuter Singular) | `ar` ([Rational](https://en.wikipedia.org/wiki/Noun_class#Common_criteria_for_noun_classes) Plural) | `vu` (Neuter Plural) | Elongated Vowel ([Demonstrative Determiner](https://en.wikipedia.org/wiki/Demonstrative#Demonstrative_determiners_and_pronouns))
---- | --- | --- | --- | --- | --- | ---
+:-- | :-- | :-- | :-- | :-- | :-- | :--
 a | avan | avaḷ | adu | avar | avu | ā
 i | ivan | ivaḷ | idu | ivar | ivu | ī
 u | uvan | uvaḷ | udu | uvar | uvu | ū
@@ -631,7 +639,7 @@ But `iṁta`/`iṁda` also are rarely used in the proximal demonstrative determi
 But `iṁta` can still be seen as a suffix in forms like `bānigiṁta`, `beṭṭakkiṁta` etc. where it signifies
 a direction physically or metaphorically different from the semantics of the preceding word fragment.
 Likewise, `iṁda` can be seen as a suffix in the ostensibly instrumental forms like `bāniṁda`, `maradiṁda` etc.
-More detailed discussion of these suffixes can be seen [here]().
+More detailed discussion of these suffixes can be seen [here](#third-person-demonstrative-pronouns-in-kannada-and-their-relationship-to-case-suffixes).
 
 - `eṁta` - When the original interrogative (in the sense of space) pronominal form `eṁtu` (equivalent of `edu`) is suffixed with `a`,
 (which, among other things, has genitive semantics), (i.e., `eṁtu + a => eṁta`), in naturally acquires an interrogative directional semantics,
@@ -954,6 +962,470 @@ Bengali | এই (ēi), এখানে (ēkhānē), এতটুকু (ētaṭ
 English | it, this, these, here | now | | that, then?, there? | those | | he, she, thus
 German | dies, hier, jetzt? | | | dass, dann | dort | | er, sie, es
 
+## Second-person Pronominal Roots
+
+Though might be more appropriate to investigate the first and second person pronominal roots together,
+since Caldwell has used his arguments regarding the second-person pronominal roots as supporting evidence/arguments
+for his arguments regarding the first-person pronominal roots,
+it is necessary (even at the cost of lucidity) to discuss the second-person pronouns first.
+But it must be noted that the discussion of the second-person pronouns in this section
+and the discussion on the first-person pronouns in the subsequent section are two part of the same discussion.
+
+### Dravidian Languages
+
+As already seen in the "Introduction and Context" part, there is some consensus among scholars that `nīn` is the second-person pronominal root in Kannada.
+Caldwell has gone further and asserted that `nīn` is the second-person pronominal root in all Dravidian languages.
+He has also documented some evidences/arguments against this assertion.
+But overall, he has concluded that `nīn` (with the vowel `i` infixed between two consonant `n`s) must be the second-person pronominal root
+and used it as a part of the argument to support his assertion that `nān` is the Proto-Dravidian first-person pronominal root.
+Since the depth and breadth of Caldwell's analysis of the second-person pronominal roots is not seen in the other scholars mentioned
+in the "Introduction and Context" section (if other scholars not mentioned have done deeper analysis, the ignorance is entirely mine
+and I will be grateful if knowledgeable readers point me towards such works),
+Caldwell's arguments will be analysed first before continuing the investigation of the second-person pronominal roots.
+
+First let's analyse the arguments Caldwell has mentioned for and against the case that `nīn` is the second-person pronominal root.
+
+#### Caldwell's arguments against nīn/nin/nī/ni being the second-person pronominal roots
+
+- > In the personal terminations of the verb, this pronoun is much changed in all the Drâvidian dialects. It not only loses its initial 'n,' like the pronoun of the first person; but its final 'n' also disappears. Generally nothing remains in the verbal inflexions but the included vowel, and that also is more or less modified by use. In the Canarese verb it appears as 'i,' 'î,' 'îye,' and 'e:' in the ancient dialect of the Canarese it is 'âÿ,' as in Tamil.
+[From pages [306](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-306)
+    and [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307).
+
+    > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases. The dative has 'nan,' instead of nin; e.g., 'nanikka,' to thee - as if from a nominative in 'nan,' with 'a' as the included vowel. This use of 'a' is in accordance with the colloquial Tamil personal termination of the web, which is 'âÿ,' instead of 'îÿ.'
+    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+    > In Tulu... The personal terminations of the verb in the second person singular is represented by 'a.'
+    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+- > ... In the colloquial obliques the initial 'n' entirely disappears, and does not leave even a 'y' behind it, as the initial 'n' of the first personal pronoun generally does. When the initial is discarded, the included vowel changes from 'i' to 'u.' 'u,' however, constitutes the included vowel of this pronoun, not only when the initial 'n' is lost, but sometimes, in the higher dialect, even when it is retained. 'nin,' 'nun,' and 'un' are severally used as the bases of the oblique cases.
+[From page [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
+
+- > The root of the verb is regularly used in Tamil as the second person singular of the imperative, without any pronominal suffix, and even without any euphonic addition: but the second person plural of the imperative in the colloquial dialect is formed by the addition of 'um' (the ordinary plural base of the oblique cases); which 'um' is derived from a singular form in 'un,' one of the bases of the oblique cases already referred to. ...
+[From page [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
+
+- > The Tulu nominative 'î' illustrates the fact already stated that each of the nasals of 'nîn' (both the radical initial and the formative final) has sometimes been worn off.
+[From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+- > In the higher dialect of Telugu, 'îvu,' from an old nominative 'î,' which is identical with the Tulu, is occasionally used instead of 'nîvu.'
+[From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+#### Caldwell's arguments for nīn/nin/nī/ni being the second-person pronominal roots
+
+- The nominative forms and their oblique cases have the root form that starts with the consonant `n`.
+  - > In Canarese the nominative of this pronoun is 'nîn' or 'nîn-u;'
+  [From page [306](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-306)]
+
+  - > In Tamil 'nî,' which is properly the crude base, is invariably used as the isolated nominative... That 'nîn' originally constituted the nominative even in Tamil, appears from this that the oblique cases in the higher dialect agree in using 'nin' (shortened by rule from 'nîn') as the base to which the case suffixes are attached.
+  [From page [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
+
+  - > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases.
+  From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+  - > In Tulu the nominative is 'î;' but the oblique cases are formed upon the base of 'ni' or 'nin.'
+  From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+  - > ... The Telugu nominative is 'nîvu,' expanded from 'nî' by the addition of the euphonic particle 'vu:' 'nîvu,' Tel., thou... In the oblique cases ... uses 'nî' as its inflexional base, and also as its possessive. The objective alone follows the example of the other dialects in abbreviating the included vowel, and appending a final nasal. That case is 'ni-nu,' 'nin-u,' or 'nin-nu,' and is evidently formed from a nominative 'nîn-u.'
+  [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+- > The compound sound of 'ñj' or 'ny,' in the Malayâla 'ñjân' or 'nyân' is a middle point between 'n' of 'nân,' and the 'y' of 'yân.' It is a softened and nasalised form of 'n,' from which the change to 'y' is easily made. In like manner, 'nîn,' the original form of the pronoun of the second person singular in all the Drâvidian dialects, has become in Tamil, first 'nîÿ,' then 'nî;' and in the verbal terminations 'aiy,' 'i,' and 'ei.'
+[From page [294](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-294)]
+
+- > The verbal inflexions of the Telugu, use only the final syllable of the nominative of each of the pronouns, viz., 'nu' (from 'nênu,' I), 'vu' (from 'nîvu,', thou), and 'ḍu' (from 'vâḍu,' he). The most important and essential part of each pronoun has thus been omitted; and the fragments which have been retained are merely formatives, or at most signs of gender and number.
+[From page [295](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-295)]
+    - > In the oblique cases the Telugu rejects the euphonic addition of 'vu,' and uses 'nî' as its inflexional base, and also as its possessive. ... In the personal terminations of the verb, the Telugu rejects every portion of the pronominal root, and employs only the euphonic addition 'vu' or 'vi.'
+    [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+- > ... On a comparison of the various Drâvidian dialects we arrive at the conclusion that the primitive form of this pronouns was 'nî,' 'nû,' or 'na;' - most probably the first. The only essential part of the pronoun appears to be the initial consonant 'n;' just as in the Indo-European languages 't' is the only essential part of the corresponding pronoun. In each family the vowel by the help of which the initial consonant is enunciated varies considerably, but evinces, on the whole, a preference for 'i' in the Dravidian languages, for 'u; in the Indo-European.
+[From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+- > Supposing 'nî' to be the primitive form of the Drâvidian pronoun of the second person, and comparing it with 'nâ,' which we have seen
+to be the primitive form of the Drâvidian pronoun of the first person, it is deserving of notice that the only difference between the two is the difference between the two included vowels, 'a' and 'i.' ... The method adopted by the Dravidian languages of expressing the difference between the first person and the second by means of of the vowel 'a' and 'i,' used as auxiliaries, does not appear to be the result of accident. It is probably founded on some ultimate principle; Though it may be difficult or impossible now to discover what that principle is.
+[From pages [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)
+and [310](https://github.com/amshuman-kr/kannadada-bhakti/blob/main/content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-310)]
+
+- > If 'a' and 'i' be considered as identical with the demonstratives, an idea which would suit the signification, and which is corroborated by the circumstance that 'u' is also a demonstrative, we are met by the apparently insurmountable difficulty that in all the Drâvidian tongues, and (as far as the use of these demonstrative vowels extends) in all the tongues of the Indo-European family, 'a' is not the proximate, but the remote, demonstrative; and 'i' is not the remote, but the proximate; whilst 'u' is used in Tamil as an intermediate between these two.
+[From page [310](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-310)]]
+
+- > Is any weight to be attributed to the circumstances that 'a' has naturally the first place in all lists of vowels, and 'i' the second?
+[From page [310](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-310)]]
+
+- > If, as we have seen, 'nâ' is to be regarded as the primitive form of the Drâvidian pronoun of the first person, and the final 'n' as
+merely a sign of number, or as an euphonic formative, it might appear extraordinary, that in the pronominal terminations of the verb, the initial 'n,' the primitive sign of the personality has invariably and altogether disappeared; whilst the first person singular is represented by the final 'n' alone. We might almost be led to suppose the initial 'n' to be a formative prefix, and the succeeding vowel to be the real pronominal base. Formative and definitive pre-fixes, however, are utterly unknown to the Dravidian languages; ...
+[From page [296](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-296)
+and [297](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-297)]]
+
+#### Analysis of Caldwell's arguments
+
+The main thrust of the the above arguments (both [for](#caldwells-arguments-for-nīnninnīni-being-the-second-person-pronominal-roots)
+and [against](#caldwells-arguments-against-nīnninnīni-being-the-second-person-pronominal-roots)) on nīn/nin/nī/ni being the second-person pronominal roots
+seems to be that the starting consonant `n` and the vowel `i` that animates it are both essential for the second-person semantics.
+Now let's go through the arguments one by one.
+But for lucidity, the arguments are picked for analysis in an order different from those mentioned above or in the "Introduction and Context" part.
+I apologise if this causes confusion.
+
+- > In the personal terminations of the verb, this pronoun is much changed in all the Drâvidian dialects. It not only loses its initial 'n,' like the pronoun of the first person; but its final 'n' also disappears. Generally nothing remains in the verbal inflexions but the included vowel, and that also is more or less modified by use. In the Canarese verb it appears as 'i,' 'î,' 'îye,' and 'e:' in the ancient dialect of the Canarese it is 'âÿ,' as in Tamil.
+[From pages [306](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-306)
+    and [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307).
+
+    > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases. The dative has 'nan,' instead of nin; e.g., 'nanikka,' to thee - as if from a nominative in 'nan,' with 'a' as the included vowel. This use of 'a' is in accordance with the colloquial Tamil personal termination of the web, which is 'âÿ,' instead of 'îÿ.'
+    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+    > In Tulu... The personal terminations of the verb in the second person singular is represented by 'a.'
+    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+This argument strongly opposes the case for the starting consonant `n` in `nī`/`ni` being essential to the second-person semantics,
+because the relationship between pronouns and the grammatical personal suffixes of finite verb forms seems to be an ancient one
+and it is likely that the grammatical personal suffixes of finite verb forms are the corresponding pronominal roots.
+From this perspective, the lack of the starting consonant `n` in the grammatical personal suffixes of finite verb forms (`āy`, `i`, `ī`, `īye`, `e`, `ai`),
+strongly opposes the case for the starting consonant `n` in the second-person pronominal root.
+Since it is possible that `a`, the grammatical personal suffixes of finite verb form in Malayalam and Tulu, is related to the Tamil `āy`,
+the fact of this not having the vowel `i` does not undermine this argument against the starting consonant `n`.
+
+- > The verbal inflexions of the Telugu, use only the final syllable of the nominative of each of the pronouns, viz., 'nu' (from 'nênu,' I), 'vu' (from 'nîvu,', thou), and 'ḍu' (from 'vâḍu,' he). The most important and essential part of each pronoun has thus been omitted; and the fragments which have been retained are merely formatives, or at most signs of gender and number.
+[From page [295](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-295)]
+    - > In the oblique cases the Telugu rejects the euphonic addition of 'vu,' and uses 'nî' as its inflexional base, and also as its possessive. ... In the personal terminations of the verb, the Telugu rejects every portion of the pronominal root, and employs only the euphonic addition 'vu' or 'vi.'
+    [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+Caldwell seems to have used this argument to weaken the strength of the argument by grammatical personal suffixes of finite verb forms
+against the starting consonant `n`.
+The point he makes about the second-person suffixes of finite verb forms in Telugu is true enough,
+but the same phenomenon of not using the vowel from the pronominal form in the corresponding grammatical personal suffixes of finite verb forms
+is not seen in the other Dravidian languages.
+So, it does not seem appropriate to generalise a feature that seems specific only to Telugu to all Dravidian languages
+and therefore, this argument doesn't carry much weight.
+
+- > The Tulu nominative 'î' illustrates the fact already stated that each of the nasals of 'nîn' (both the radical initial and the formative final) has sometimes been worn off.
+[From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+To the contrary, this is, in fact, a strong argument *against* the starting consonant `n` in the second-personal pronominal root
+and *for* the argument that the vowel `i`/`ī` is the second-person pronominal root.
+It seems equally possible, and indeed more appropriate, to say that like in Tulu and literary Telugu,
+the vowel `i`/`ī` is the second-person pronominal root than to say that `nīn`/`nin` is the second-person pronominal root
+and the languages other than Tulu and literary Telugu have lost the leading and training consonants (`n`) in the
+grammatical personal suffixes of finite verb forms.
+The reason for this can be seen in more detail [here](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i).
+
+- > In the higher dialect of Telugu, 'îvu,' from an old nominative 'î,' which is identical with the Tulu, is occasionally used instead of 'nîvu.'
+[From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+Like in the case of Tulu second-person pronoun, this is a strong argument against the Caldwell's case for `nīn`/`nin` being the second-person pronominal root
+and *for* the vowel `i`/`ī`  being the pronominal root.
+It is notable that Tulu and Telugu have branched from the Proto-Dravidian earlier than Kannada, Tamil and Malayalam,
+because it is often seen that earlier branches retain some features of the common ancestor that change or disappear in later branches.
+For example, [monotremes](https://en.wikipedia.org/wiki/Monotreme) like the [platypus](https://en.wikipedia.org/wiki/Platypus)
+and the [echidna](https://en.wikipedia.org/wiki/Echidna) are well known to be an earlier branch of [mammals](https://en.wikipedia.org/wiki/Mammal).
+The fact that these monotremes are [oviparous](https://en.wikipedia.org/wiki/Oviparity) is strong argument for the case that
+the common ancestor of all mammals was also oviparous,
+even though the vast majority of mammal species today are [viviparous](https://en.wikipedia.org/wiki/Viviparity).
+However, it is important to remember that the surviving species of the earlier branches have evolved as much as those from the later branches.
+For example, just because platypuses (or is it platypi?) have a duck-like bill,
+it would be wrong to conclude that the common ancestor of all mammals also had a duck-like bill.
+Which aspect is inherited from a common ancestor and which is a change or evolution in a later branch is to be discerned by careful consideration
+of various arguments and evidences.
+Back in the case of the second-person pronominal root, it seems more appropriate to say that the Tulu and Telugu pronominal form `i`/`ī`
+is the original second-person pronominal form with some processes leading to the incorporation of the leading and trailing consonant `n`
+than to say that `nīn`/`nin` is the pronominal root and that the leading and trailing consonant `n` has disappeared independently in two separate
+(Tulu and Telugu) earlier branches.
+
+- The nominative forms and their oblique cases have the root form that starts with the consonant `n`.
+  - > In Canarese the nominative of this pronoun is 'nîn' or 'nîn-u;'
+  [From page [306](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-306)]
+
+  - > In Tamil 'nî,' which is properly the crude base, is invariably used as the isolated nominative... That 'nîn' originally constituted the nominative even in Tamil, appears from this that the oblique cases in the higher dialect agree in using 'nin' (shortened by rule from 'nîn') as the base to which the case suffixes are attached.
+  [From page [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
+
+  - > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases.
+  From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+  - > In Tulu the nominative is 'î;' but the oblique cases are formed upon the base of 'ni' or 'nin.'
+  From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+
+  - > ... The Telugu nominative is 'nîvu,' expanded from 'nî' by the addition of the euphonic particle 'vu:' 'nîvu,' Tel., thou... In the oblique cases ... uses 'nî' as its inflexional base, and also as its possessive. The objective alone follows the example of the other dialects in abbreviating the included vowel, and appending a final nasal. That case is 'ni-nu,' 'nin-u,' or 'nin-nu,' and is evidently formed from a nominative 'nîn-u.'
+  [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+This is the main argument in support of `nīn`/`nin` being the second-person pronominal root in Dravidian Languages
+and against only the vowel `i`/`ī` being the pronominal root.
+There is no disputing that the second person pronouns in most of the Dravidian languages start with the consonant `n`.
+But Caldwell's examples for second-person pronominal forms in Tulu are inaccurate and incomplete.
+Though it is indeed to that `ni`/`nin` are the inflexional prefix in some regional dialects of Tulu,
+in other regional dialects `i`/`in` is the inflexional prefix, as can be seen in the
+[Tulu second-person pronouns](Introduction%20and%20Context.md#second-person-1) section of "Introduction and Context".
+For example, `inna`, `iṁkŭḷŭ` etc.
+
+Also, Caldwell has mentioned the inflextional prefixes starting with or including the vowel `u` in Tamil.
+
+- > ... In the colloquial obliques the initial 'n' entirely disappears, and does not leave even a 'y' behind it, as the initial 'n' of the first personal pronoun generally does. When the initial is discarded, the included vowel changes from 'i' to 'u.' 'u,' however, constitutes the included vowel of this pronoun, not only when the initial 'n' is lost, but sometimes, in the higher dialect, even when it is retained. 'nin,' 'nun,' and 'un' are severally used as the bases of the oblique cases.
+[From page [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
+
+- > The root of the verb is regularly used in Tamil as the second person singular of the imperative, without any pronominal suffix, and even without any euphonic addition: but the second person plural of the imperative in the colloquial dialect is formed by the addition of 'um' (the ordinary plural base of the oblique cases); which 'um' is derived from a singular form in 'un,' one of the bases of the oblique cases already referred to. ...
+[From page [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
+
+Tulu and literary Telugu having second-person pronominal forms starting with the vowel `i`/`ī`,
+spoken Tamil having the pronominal forms starting with the vowel `u`  instead of `i`/`ī`
+and the literary Tamil having pronominal forms starting with the consonant `n` but including the same vowel `u`
+work against the case that `nīn`/`nin` is the second-person pronominal root.
+
+- > The compound sound of 'ñj' or 'ny,' in the Malayâla 'ñjân' or 'nyân' is a middle point between 'n' of 'nân,' and the 'y' of 'yân.' It is a softened and nasalised form of 'n,' from which the change to 'y' is easily made. In like manner, 'nîn,' the original form of the pronoun of the second person singular in all the Drâvidian dialects, has become in Tamil, first 'nîÿ,' then 'nî;' and in the verbal terminations 'aiy,' 'i,' and 'ei.'
+[From page [294](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-294)]
+
+Even though this argument might seem plausible at first sight, it does not survive careful scrutiny (at least in case of the second-person pronoun).
+As in the mentioned first-person pronouns, there are no examples of the `ñ` (ostensibly, middle point between `n` and `y`) turning into `y`
+in Malayalam, Tamil or Tulu.
+In fact, there are no second-person pronominal forms like `ñī`/`ñi` or `yī`/`yi` in any of these languages.
+Besides, the nasal consonants `ñ` and `ṅ` are found in Malayalam much more than in other Dravidian languages.
+So, it seems inappropriate to include such a process among the processes involved in producing the second-person pronominal forms
+without considering the obvious possibility that this might be a process specific to Malayalam.
+Likewise, the argument that `nīn` has turned first into `nīy` and then into `nī` doesn't hold water,
+because the trailing `n` in `nīn` is originally just a nasalisation; i.e., `nīm̐`/`n̪ĩː`; the nasalisation turns into `n` to form `nīn`
+or disappears to form `nī`.
+More details on these processes can be seen [here](ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ).
+In fact, the process of `n` turning into `ñ`, then into `y` and eventually disappearing is inaccurate not just in the case of the
+second-person pronouns but also in the case the first-person as will be discussed [later]().
+
+- > ... On a comparison of the various Drâvidian dialects we arrive at the conclusion that the primitive form of this pronouns was 'nî,' 'nû,' or 'na;' - most probably the first. The only essential part of the pronoun appears to be the initial consonant 'n;' just as in the Indo-European languages 't' is the only essential part of the corresponding pronoun. In each family the vowel by the help of which the initial consonant is enunciated varies considerably, but evinces, on the whole, a preference for 'i' in the Dravidian languages, for 'u; in the Indo-European.
+[From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+
+Caldwell seems to have included `nu` and `ni` in the list of possible second-person pronominal roots
+based on the Tamil second-person pronominal forms containing the vowel `u`
+and the Tulu, Malayalam grammatical personal suffix `a` of finite verb forms, correspondingly.
+But his conclusion that Dravidian languages lean towards the vowel `i` and the Indo-European languages towards the vowel `i`
+seems right based on a few examples like `tvaṁ`, `yūyaṁ` in Sanskrit, `thou`, `you` in English etc.
+But on closer inspection, it becomes clear that Caldwell's position has changed from the starting consonant `n` in `nīn`/`nin` being crucial
+to the included vowel (`i`, `u` or `a`) being crucial for the second-person pronominal semantics.
+It is notable that this position has already been arrived at in the discussion of the second-person pronominal forms in Tulu and literary Telugu.
+
+- > Supposing 'nî' to be the primitive form of the Drâvidian pronoun of the second person, and comparing it with 'nâ,' which we have seen
+to be the primitive form of the Drâvidian pronoun of the first person, it is deserving of notice that the only difference between the two is the difference between the two included vowels, 'a' and 'i.' ... The method adopted by the Dravidian languages of expressing the difference between the first person and the second by means of of the vowel 'a' and 'i,' used as auxiliaries, does not appear to be the result of accident. It is probably founded on some ultimate principle; Though it may be difficult or impossible now to discover what that principle is.
+[From pages [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)
+and [310](https://github.com/amshuman-kr/kannadada-bhakti/blob/main/content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-310)]
+
+- > If 'a' and 'i' be considered as identical with the demonstratives, an idea which would suit the signification, and which is corroborated by the circumstance that 'u' is also a demonstrative, we are met by the apparently insurmountable difficulty that in all the Drâvidian tongues, and (as far as the use of these demonstrative vowels extends) in all the tongues of the Indo-European family, 'a' is not the proximate, but the remote, demonstrative; and 'i' is not the remote, but the proximate; whilst 'u' is used in Tamil as an intermediate between these two.
+[From page [310](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-310)]]
+
+By applying the insight that *the included vowel (mainly, `i`) carries the second-person pronominal semantics* to the first-person pronominal roots as well, 
+Caldwell conjectures that the included vowel `a`/`ā` in `nān`/`nan` carries the first-person pronominal semantics
+and compares the first-personal `a`, the second-personal `i` and the occasional second-personal `u` of Tamil
+with the third-person demonstrative pronominal root vowels, the distal `a`, the proximal `i` and the medial `u`.
+*This is a great insight.*
+But in that comparison, Caldwell notes that equating the first-personal `a` and the third-person demonstrative distal `a`,
+the second-personal `i` and `u` with the third-person demonstrative proximal `i` and medial `u` is not logically sound.
+But it is not correct to say that the demonstrative proximal `i` and the medial `u` do not fit the second-person pronominal semantics.
+To the contrary, the demonstrative proximal `i` is very well suited to carry the second-person pronominal semantics
+because the entity addressed in the second-person pronoun is always (physically or metaphorically) close-by.
+It might seem right to say that the demonstrative medial `u` does not fit the second-person pronominal semantics,
+but on considering the [already discussed](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u) presentative semantics of the
+demonstrative vowel `u`, it becomes clear that the presentative demonstrative `u` is quite suited to carry the second-person pronominal semantics,
+because the entity addressed in the second-person pronouns is (physically or metaphorically) quite present.
+So, the pronominal root vowels `i` and `u` being used in the distal and presentative semantics in the third-person demonstrative pronouns
+as well as in the second-person semantics seems quite appropriate.
+But Caldwell's objection to equating the third-person demonstrative distal `a` with the first-person pronominal `a` seems correct.
+But it is not unsolvable like he supposed because `a` is not the first-person pronominal root vowel like he concluded.
+This is discussed in more detail in the section on the [first-person pronoun forms]().
+
+- > Is any weight to be attributed to the circumstances that 'a' has naturally the first place in all lists of vowels, and 'i' the second?
+[From page [310](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-310)]]
+
+It is difficult to decide about this speculation of Caldwell's.
+But another possible reason for the vowels `a`, `i` and `u` being used in this way in the pronominal forms
+can be seen in the [last section]() of this document.
+
+What remains to investigate in the second-person pronominal forms is the crucial process by which the starting and trailing consonant `n`
+are produced from the root vowel `i`, which will be picked next.
+
+#### The process of producing nīn/nin from the second-person pronominal root vowel `i`
+
+The clue for the process of producing `nīn`/`nin` from the second-person pronominal root vowel `ī`/`i` can be
+found in a previous research article ["anusvārada anusāra"](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
+(please note that the document is in Kannada and is yet to be translated to English),
+which investigates the phenomenon of [nasalisation mediating](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ)
+wherever suffixes are appended to the root words and then leading to various different forms.
+Also, it is seen in the [previous document](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರವೇ-ಪ್ರತ್ಯಯವೇ-ನಕಾರವೇ-ಲಿಂಗವಾಚಕವಾಗಿ-ಪ್ರಕೃತಿಯ-ಭಾಗವೇ) on nasalisation
+and also briefly [above](#are-the-third-person-demonstrative-pronominal-roots-nasalised) in this document,
+that saying nasalisation mediates when suffixes are appended to the roots is equivalent to saying that the roots themselves are nasalised
+and does not make much difference to the processed and the forms that are produced.
+It is seen while [examining the variations in the nominative forms](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ)
+like `ava`/`rāma`, `avam̐`/`rāmam̐`, `avan`/`rāman` etc., that the nasalisation originally existed in the nominative case too.
+With this background, it seems appropriate to suppose that the second-person pronominal root `ī`/`i` also nasalised in the nominative case
+and Caldwell has already noted the phenomenon of the included vowel in the pronouns being elongated in the nominative forms.
+So, the nominative and the inflexional prefix forms of the second-person pronominal root would be as follows respectively. 
+
+In ISO 15919,
+- `īm̐` - Nominative
+- `im̐` - Inflexional prefix
+
+In IPA,
+- `ĩː` - Nominative
+- `ɪ̃` - Inflexional prefix
+
+It is easy to so how the Tulu forms like `iṁkŭḷŭ`, literary Telugu forms like `īvu` and the Tulu (and old literary Telugu) forms like `ī`
+are produced from these nasalised root vowels.
+I.e.,
+
+In ISO 15919,
+- `īm̐ => ī` - The nasalisation disappears in Tulu and old literary Telugu.
+- `īm̐ + u => īvu` - The nasalisation turns into `v` in literary Telugu.
+- `im̐ + kŭḷŭ => iṁkŭḷŭ` - The nasalisation turns into anusvāra in Tulu, which is pronounced as `ṅ` because of the `k` that follows.
+
+In IPA,
+- `ĩː => iː` - The nasalisation has disappeared in Tulu and old literary Telugu.
+- `ĩː + u => iːʋu` - The nasalisation turns into `ʋ` in literary Telugu.
+- `ɪ̃ + kɯɭɯ => ɪŋkɯɭɯ` - The nasalisation turns into anusvāra in Tulu, which is pronounced as `ŋ` because of the `k` that follows.
+
+It is no surprise then that the anusvāra in `iṁkŭḷŭ` is many times pronounced as a mere nasalisation rather than `ṅ`/`ŋ`,
+i.e., as `im̐kŭḷŭ`/`ɪ̃kɯɭɯ`.
+
+Similarly, since nasalisation turning into `n` also a known process, the trailing consonant `n` in the `nīn`/`nin` can be easily explained.
+I.e.,
+
+In ISO 15919,
+- `īm̐  => īn` - The nasalisation turns into `n`.
+- `im̐ => in` - The nasalisation turns into `n`
+
+In IPA,
+- `ĩː  => iːn̪` - The nasalisation turns into `n̪`.
+- `ɪ̃ => ɪn̪` - The nasalisation turns into `n̪`.
+
+But the `īn`, `in` forms are not found in Dravidian languages.
+Only the forms including the additional starting consonant `n` are found.
+However, Caldwell mentions the `un` forms without the leading `n` in Tamil.
+I.e.,
+
+- `um̐ => un` - The nasalisation turns into `n` in the inflexional prefix of non-nominative cases of the second-person pronoun in spoken dialects of Tamil.
+
+More details about these related set of processes of nasalisation disappearing, turning into anusvāra, `n`, `v` etc. can be seen [here](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md).
+
+Now what remains is the process of producing the leading consonant `n` in `nīn`/`nin`.
+Caldwell has argued (rightly so) that prefixes are not natural to Dravidian languages and rarely found
+and used this as a strong argument for the leading consonant `n` in  `nīn`/`nin` being crucial to the second-person pronominal roots.
+
+- > If, as we have seen, 'nâ' is to be regarded as the primitive form of the Drâvidian pronoun of the first person, and the final 'n' as
+merely a sign of number, or as an euphonic formative, it might appear extraordinary, that in the pronominal terminations of the verb, the initial 'n,' the primitive sign of the personality has invariably and altogether disappeared; whilst the first person singular is represented by the final 'n' alone. We might almost be led to suppose the initial 'n' to be a formative prefix, and the succeeding vowel to be the real pronominal base. Formative and definitive pre-fixes, however, are utterly unknown to the Dravidian languages; ...
+[From page [296](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-296)
+and [297](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-297)]]
+
+Here, Caldwell seems to retreat from the threshold of solving the problem of the second person pronominal root.
+He is indeed largely right prefixes are unnatural to Dravidian languages
+but if he had access to some regional dialects of Tulu, I have no doubt that he might have seen the possibility of
+producing the leading consonant `n` which doesn't involve prefixes.
+Different regional dialects of Tulu have two different forms for the second-person rational plural pronouns, `iṁkḷŭ` and `niṁkḷŭ`
+(pronounced variously as `iṅkḷŭ`/`ɪŋkɭɯ`, `niṅkḷŭ`/`n̪ɪŋkɭɯ`, `im̐kḷŭ`/`ɪ̃kɭɯ`, `nim̐kḷŭ`/`n̪ɪ̃kɭɯ` etc.).
+It might seem that `niṁkḷŭ` is produced by prefixing `n` to `iṁkḷŭ`.
+I.e.,
+
+In ISO 15919,
+- `n + im̐kḷŭ => nim̐kḷŭ`
+- `n + iṁkḷŭ => niṁkḷŭ`
+- `n + iṅkḷŭ => niṅkḷŭ`
+
+In IPA,
+- `n̪ + ɪ̃kɭɯ => n̪ɪ̃kɭɯ`
+- `n̪ + ɪŋkɭu => n̪ɪŋkɭu`
+
+Though Caldwell is indeed right in arguing that Dravidian languages do not use prefixes,
+it is important to not that `n` is not just any prefix but a nasal consonant.
+It can be seen that while trying to pronounce the nasalisation or the nasal consonant clearly in `iṁkḷŭ` in `im̐kḷŭ`/`ɪ̃kɭɯ`, `iṅkḷŭ`/`ɪŋkɭɯ` respectively,
+the nasality can be heard strongly, almost before the starting vowel `i`.
+This process becomes even more clear while trying to pronounce just the nasalised vowel `i`.
+I.e.,
+
+In ISO 15919,
+- `im̐ => m̐im̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `i`.
+
+In IPA,
+- `ɪ̃ =>  ̃ɪ̃` - The clear pronunciation of nasalisation can be heard almost before the vowel `ɪ`.
+
+Such a clear nasalisation capable of producing the [transformations mediated by nasalisation](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ)
+both before and after the vowel `i` and the process of nasalisation turning into `n` is [already seen](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ).
+I.e.,
+
+In ISO 15919,
+- `m̐im̐  => nin` - The nasalisation of the vowel `i` turns into `n` both before and after the vowel.
+
+In IPA,
+- ` ̃ɪ̃  => n̪ɪn̪` - The nasalisation of the vowel `ɪ` turns into `n̪` both before and after the vowel.
+
+In this process, there are no prefixes involved as objected to by Caldwell;
+just the clear nasalisation of the vowel `i` has turned into `n` both before and after the vowel.
+
+Seen together, the processes for producing `nīn`, `nī` of Old Kannada and Tamil from the second-person nominative pronominal root form `īm̐`/`ĩː`
+and inflexional prefix `nin` of Old Kannada. Tamil, Malayalam and Telugu from the second-person pronominal root of the rest of the cases
+could be as follows.
+
+In ISO 15919,
+- `īm̐` - The second-person nominative root form.
+    - `=> m̐īm̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `ī`.
+        - `=> nīm̐` - The nasalisation heard before the vowel `ī` turns into `n`.
+            - `=> nīn` - The nasalisation heard after the vowel `ī` turns into `n` as well.
+            - `=> nī` - The nasalisation heard after the vowel `ī` disappears.
+- `im̐` - The root form of the second-person inflexional prefix.
+    - `=> m̐im̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `ī`.
+        - `=> nin` - The nasalisation heard on both sides of the vowel `i` turns into `n`.
+
+In IPA,
+- `ĩː` - The second-person nominative root form.
+    - `=>  ̃ĩː` - The clear pronunciation of nasalisation can be heard almost before the vowel `iː`.
+        - `=> n̪ĩː` - The nasalisation heard before the vowel `iː` turns into `n̪`.
+            - `=> n̪iːn̪` - The nasalisation heard after the vowel `iː` turns into `n̪` as well.
+            - `=> n̪iː` - The nasalisation heard after the vowel `iː` disappears.
+- `ɪ̃` - The root form of the second-person inflexional prefix.
+    - `=>  ̃ɪ̃` - The clear pronunciation of nasalisation can be heard almost before the vowel `ɪ`.
+        - `=> n̪ɪn̪` - The nasalisation heard on both sides of the vowel `ɪ` turns into `n̪`.
+
+In comparison with this set of processes involving nasalisation, the opposite process of losing the nasal consonant `n`
+(i.e., `na => ña => ya => a`) suggested by Caldwell seems less plausible not the least because the intermediate forms
+are rarely found in any one Dravidian language, which is why Caldwell had to invoke example for each form from a different
+Dravidian language.
+
+Similarly, the processes producing the second-person pronominal forms starting with or including the vowel `u`
+in the spoken and literary Tamil could be as follows.
+
+In ISO 15919,
+- `um̐` - The presentative and second-person pronominal root form in the non-nominative cases.
+    - `=> un` - The nasalisation turns into `n` in spoken dialects of Tamil.
+    - `=> um` - The nasalisation turns into `m` in the plural form of grammatical imperative mood of verbs in Tamil.
+    - `=> m̐um̐` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
+        - `=> nun` - The nasalisation head on both sides of the vowel `u` turns into `n`.
+
+In IPA,
+- `ũ` - The presentative and second-person pronominal root form in the non-nominative cases.
+    - `=> un̪` - The nasalisation turns into `n̪` in spoken dialects of Tamil.
+    - `=> um` - The nasalisation turns into `m` in the plural form of grammatical imperative mood of verbs in Tamil.
+    - `=>  ̃ũ` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
+        - `=> nun` - The nasalisation head on both sides of the vowel `u` turns into `n̪`.
+
+So, without invoking any processes involving prefixes, it is possible to produce the all the second-person pronominal forms
+found in the old and modern variants of Dravidian languages by a set of related processes where the clear pronunciation of
+nasalisation of the proximal demonstrative and second-person pronominal root vowel, `im̐`/`ɪ̃` (and `īm̐`/`ĩː`) and
+the presentative and second-person pronominal root vowel, `um̐`/`ũ` naturally is heard on both sides of the vowel which then
+proceed to undergo the usual set of related processes already discussed in ["anusvārada anusāra"](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md).
+With this, the last of the objections, due to which Caldwell abandoned pursuing the possibility of
+the proximate demonstrative vowel `i`/`ī` being also the second-person pronominal root, also rendered ineffective.
+Taking all these arguments together, it seems appropriate to say that *the nasalised third-personal demonstrative pronominal root vowels,
+the proximal `im̐`/`ɪ̃` (and `īm̐`/`ĩː`) and the presentative `um̐`/`ũ`, are also the second-personal pronominal roots*.
+This brings the part of Caldwell's abandoned hypothesis equating the third-person demonstrative and the second-personal pronominal root vowels
+`i` and `u` to a positive logical conclusion.
+The sole remaining objection to the rest of Caldwell's abandoned hypothesis that the third-person demonstrative distal pronominal root vowel `a` 
+is not suited semantically to be the first-person pronominal root will be taken up in the section on the [first-person pronominal forms]().
+
+### Indo-European Languages
+
+As noted by Caldwell, the Dravidian languages favour the proximal demonstrative vowel `i` for the second-personal pronominal forms,
+whereas the Indo-European languages favour the presentative vowel `u`,
+which can be seen in the following sample of second-person pronouns of some of the Indo-European languages
+(please note that this is not a complete list by any means; it is presented here only for the purpose of comparison).
+
+Language | Second-person Singular | Second-person Plural
+:-- | :-- | :--
+Sanskrit | त्वम् (tvaṁ) | यूयम् (yūyaṁ)
+Hindi | तू (tū) | तुम (tuṁ)
+Gujarati | તું (tuṁ) | તમે (tamē)
+Punjabi | ਤੂੰ (tū) | ਤੁਸੀਂ (tusīṁ)
+Bhojpuri | তুমি (tumi) | তোমরা (tōmrā)
+English | thou | you
+German | du | sie
+Greek | σύ (sý) | εσείς (eseís)
+Latin | tu | voi
+
 ## Summary
 
 Kannada and other Dravidian languages systematically use the nasalised vowels `am̐`/`ə̃`, `im̐`/`ĩ`, `um̐`/`ũ`, `æm̐`/`æ̃` (and their longer forms `ām̐`/`ɑ̃ː`, `īm̐`/`ĩː`, `ūm̐`/`ũː`, `ǣm̐`/`æ̃ː`) as distal, proximal, medial [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) third-person, second-person, first-person and [interrogative](https://en.wikipedia.org/wiki/Interrogative_word#Interrogative_pronoun) pronominal roots.
@@ -978,6 +1450,7 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 ## Revisions
 
+- [Second-person Pronominal Roots](#second-person-pronominal-roots) section is translated.
 - Changed the terminology *collectivising/conjugating suffix* to *aggregating suffix*.
 I am grateful to [Pooja P](https://github.com/poojapi) for the suggestion.
 - [Third-person Pronominal Roots](#third-person-pronominal-roots) section is translated.
