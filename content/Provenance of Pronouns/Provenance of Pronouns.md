@@ -1097,7 +1097,7 @@ and therefore, this argument doesn't carry much weight.
 - > The Tulu nominative 'î' illustrates the fact already stated that each of the nasals of 'nîn' (both the radical initial and the formative final) has sometimes been worn off.
 [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
 
-To the contrary, this is, in fact, a strong argument *against* the starting consonant `n` in the second-personal pronominal root
+To the contrary, this is, in fact, a strong argument *against* the starting consonant `n` in the second-person pronominal root
 and *for* the argument that the vowel `i`/`ī` is the second-person pronominal root.
 It seems equally possible, and indeed more appropriate, to say that like in Tulu and literary Telugu,
 the vowel `i`/`ī` is the second-person pronominal root than to say that `nīn`/`nin` is the second-person pronominal root
@@ -1400,16 +1400,16 @@ the presentative and second-person pronominal root vowel, `um̐`/`ũ` naturally
 proceed to undergo the usual set of related processes already discussed in ["anusvārada anusāra"](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md).
 With this, the last of the objections, due to which Caldwell abandoned pursuing the possibility of
 the proximate demonstrative vowel `i`/`ī` being also the second-person pronominal root, also rendered ineffective.
-Taking all these arguments together, it seems appropriate to say that *the nasalised third-personal demonstrative pronominal root vowels,
-the proximal `im̐`/`ɪ̃` (and `īm̐`/`ĩː`) and the presentative `um̐`/`ũ`, are also the second-personal pronominal roots*.
-This brings the part of Caldwell's abandoned hypothesis equating the third-person demonstrative and the second-personal pronominal root vowels
+Taking all these arguments together, it seems appropriate to say that *the nasalised third-person demonstrative pronominal root vowels,
+the proximal `im̐`/`ɪ̃` (and `īm̐`/`ĩː`) and the presentative `um̐`/`ũ`, are also the second-person pronominal roots*.
+This brings the part of Caldwell's abandoned hypothesis equating the third-person demonstrative and the second-person pronominal root vowels
 `i` and `u` to a positive logical conclusion.
 The sole remaining objection to the rest of Caldwell's abandoned hypothesis that the third-person demonstrative distal pronominal root vowel `a` 
 is not suited semantically to be the first-person pronominal root will be taken up in the section on the [first-person pronominal forms]().
 
 ### Indo-European Languages
 
-As noted by Caldwell, the Dravidian languages favour the proximal demonstrative vowel `i` for the second-personal pronominal forms,
+As noted by Caldwell, the Dravidian languages favour the proximal demonstrative vowel `i` for the second-person pronominal forms,
 whereas the Indo-European languages favour the presentative vowel `u`,
 which can be seen in the following sample of second-person pronouns of some of the Indo-European languages
 (please note that this is not a complete list by any means; it is presented here only for the purpose of comparison).
