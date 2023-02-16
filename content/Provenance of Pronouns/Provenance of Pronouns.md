@@ -1438,7 +1438,7 @@ Latin | tu | voi
 
 ## First-person Pronominal Roots
 
-As already mentioned in the discussion on [second-person pronominal roots](#second-person-pronominal-roots),
+As already mentioned in the section on [second-person pronominal roots](#second-person-pronominal-roots),
 it is to be noted that the discussion of the first-personal pronominal forms is but a continuation of the
 discussion of the second-person pronominal forms.
 
@@ -1453,14 +1453,14 @@ the form starting with the vowel `ā` (`ān`), but does not clarify if the forms
 are produced from the forms starting with the vowel `ā` or by some other independent mechanism.
 Caldwell asserts that the form starting with the consonanant `n` (`nān`) must be the first-person pronominal root in all Dravidian languages.
 He also documents some arguments against this assertion,
-but concludes that, overall, the form `nān` with the leading and trailing consonant `n` with the infixed vowel `ā` must be the
+but concludes that, overall, the form `nān` with the leading and trailing consonant `n` and the infixed vowel `ā` must be the
 Dravidian first-person pronominal root.
 [Masti Venkatesha Iyengar](Introduction%20and%20Context.md##masti-venkatesha-iyengar) seems to have noticed this argument of Caldwell's,
-but briefly mentions a new idea about the included vowel in the in in the first personal pronominal forms which is not seen Caldwell's discussion.
+but briefly mentions a new idea about the included vowel in the first personal pronominal forms which is not seen Caldwell's discussion.
 So, let's first analyse Caldwell's position on the matter before seeing how Masti Venkatesha Iyengar's idea about the included vowel
 helps in solving the mystery of the first-person pronominal root.
 
-First let us analyse the arguments Caldwell has mentioned for and against the case that `nān` is the first-person pronominal root.
+First, let us analyse the arguments Caldwell has mentioned for and against the case that `nān` is the first-person pronominal root.
 
 #### Caldwell's arguments against nān/nā being the first-person pronominal roots
 
@@ -1535,7 +1535,7 @@ and [310](https://github.com/amshuman-kr/kannadada-bhakti/blob/main/content/Prov
 #### Analysis of Caldwell's arguments
 
 There is consensus among scholars that the first-personal pronominal root consists of three components, namely, the leading consonant, the vowel that animates it and the trailing nasal consonant `n` or anusvāra.
-Since this seems largely correct, the main task is to analyse how these three components were in in the first-person pronominal root.
+Since this seems largely correct, the main task is to analyse how these three components were in the first-person pronominal root.
 But before analysing Caldwell's arguments (both [for](#caldwells-arguments-for-nānnā-being-the-first-person-pronominal-roots)
 and [against](#caldwells-arguments-against-nānnā-being-the-first-person-pronominal-roots)) on `nān` being the first-person pronominal root,
 a few inaccuracies in those arguments need to be addressed first.
@@ -1544,24 +1544,24 @@ a few inaccuracies in those arguments need to be addressed first.
 
 As can be seen in the "Introduction and Context", Tulu has both [`yān`](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-294)
 and [`ēn`](Introduction%20and%20Context.md#first-person-1) as the first-personal pronominal nominative forms in different dialects.
-The inflexional prefix form both these pronouns in the non-nominative cases is not `yān` as Caldwell asserts,
+The inflexional prefix form for both these pronouns in the non-nominative cases is not `yān` as Caldwell asserts,
 but `en` instead, just like in Old Kannada and Tamil.
 Also, the first-person singular suffix of the verb finite forms is not `e` as Caldwell asserts,
 but `æ` instead.
-More details about this distinction between `æ` and `e` can be seen in the ["Introduction and Conetxt"](Introduction%20and%20Context.md#tulu-pronominal-forms)
+More details about the distinction between `æ` and `e` can be seen in the ["Introduction and Conetxt"](Introduction%20and%20Context.md#tulu-pronominal-forms)
 as well as in another research article ["drāviḍabhāṣegaḷa viśēṣasvaragaḷu"](../ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md#ಅರ್ಧ-ಎಕಾರ)
 (please note that the document is in Kannada and is yet to be translated to English).
 
 - > 'nênu,' I, takes 'nâ' for its inflexion or oblique form; and this shows that 'â' and not 'ê' was originally the included vowel in Telugu, as well as in Tamil and Canarese. This view is corroborated by the accusative of this pronoun in Telugu, which is 'nanu' or 'nannu,' me, (compare the Canarese accusative 'nanna' or 'nannu'), and which has evidently been derived from a nominative, 'nân' or 'nâ.' [From page [295](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-295)]
 
-The first-person singular accusative forms are "`nanna` or `nannannu`" and not "`nanna` or `nannu`".
+The first-person singular accusative forms in Kannada are "`nanna` or `nannannu`" and not "`nanna` or `nannu`".
 This is probably an error while typesetting/printing.
 
 Of the three components that make up the first-person pronominal root, it is easier to decide about the trailing consonant `n` or anusvāra.
 Caldwell has insisted that this must be the consonant `n` and Masti Venkatesha Iyengar also seems agree with this.
 Though kēśirāja specifies anusvāra for the trailing consonants `n` or `m` in the verses of śabdamaṇidarpaṇaṁ
 (for example, verse [103](https://archive.org/details/abdamaidarpaa00kirjuoft/page/134/mode/2up)),
-the `nān` form with the trailing consonant `n` does appear in some explanation and examples for the verses,
+the `nān` form with the trailing consonant `n` does appear in some explanations and examples for the verses,
 as can be seen in the "Introduction and Context".
 But since forms without the trailing consonant `n` also exist (for example, `nā` of Kannada, `nē` of Telugu),
 the trailing component must be originally just a nasalisation, as explained in "[anusvārada anusāra](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ)".
@@ -1615,8 +1615,8 @@ In IPA,
 
 Caldwell mentions the first-personal suffix of verb finite forms only with a trailing consonant `n`,
 but single vowel `e` without the trailing consonant `n` is widely used in spoken dialects and even in poetry of Modern Kannada
-(for example, [Dasa](https://en.wikipedia.org/wiki/Dasa_sahitya) and [Vachana](https://en.wikipedia.org/wiki/Vachana_sahitya) literature).
-For example, `nānu baṁde` etc.
+(for example, [Dasa](https://en.wikipedia.org/wiki/Dasa_sahitya) and [Vachana](https://en.wikipedia.org/wiki/Vachana_sahitya) literature),
+for example, `nānu baṁde` etc.
 These variations of the first-personal suffix of verb finite forms as well as the inflexional prefixes is also explained by the nasalisation-related processes.
 I.e.,
 
@@ -1638,55 +1638,57 @@ In IPA,
 So, seeing that the nasalisation-related set of processes produce all the variations of the first-person pronominal nominative,
 inflexional prefix and grammatical gender suffix of verb finite forms,
 it is safe to says that *the trailing component in the first-person pronominal root is a nasalisation
-(or that the trailing component is not present in the root but the nasalisation mediates the appending suffixes to it)*.
+(or that the trailing component is not present in the root but the nasalisation mediates the appending of suffixes to it)*.
 
 Let us examine the leading consonant of the first-person pronominal root next.
 As already seen in the "Introduction and Context", kēśirāja mentions mainly the first-person pronominal root starting with a vowel (and not any consonant).
-But first-personal pronominal forms starting with the consonant `n` are indeed found not just in Middle and Modern but also Old Kannada.
+But first-person pronominal forms starting with the consonant `n` are indeed found not just in Middle and Modern but also Old Kannada.
 Caldwell clearly supports the starting consonant `n` by saying that `nān` is the first-person pronominal root.
 He uses the `nān`/`nānu`, `nān`, `nēnu` forms of Kannada, Tamil, Telugu respectively, all of which start with the consonant `n`,
 as a strong argument in support of the starting consonant `n`.
 The Malayalam equivalent `ñān` being closely related to `nān` supports a starting consonant `n` being present in the first-person pronominal root.
-But he has recorded that the `yān` of Tamil and Tulu as well as the `ēnu` of literary Telugu show some variations in the starting consonant
+But he has recorded that the `yān` of Tamil and Tulu as well as the `ēnu` of literary Telugu show some variations in the starting component
 of the first-person pronominal root.
 However, the inflexional prefix `en` of Old Kannada, Tamil and Tulu argues against the starting consonant `n`.
 Even more than this, the first-personal suffix of verb finite forms `ēn`, `en`, `ēne`, `ēnu`, `enu` of Kannada, Tamil and Tulu,
 all starting with a vowel, strongly opposes the case for the starting consonant `n`,
 because, as mentioned in the context of the second-person pronominal roots,
-the relationship between pronouns and the grammatical gender suffixed of verb finite forms is an ancient one
-and it is likely that the grammatical gender suffixed of verb finite forms are close to their corresponding pronominal roots.
+the relationship between pronouns and the grammatical gender suffixes of verb finite forms is an ancient one
+and it is likely that the grammatical gender suffixes of verb finite forms are close to their corresponding pronominal roots.
 Caldwell acknowledges and documents this in the context of the second-person pronoun. 
 This casts strong doubts about not only the starting component of the first-person pronominal root being the consonant `n`,
 but also the starting vowel being `a`.
 The first-personal suffix of verb finite forms suggests that the starting vowel of the first-person pronominal root might be `e` instead of `a`.
 Though this suggestion might be close the truth, it is not entirely accurate, the reasons for which will be discussed [later](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar).
 
-As seen in the context of the [second-person pronoun](#analysis-of-caldwells-arguments), Caldwell seems to weaken this opposition
-to the starting consonant `n` by grammatical gender suffixes of verb finite forms, by citing the example of first-personal `vu` suffix
+As seen in the context of the [second-person pronoun](#analysis-of-caldwells-arguments), Caldwell seems to weaken the opposition
+to the starting consonant `n` by grammatical gender suffixes of verb finite forms, by citing the example of the first-personal `vu` suffix
 in Telugu verb finite forms which is really just the euphonic suffix and does not have any part of the original first-person pronominal root.
-Caldwell uses this example to conclude that it is not the pronominal roots may much modified in the grammatical gender suffixes of verb finite forms
-and, as in the case of Telugu first-person suffix of verb finite forms, nothing of the corresponding pronominal root might be retained.
+Caldwell uses this example to conclude that it is not just that the pronominal roots may be much modified
+in the grammatical gender suffixes of verb finite form, but also,
+as in the case of Telugu first-personal suffix of verb finite forms, nothing of the corresponding pronominal root might be retained.
 But as already seen in the context of the second-person pronoun, while Caldwell is right that the first-personal suffix of verb finite forms in Telugu
 do not retain any component of the first-person pronominal root, such a phenomenon is not seen in the other Dravidian languages.
-So, hoisting a process specific to Telugu in all the rest of the Dravidian languages seems unsound.
+So, hoisting a process specific to Telugu on all the rest of the Dravidian languages seems unsound.
 
 Caldwell tries to explain the variations in the starting component of the first-person pronominal root by proposing the process of `n` turning into 
-`ñ` (as in Malayalam), then to `y` (as in Tamil and Tulu) and then disappearing (as in Tulu and literary Telugu).
+`ñ` (as in Malayalam), then into `y` (as in Tamil and Tulu) and then finally disappearing (as in Tulu and literary Telugu).
 While this might seem plausible at first sight, it does not survive closer scrutiny.
 
 - While the consonant `ñ` is found in Malayalam, `y` in Tamil and Tulu and the consonant disappearing (starting with vowel `e`) in Tulu and literary Telugu,
-other examples of `n` turning into `ñ`, `y` and disappearing is rare in these languages.
+other examples of `n` turning into `ñ`, `y` or disappearing are rare in these languages.
 
-- Though it might seem that the consonant `ñ` is suitable of turning into `y`, in reality such a transformation is not found in Malayalam and Tulu
-where the consonant `ñ` abounds when compared to other Dravidian languages.
+- Though it might seem that the consonant `ñ` is suitable for turning into `y`, in reality such a transformation is not found in Malayalam and Tulu
+where the consonant `ñ` abounds in comparison with other Dravidian languages.
 The reason for this sequence of transformations being rare and the misconception that the transformations are plausible seems to be the same,
-which is that `ñ` is rarely used as independent consonant outside of consonant clusters with a vowel directly following it, in most languages.
-So, speakers of languages where `ñ` is not found immediately before a vowel, being unfamiliar with the clear pronunciation of the
-[palatal](https://en.wikipedia.org/wiki/Palatal_consonant) nasal consonant `ñ`, pronounce it as `y` (for example, `jñāna =>  gyāna`),
+which is that, in most languages, `ñ` is rarely used as independent consonant outside of consonant clusters with trailing
+[palatal consonant](https://en.wikipedia.org/wiki/Palatal_consonant), i.e., `ñ` is rarely used with a vowel directly following it.
+So, the speakers of languages where `ñ` is not found immediately before a vowel, being unfamiliar with the clear pronunciation of the
+[palatal] nasal consonant `ñ`, pronounce it variously as `y` (for example, `jñāna =>  gyāna`),
 or `n` (for example, `jñāna => gnāna`), or as a consonant cluster of `n` follows by `y` (`ny`).
-But in reality, there is no hint of the pronunciation of `n` or `y` in the pronunciation of palatal nasal consonant `ñ`.
-Native speakers of languages where the palatal nasal consonant `ñ` is often followed by a vowel, pronounce the palatal nasal consonant
-without any hint of the pronunciation of `n` or `y`.
+But in reality, there is no hint of the pronunciation of `n` or `y` in the pronunciation of the palatal nasal consonant `ñ`.
+Native speakers of languages where the palatal nasal consonant `ñ` is often followed by a vowel (like in Malayalam or Tulu),
+pronounce the palatal nasal consonant without any hint of the pronunciation of `n` or `y`.
 This must be why `ñ` rarely turns into `y` in Malayalam and Tulu and
 the misconception that palatal nasal consonant `ñ` is suitable to turn into `y`
 seems to be due to the unfamiliarity of the pronunciation of the palatal nasal consonant `ñ`.
@@ -1694,7 +1696,7 @@ seems to be due to the unfamiliarity of the pronunciation of the palatal nasal c
 - The consonant `y` disappearing (or turning into vowels like `a` or `e`) is also rare and is not a natural process.
 
 - Malayalam does indeed have a lot of examples for the consonant `n` turning into `ñ`.
-But the nasal consonants `ñ`, `ṅ` abound in Malayalam when compared to the other Dravidian languages.
+But the nasal consonants `ñ`, `ṅ` abound in Malayalam in comparison with the other Dravidian languages.
 So, hoisting the processes involving the consonant `ñ` on all the Dravidian languages without examining
 the obvious possibility that it might be specific to Malayalam seems unsound.
 
@@ -1702,15 +1704,15 @@ the obvious possibility that it might be specific to Malayalam seems unsound.
 pronominal root `am̐`/`ə̃` (`am̐ => an => anu` or `ə̃ => ən̪ => ən̪u` in Kannada).
 More details on this can be seen [here](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅನುಸ್ವಾರ-ಮ-ವ-ಒಕಾರಗಳ-ಹಾಗೂ-ನ-ಎಕಾರಗಳ-ನುಡುವಣ-ಸಂಬಂಧ)
 (please note that the document is in Kannada and is yet to be translated to English).
-But even this process is rare in Tulu and unsuitable to be extended into process in the Proto-Dravidian that transform the vowel `a` into `e`.
+But even this process is rare in Tulu and unsuitable to be extended into processes in the Proto-Dravidian that transform the vowel `a` into `e`.
 
 If there were no other viable processes that can produce the variations in the starting component of the first-person pronominal root,
 accepting the argument of the consonant `n` turning into `ñ`, then into `y` and finally disappearing might have seemed reasonable.
 But as seen in the context of the [second-person pronoun](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i),
-given that the process of the clear pronunciation of the nasalisation of the starting vowel being heard on both the sides of the vowel
-and turning into the consonant `n` both sides of the vowel exists, it seems unreasonable to rely on the process.
+given the process of the clear pronunciation of the nasalisation of the starting vowel being heard on both the sides of the vowel
+and turning into the consonant `n` on both sides of the vowel exists, it seems unreasonable.
 However, while the processes involving nasalisation can explain the starting consonant `n` and `n` turning into `ñ` is natural in Malayalam,
-the starting consonant `y` or vowel `e` is not readily explained by the processes related to nasalisation.
+the starting consonant `y` or vowel `e` are not readily explained by the processes related to nasalisation.
 But as can be seen [later](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar),
 it is indeed possible to explain the starting consonant `y` or vowel `e` with some additional processes
 which complement the processes related to nasalisation.
@@ -1719,18 +1721,18 @@ or just plain non-existent, it is safe to reject this argument*.
 
 Caldwell notes that it may not be easy to decide if the starting vowel of the first-person pronominal root is `a` or `e`.
 
-- - > It is not easy to determine whether the included vowel of this pronoun was originally 'â' or 'ê.' [From page [293](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-293)]
+- > It is not easy to determine whether the included vowel of this pronoun was originally 'â' or 'ê.' [From page [293](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-293)]
 
 But he concludes that the starting vowel in the first-personal pronominal root must be `a` after considering
 the first-person plural suffixes of verb finite forms in Tamil. 
 
-> - > A comparison of the corresponding plurals 'nâm,' 'yâm,' and 'em' (the inflexion of 'êm'), and of the plural terminations of the verb 'ôm,' 'âm,' 'am' and 'em,' leads to the conclusion that 'â' was most probably the original vowel. [From page [293](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-293)]
+- > A comparison of the corresponding plurals 'nâm,' 'yâm,' and 'em' (the inflexion of 'êm'), and of the plural terminations of the verb 'ôm,' 'âm,' 'am' and 'em,' leads to the conclusion that 'â' was most probably the original vowel. [From page [293](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-293)]
 
 - > ... The final 'ôm' ... could not well have been corrupted from 'êm,' but would spring naturally enough from 'âm;' and of this we have a proof in the circumstance that 'âm' (from 'âgum,' it is, yes) is also sometimes converted into 'ôm.' Moreover, whilst there are many instances of the change of 'a' into 'e' of 'ei,' there is not any of the converse. ... [From page [293](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-293)]
 
 The argument that `a` can turn into `o`, `e` and `ai` but it is rare for `ai` or `e` to turn into `a` seems correct.
 So, Caldwell's case for the vowel in the first-person pronominal root being `a` might seem convincing.
-But the idea about the vowel in the first person pronominal root from Masti Venkatesha Iyengar in "namma nudi" enables
+But the idea about the vowel in the first-person pronominal root from Masti Venkatesha Iyengar in "namma nudi" enables
 an even more convincing argument.
 
 #### The vowel that is intermediate to ā and ē suggested by Masti Venkatesha Iyengar
@@ -1738,12 +1740,12 @@ an even more convincing argument.
 As seen in the "Introduction and Context", Masti Venkatesha Iyengar proposes a new idea that is not seen in Caldwell's discussion
 regarding the vowel in the first-person pronominal root.
 
-> ... tamiḷinalli ān, nān eṁdu idda śabda teluginalli ēnu, nēnu eṁdāyitu eṁdu hēḷuvudu vāḍike. iveraḍakkū mūladalli oṁdu madhyasthavāda svara iddirabēku. adu oṁdu bhāṣege ā eṁdu innoṁdakke ē eṁdu iḷiyitu eṁdu hēḷuvudu heccu sariyāgabahudu. [From page [52](Introduction%20and%20Context.md#namma-nuḍi-chapter-vacana-vibhakti-pratyayagaḷu-page-52)]
+- > ... tamiḷinalli ān, nān eṁdu idda śabda teluginalli ēnu, nēnu eṁdāyitu eṁdu hēḷuvudu vāḍike. iveraḍakkū mūladalli oṁdu madhyasthavāda svara iddirabēku. adu oṁdu bhāṣege ā eṁdu innoṁdakke ē eṁdu iḷiyitu eṁdu hēḷuvudu heccu sariyāgabahudu. [From page [52](Introduction%20and%20Context.md#namma-nuḍi-chapter-vacana-vibhakti-pratyayagaḷu-page-52)]
 
 This is a key insight in unlocking the mystery of the first-person pronominal root.
-Masti Venkatesha Iyengar has not elaborated about what might be the intermediate vowel between `a` and `e`
+Masti Venkatesha Iyengar has not elaborated about what might the intermediate vowel between `a` and `e` be
 and if there are any modern Dravidian languages where it might still be surviving.
-But we need not search very far for this intermediate vowel.
+But we need not search too much for this intermediate vowel.
 
 As can be seen in ["drāviḍabhāṣegaḷa viśēṣasvaragaḷu"](../ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md#ಅರ್ಧ-ಎಕಾರ)
 (please note that the document is in Kannada and is yet to be translated to English),
@@ -1754,14 +1756,14 @@ the `e` in the first-personal suffix of verb finite forms `enu`, while not ident
 This becomes even more clear in the the alternate form `e` of the first-personal singular suffix of verb finite forms in the spoken dialects of Kannada
 (for example, `nānu baṁde`).
 The fact that Tulu uses `æ` as the first-personal suffix and `e` as the third-personal suffix of verb finite forms might be a reason why
-Tulu has retained the distinction between `æ` and `e` still.
-Because pronouncing the first-personal suffix of verb finite forms as `e` instead of `æ` does not make too much of a difference to the semantics
-and the script anyway lacking the distinction between `æ` and `e`, the distinction between these vowels might have or be continuing to be blurred.
+Tulu has retained the distinction between `æ` and `e`.
+Because, pronouncing the first-personal suffix of verb finite forms as `e` instead of `æ` does not make too much of a difference to the semantics
+and the script anyway lacking the distinction between `æ` and `e`, the distinction between these vowels might have or be continuing to be blurred in Kannada.
 However, if `æ` is pronounced as `e` in such contexts in Kannada, it might sound like toddler-speech or produce some comic effect.
 So, the distinction between `æ` and `e` might still remain in Kannada, but not as much as in Tulu.
 More details about this can be seen [here](../ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md#ಕನ್ನಡದಲ್ಲಿ-ಎ್ಕಾರ).
 
-This vowel `æ` is suitable to turn into `a` on the one side and `e` on the other, as supposed by Masti Venkatesha Iyengar.
+This vowel `æ` is clearly suitable to turn into `a` on the one side and `e` on the other, as supposed by Masti Venkatesha Iyengar.
 I.e.,
 
 - `æ`
@@ -1776,7 +1778,7 @@ I.e.,
     - `=> ē` - `ǣ` turns into `ē`.
 
 This avoids the objection of Caldwell that, while there are many examples of `a` turning into `e` or `ai`,
-not enough examples exist of `e` or `ai` turning into `a`, because here `æ` turns into `a` or `e` alternatively.
+not enough examples exist of `e` or `ai` turning into `a`, because here `æ` turns into `a` or `e`.
 
 In addition to turning into `a` or `e`, `æ` is suitable for producing `y` as well,
 because in Kannada, where there are no symbols for `æ` and `ǣ` in script,
@@ -1788,11 +1790,11 @@ I.e.,
     `=> yā` - `ǣ` turns into `yā`,
 
 This process of `æ` turning into `ya` seems more convincing than the process of `na => ña => ya => a => e` argued for by Caldwell,
-because it is a common process found in on many occasions in Kannada and even other Dravidian languages.
+because it is a common process found in many occasions in Kannada and even in other Dravidian languages.
 
 As already seen in the case of the [second-person](#dravidian-languages-1) pronominal roots,
 [nasalisation](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ) is either present in the pronominal roots or mediates when suffixes are appended to such pronominal roots
-and then the nasalisation of the vowel `æ` is pronounced clearly, it is heard almost before the vowel.
+and when the nasalisation of the vowel `æ` is pronounced clearly, it is heard almost before the vowel.
 I.e.,
 
 In ISO 15919,
@@ -1841,7 +1843,7 @@ In IPA,
     - `=> æːn̪` - The nasalisation turns into `n̪` after the vowel.
     - `=> æː` - The nasalisation disappears.
 
-Similarly, the first-personal inflexional prefixes and suffixes of verb finite forms, `en`, `e`, `nēn` are also formed.
+Similarly, the first-person inflexional prefixes and suffixes of verb finite forms, `en`, `e`, `nēn` are also formed.
 I.e.,
 
 In ISO 15919,
@@ -1943,15 +1945,15 @@ I.e.,
 
 - `nān => ñān` - The starting `n` turns into `ñ` in Malayalam. 
 
-Of the remaining first-personal plural suffixes of verb finite forms `ōm`, `ām`, `am`, `em`, it is easy to that `ām` can be produced from `ǣ`
+Of the remaining first-person plural suffixes of verb finite forms `ōm`, `ām`, `am`, `em`, it is easy to see that `ām` can be produced from `ǣ`
 and `am`, `em` from `æ`, which leaves only the process for producing `ōm` to be explained.
 The process of words ending with the nasalised vowel `a` (even non-native, loan-words) being pronounced with the nasalised vowel `o`
 is already discussed in the [previous research document](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅನುಸ್ವಾರ-ಮ-ವ-ಒಕಾರಗಳ-ಹಾಗೂ-ನ-ಎಕಾರಗಳ-ನುಡುವಣ-ಸಂಬಂಧ) on processes related to nasalisation.
 For example, `aparaṁ` is often pronounced as `aprom̐` in spoken dialects of Tamil.
-So, `ōm` can turn into `ām` by this natural process in Tamil, which has also been recorded and acknowledged by Caldwell.
+So, `ām` can turn into `ōm` by this natural process in Tamil, which has also been recorded and acknowledged by Caldwell.
 I.e.,
 
-- `ōm => ām` - The ending `a`, when nasalised or followed by anusvāra or `m`, turns into `o` in Tamil.
+- `ām => ōm` - The ending `a`, when nasalised or followed by anusvāra or `m`, turns into `o` in Tamil.
 
 Taken together, the processes of producing all the first-personal suffixes `ōm`, `ām`, `am`, `em` in Tamil from `ǣ`/`æ` could be as follows.
 
@@ -2003,22 +2005,22 @@ and [310](https://github.com/amshuman-kr/kannadada-bhakti/blob/main/content/Prov
 That the proximal vowel `i` and the medial/presentative vowel `u` are, respectively, the third-person demonstrative proximal and medial/presentative 
 as well as the second-person pronominal roots was shown in the section on the [second-person pronominal root](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i).
 Now in the discussion of the first-person pronominal root, the last remaining objection that the distal vowel `a` is not suited for the 
-first-person semantics also is eliminated by showing that the self-referential vowel `æ`, and indeed not the distal vowel `a`,
+first-person semantics is also eliminated by showing that the self-referential vowel `æ`, and indeed not the distal vowel `a`,
 is the first-person pronominal root.
 So, it turns out that, while it might have been difficult, it is not impossible to discover the ultimate principle behind the root vowels of
 all the first, second and third person pronominal roots in the Dravidian languages.
 With a small modification that the self-referential vowel `æ`, and indeed not the distal vowel `a`, is the first-person pronominal root,
 Caldwell's deep insight indeed turns out to be correct and is brought to a positive logical conclusion.
-Only a couple of unfortunate missteps such as incomplete analysis of Tulu pronominal forms and a misconception about the pronunciation of the
+Only a couple of unfortunate missteps such as an incomplete analysis of Tulu pronominal forms and a misconception about the pronunciation of the
 palatal nasal consonant `ñ` seem to have prevented Caldwell from reaching this positive conclusion himself.
 But this positive result was only possible by building on the continuous tradition of deep, broad, relentless research over the centuries
 by all the great scholars including but not limited to Masti Venkatesha Iyengar, Caldwell and kēśirāja.
 I cannot but feel grateful for such a great tradition and heritage.
 
-As Caldwell remarks, the simple, logical and beautiful regularity of the related set of processes acting on the root vowels,
-`a`, `i`, `u` and `æ` to form the first, second and third person pronominal as well as the corresponding grammatical gender suffixes of verb finite forms 
-in the Dravidian languages is second to none and probably unmatched.
-Because traces of this system is found, but with less regularity and consistency, in the other language families (for example, Indo-European) as well,
+As Caldwell remarks, the related set of processes acting on the root vowels, `a`, `i`, `u` and `æ` to form the first, second and third person pronominal forms
+as well as the corresponding grammatical gender suffixes of verb finite forms of such simple, logical and beautiful regularity 
+in the Dravidian languages are second to none and probably unmatched.
+Because traces of this system is found, but with less regularity and consistency, in the other language families (for example, the Indo-European) as well,
 it can be speculated that the system is at least as old as a possible common ancestor of these families if they indeed have a shared ancestry.
 It is fortunate that the modern Dravidian languages have largely retained this system with sufficient regularity and consistency,
 which sheds light on some aspects of the deep ancestry of pronouns across language families.
@@ -2027,7 +2029,7 @@ Further investigation of the pronominal forms in the other language families in 
 ### Indo-European Languages
 
 The self-referential vowel `æ` can found quite a bit in the first-person pronominal forms of Indo-European languages.
-But there are variations with other vowels include the vowel `a` as can be seen in the sample below.
+But there are variations with other vowels, including the vowel `a`, as can be seen in the sample below.
 Please note that this list not complete by any means and is presented here only for the purpose of comparison.
 
 Language | First-person pronouns, with vowels `e` or `ai` | First-person pronouns, with the vowel `a` | First-person pronouns, with other vowels
@@ -2047,7 +2049,7 @@ Latin | ego (ēgo) | |nos (nōs)
 In the above list, the first-person pronominal form of the reconstructed Proto-Indo-European `h₁eǵ(oH/Hom)`, `eǵoH`
 is closer to the Greek and Latin forms `egó`, `ēgo`, `ego` etc. rather than the Sanskrit `ahaṁ`.
 These forms clearly have a vowel that is close to the self-referential root vowel `æ`.
-The same self-referential root vowel `æ` is also found in the reconstructed first-person plural forms `uei`, `weh`
+The same self-referential root vowel `æ` is also found in the reconstructed first-person plural forms `uei`, `weh`.
 I do not know the reason behind choosing these forms while reconstructing the Proto-Indo-European language
 and I will be grateful if knowledgeable readers point me to relevant works.
 But choosing these forms seems to be consistent with the result that the vowel `æ` is the first-person pronominal root,
