@@ -18,10 +18,6 @@ This section refers to the relevant parts from the [Introduction and Context](In
 
 This document was originally published in Kannada and that original Kannada version can be seen [here](../ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md).
 
-This is a partial and progressive English translation of the original Kannada document.
-Due to time constraint, I plan to translate one section at a time.
-I apologize for the inconvenience caused by this approach to translation.
-
 ## About Transliteration
 
 Kannada and other Dravidian words and word fragments are transliterated in this document using [ISO 15919](https://en.wikipedia.org/wiki/ISO_15919) wherever possible and is unambiguous.
@@ -614,7 +610,7 @@ If this is one possibility, another is that Kannada `iṁdu`, Tamil `iṁṟu` a
 
 - `eṁdu` - Though `edu` now survives in the interrogative sense (`what`) only in some regional dialects of Kannada,
 there are reasons to suppose that `edu` might be the original interrogative neuter gender pronominal form from which `yāvudu` is derived.
-More details about this can be seen [here]().
+More details about this can be seen [here](#interrogative-pronominal-root-for-all-the-variations-starting-with-ā-eē-yā-ō-and-vā).
 So, the original interrogative (in the sense of space) neuter gender singular pronoun (equivalent of `edu`) becomes interrogative in the sense of time,
 leading to the current Kannada semantics of `which day`, `which/what time`, `when`.
 If this is one possibility, another is that Kannada `eṁdu`, Tamil `eṁṟu` and Malayalam `ennu` all derive from a common ancestral form.
@@ -914,13 +910,13 @@ In ISO 15919,
 - `um̐`
     - `=> uṁ` - The nasalisation turns into anusvāra which is pronounced as `m`.
     - `=> ū`- The nasalisation elongates the vowel that was nasalised.
-    More on this process can be seen [here]().
+    More on this process can be seen [here](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms).
 
 In IPA,
 - `ũ`
     - `=> um` - The nasalisation turns into anusvāra which is pronounced as `m`.
     - `=> uː` The nasalisation elongates the vowel that was nasalised.
-    More on this process can be seen [here]().
+    More on this process can be seen [here](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms).
 
 The presentative semantics of `ū` in `siṁhavū iliyū` is easy to see.
 Likewise, in `rāmanū lakṣmaṇanū sīteyū kāḍige hōdaru`, the usage of `ū` in the part `rāmanū lakṣmaṇanū sīteyū` presents `rāma`, `lakṣmaṇa` and `sītā`
@@ -2069,8 +2065,8 @@ the first vowel sounds almost the same as `æ`.
 
 ### Dravidian Languages
 
-There is no similarity in the interrogative pronominal forms of Dravidian and the other language families like the Indo-European,
-but among the Dravidian languages there a lot of commonality.
+There is no similarity in the interrogative pronominal forms in the Dravidian and the other language families like the Indo-European,
+but among the Dravidian languages there is a lot of commonality.
 An investigation of the interrogative pronominal roots turns out to be complementary to the investigation of the first, second and the third
 person pronominal roots.
 There is not much conflict amongst the views of scholars regarding the interrogative pronominal roots
@@ -2090,7 +2086,7 @@ For example, `āvudu` etc. As seen in the "Introduction and Context", kēśirāj
 these forms in the verses of śabdamaṇidarpaṇaṁ.
 
 - Interrogative pronominal forms starting with the vowel `e` or `ē` are found in all the Dravidian languages.
-For example, `eṁta`, `ēnu`, `ēke` in Kannada; `enna` etc. in Tamil; `ērŭ`, `eṁca` etc. in Tulu; `ēmi`, `ē` = `yāva` etc. in Telugu.
+For example, `eṁta`, `ēnu`, `ēke` in Kannada; `enna` etc. in Tamil; `ērŭ`, `eṁca` etc. in Tulu; `ēmi`, `ē` = `which` etc. in Telugu.
 
 - Interrogative pronominal forms starting with `yā` are found in Kannada and Tamil.
 For example, `yāvan`/`yāvanu`, `yāvaḷ`/`yāvaḷu`, `yāvar`/`yār`/`yāru` etc.
@@ -2115,7 +2111,7 @@ I.e.,
     - `=> ē` - `ǣ` turns into `ē`. 
     - `=> yā` - `ǣ` turns into `yā`.
 
-As discusssed in the sections on the first, second and the third person pronominal roots, 
+As discussed in the sections on the first, second and the third person pronominal roots, 
 [nasalisation](ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ) either is part of pronominal roots
 or mediates the appending of suffixes to the pronominal roots, which leads to different pronominal forms.
 The process of producing `ō` from `ǣ` was also seen in the section on
@@ -2134,13 +2130,13 @@ In IPA,
         - `=> õː` - The ending nasalised vowel `ɑː` turns into the nasalised vowel `oː`.
 
 The `ō`, thus produced, can further produce the `vā` of Tulu,
-because, the vowels `u` and `o` turning into `v` is a common process in not just Tulu but in most languages.
+because, the vowels `u` and `o` turning into `v` is a common process in not just Tulu but also in most other languages.
 The reason for this is the fact, as mentioned in the [research article on nasalisation](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅನುಸ್ವಾರ-ಮ-ವ-ಒಕಾರಗಳ-ಹಾಗೂ-ನ-ಎಕಾರಗಳ-ನುಡುವಣ-ಸಂಬಂಧ),
 that the pronunciation of [`u`, `o`](https://en.wikipedia.org/wiki/Roundedness)
-and [`v`](https://en.wikipedia.org/wiki/Labial_consonant) are closely related and involves the use of the lips.
+and [`v`](https://en.wikipedia.org/wiki/Labial_consonant) are closely related and involve the use of the lips.
 I.e.,
 
-- `o => va` - `o` turns into `va` - This form is not vound in the interrogative pronominal forms.
+- `o => va` - `o` turns into `va` - This form is not found in the interrogative pronominal forms.
 - `ō => vā` - `ō` turns into `vā`.
 
 Taking all these processes together, the processes producing all the variations of the starting component of the interrogative pronominal forms
@@ -2169,8 +2165,7 @@ In ISO 15919,
                 - `=> ōvu` - The nasalisation turns into `v`.
             - `ōm̐ + a`
                 - `=> ō + a` - The nasalisation disappears.
-                    - `=> vā` - `ō` turns into `v` and elongated the vowel animating it in Tulu.
-                    - `=> ವಾ` - ತುಳುವಿನಲ್ಲಿ ಓಕಾರವು ವಾಕಾರವಾಗಿದೆ
+                    - `=> vā` - `ō` turns into `v` and elongates the vowel animating it in Tulu.
 
 In IPA,
 - `æ̃ː`
@@ -2195,17 +2190,17 @@ In IPA,
                 - `=> õːʋu` - The nasalisation turns into `ʋ`.
             - `õː + ə`
                 - `=> oː + ə` - The nasalisation disappears.
-                    - `=> ʋoː` - `oː` turns into `ʋ` and elongated the vowel animating it in Tulu.
+                    - `=> ʋoː` - `oː` turns into `ʋ` and elongates the vowel animating it in Tulu.
 
 With this, *it seems appropriate to say that the interrogative vowel `æ`/`ǣ` is the interrogative pronominal root*,
-but the same vowel also being the first-personal pronominal root seems confusing which will be picked next for discussion.
+but the same vowel also being the first-personal pronominal root seems confusing; this will be picked next for discussion.
 
 #### The difference between the self-referential æ and the interrogative æ
 
-The same vowel `æ`/`ǣ` being both the first-person and interrogative pronomial roots might seem problematic.
+The same vowel `æ`/`ǣ` being both the first-person and interrogative pronominal roots might seem problematic.
 The difference of mostly the short vowel `æ` being used in the first-person and the long vowel `ǣ` being used in the interrogative pronominal forms
 may not be the full solution to this problem, because the long vowel `ǣ` does appear in the first-person nominative case.
-However, the solution for this problem is not hard to find,
+However, the solution for this problem is easily found,
 which is that in the first-personal pronominal forms the vowel is pronounced with a normal tone,
 whereas in the interrogative pronominal forms the vowel is pronounced with an interrogative uptick in intonation.
 The fact that such an interrogative tone is heard not only in interrogative pronominal forms of Dravidian languages,
@@ -2216,16 +2211,16 @@ This strengthens not only the argument that the nasalised vowel `æ` pronounced 
 but also the general insight that the nasalised vowels `a`, `i`, `u` and `æ` are variously the third, second, first and interrogative pronominal roots
 in the Dravidian languages.
 The fact that these vowels are used systematically in the Dravidian languages (and less systematically in the other language families)
-and the close resemblance these root vowels have to the initial uttarances of babies seems to bridge gap between the ancient roots of language
-and the roots of language learning in developmental biology.
-This makes this both ancient and ever-green.
-So, Caldwell using the adjective [Japhetic](https://en.wikipedia.org/wiki/Japhetites) to describe the antiquity of these root vowels seems beautifully appropriate.
-While the adjective may not be appropriate literally, it is certainly appropriate metaphorically.
+and the close resemblance these root vowels have to the initial utterances of babies seems to bridge the gap between the ancient roots of language
+development and the roots of language learning in developmental biology,
+which makes it both ancient and ever-green.
+So, Caldwell using the adjective [Japhetic](https://en.wikipedia.org/wiki/Japhetites) to describe the antiquity of these root vowels seems beautifully appropriate;
+not literally, of course, but certainly appropriate metaphorically.
 
 #### The processes behind the interrogative/speculative/skeptical suffixes ē, ā, ō and the emphasising suffix ē in Kannada
 
 In Kannada and other Dravidian languages, the vowels `ā`, `ō` are used as interrogative, speculative/skeptical suffixes
-and `ē` as interrogative and emphasising suffix.
+and `ē` as interrogative, speculative/skeptical and emphasising suffix.
 The interrogative, speculative/skeptical suffixes might be used to express surprise as well.
 For example,
 
@@ -2242,7 +2237,7 @@ Emphasising `ē`,
 - `(dēvaru + ē) gati => dēvarē gati`
 
 As already seen above, if the root vowel `æ`, pronounced in an interrogative tone, is the interrogative pronominal root,
-then it seems reasonable to suppose that it must be the root of the interrogative, speculative/skeptical suffixes `ā`, `ō` and `ē`.
+then it seems reasonable to suppose that it might be the root of the interrogative, speculative/skeptical suffixes `ā`, `ō` and `ē`.
 I.e.,
 
 In ISO 15919,
@@ -2267,21 +2262,21 @@ These set of processes producing the interrogative, speculative/skeptical suffix
 strengthen the argument that the root vowel `æ`, pronounced in an interrogative tone, is the interrogative pronominal root.
 
 Though it can be said that the emphasising suffix `ē` is also derived from the interrogative root vowel `æ`,
-from the perspective of linguistics and semantics, it might be more appropirate to say that the it is derived from the self-referential root vowel `æ`.
+from the perspective of linguistics and semantics, it might be more appropriate to say that it is derived from the self-referential root vowel `æ`.
 
 ### Indo-European Languages
 
-The processed producing the interrogative pronominal forms in the Indo-European languages do not seem to be as systematic or consistent as 
+The processes producing the interrogative pronominal forms in the Indo-European languages do not seem to be as systematic or consistent as 
 those in the Dravidian languages.
-But in interrogative pronominal forms of Sankrit, the languages derived from the various [Prakrit](https://en.wikipedia.org/wiki/Prakrit)s and Latin,
+But in the interrogative pronominal forms of Sanskrit, the languages derived from the various [Prakrit](https://en.wikipedia.org/wiki/Prakrit)s and Latin,
 the consonant `k` (or something close to it) abounds.
 For example, कः (kaḥ), का (kā), किम् (kiṁ),  कुत्र (kutra), etc. in Sankrit,  कौन (kōn), क्या (kyā), कहाँ (kahām̐) etc. in Hindi,
-ਕੀ (kī = ēnu), ਕਿੱਥੇ (kithē = elli) etc. in Punjabi, का (kā), कहाँ (kahām̐) etc. in Bhojpuri, কি (ki), কোথায় (kōthāya) in Bengali
-and quis = who, quid = what in Latin.
-But the consonant `ś` abounds in Gujarati. For example, શું (śum̐ = what).
+ਕੀ (kī), ਕਿੱਥੇ (kithē) etc. in Punjabi, का (kā), कहाँ (kahām̐) etc. in Bhojpuri, কি (ki), কোথায় (kōthāya) in Bengali
+and `quis`, `quid` in Latin.
+But the consonant `ś` is found in Gujarati. For example, શું (śum̐).
 The consonant `v` (or something close to it) abounds in English and German.
-For example, who, what etc. in English, was, wo etc. in German.
-The consonant `t` (or something close to it) is used in Greek. For example, τι = what.
+For example, `who`, `what` etc. in English, `was`, `wo` etc. in German.
+The consonant `t` (or something close to it) is used in Greek. For example, `τι`.
 
 So, the Indo-European languages seem to have taken their own different paths for the interrogative pronominal forms.
 
@@ -2291,9 +2286,9 @@ So, the Indo-European languages seem to have taken their own different paths for
 
 #### On the elongation of the root vowel in the nominative and demonstrative determiner forms
 
-The root vowels being short in the inflexional prefixes of the non-nominative cases and in the grammatical gender suffixes of verb finite forms
-is already mentioned in the "Introduction and Context"
-as well as [in this document]().
+The root vowels being long in the nominative case but short in the inflexional prefixes of the non-nominative cases
+and in the grammatical gender suffixes of verb finite forms is already mentioned in the "Introduction and Context"
+as well as [in this document](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i).
 What could be the reason for this peculiarity?
 I.e.,
 - `āṁ`/`ān`/`ānu`/`nānu`/`nā` - The vowel is elongated in the nominative case (`ā`).
@@ -2302,12 +2297,12 @@ I.e.,
 - `nannaṁ`/`nanna`/`nannanu`/`nannannu`, `nanniṁ`/`nanniṁda`/`nanniṁde`, `nanage`/`naṁge`, `nanna`, `nannoḷ`/`nannoḷu`/`nannal`/`nannali`/`nannalli` - The vowel is short in the non-moninative cases (`a`).
 - `ennaṁ`/`enna`/`ennanu`/`ennannu`, `enniṁ`/`enniṁda`/`enniṁde`, `enage`, `enna`, `ennoḷ`/`ennoḷu`/`ennal`/`ennali`/`ennalli` - The vowel is short in the non-nominative cases (`e`).
 
-But it is incorrect to say that the root vowel is elongated on in all the nominative case,
-because, only the short vowel is seen in the third-person demonstrative pronominal nominative cases (`avanu`, `avaḷu`, `adu`, `avu` etc.)
+But it would be incorrect to say that the root vowel is elongated only in all the nominative case,
+because only the short vowel is seen in the third-person demonstrative pronominal nominative cases (`avanu`, `avaḷu`, `adu`, `avu` etc.)
 and the root vowel is elongated in the [demonstrative determiner](https://en.wikipedia.org/wiki/Demonstrative#Demonstrative_determiners_and_pronouns)
-(`ā`, `ī`, `ū`, in Tulu `vā` etc.)
+(`ā`, `ī`, `ū`, in Tulu `vā` etc.).
 
-As already seen [above](#the-medialpresentative-udu-and-the-aggregating-suffix-uṁ) the aggregating suffix in Modern Kannada is also
+As already seen [above](#the-medialpresentative-udu-and-the-aggregating-suffix-uṁ), the aggregating suffix in Modern Kannada is also
 the elongated presentative pronominal root vowel `ū`.
 
 All the examples of the root vowels being elongated, if taken together, would be as follows.
@@ -2317,8 +2312,8 @@ All the examples of the root vowels being elongated, if taken together, would be
 - `ā`, `ī`, `ū`, in Tulu `vā` etc. - The root vowel is elongated in the third-person demonstrative determiners.
 - `ū` - The root vowel is elongated in the aggregating suffix in Modern Kannada.
 
-It is significant that all these forms are made up of one or two syllable and never more than that.
-If we consider only the monosyllabic forms from this list, most of them are frequently seen at the beginning of sentenses,
+It is significant that all these forms are made up of only one or two syllables and never more than that.
+If we consider only the monosyllabic forms from this list, most of them are frequently seen at the beginning of sentences,
 except for `ū`, the aggregating suffix in Modern Kannada.
 I.e.,
 
@@ -2327,7 +2322,7 @@ I.e.,
 - `ā/ī/ū biṁdige`
 
 If the root vowel was not elongated in these sentences, the `daDUM` rhythm (i.e., a light syllable followed by a heavy syllable)
-would have formed at the begining of the sentence, which as already seen [above](#neuter-gender-forms) is undesirable in Kannada
+would have formed at the beginning of the sentence, which, as already seen [above](#neuter-gender-forms), is undesirable in Kannada
 and also in the other Dravidian languages though to a somewhat lesser extent.
 I.e.,
 
@@ -2337,7 +2332,7 @@ I.e.,
 
 In a [previous research article](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md#ಆದ್ಯಕ್ಷರದ-ಹ್ರಸ್ವಸ್ವರಾಂಶವು-ಕೆಲವೊಮ್ಮೆ-ದೀರ್ಘವಾಗುವುದು)
 (please note that the document is in Kannada and is yet to be translated to English),
-it can be seen that elongating the vowel in the first syllable is one of the ways such an undesirable `daDUM` rhythm is avoided
+it can be seen that elongating the vowel in the first syllable is one of the ways of avoiding such an undesirable `daDUM` rhythm
 in Kannada and other Dravidian languages.
 
 By elongating the vowel in the light first syllable, it is turned into a heavy syllable, thus avoiding the `daDUM` rhythm.
@@ -2349,21 +2344,24 @@ I.e.,
 
 In the bisyllabic forms from the above list, if the first syllable remains light (i.e., the root vowel is not elongated),
 then `dada` rhythmic unit would have formed.
-As can be seen in the [same research article](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md), this form too is underirable in Kannada and other Dravidian languages.
+As can be seen in the [same research article](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md), this form too is undesirable in Kannada and other Dravidian languages.
 I.e.,
 
 - `anu`/`nanu` - dada
 - tuḷuvinalli, `enŭ`/`yanŭ` - dada
 - `ninu` - dada
 
-Therefore, the vowels is elongated in the bisyllabic forms also to avoid this.
+Therefore, the vowel is elongated in the bisyllabic forms also to avoid this.
 
-Since the dvitvasaṁdhi and other related processes operate in the processes involved in the production of
+Since the dvitvasaṁdhi and the other related processes operate in the processes involved in the production of
 the first, second person non-nominative pronominal forms and the third-person demonstrative pronominal forms (except the demonstrative determiner forms),
-the problem of `daDUM` rhythm gets addressed already, obviating the need to elongation of the root vowel in the first syllable.
+the problem of `daDUM` rhythm gets addressed already, obviating the need to elongate the root vowel in the first syllable.
+
+The reason for the elongated vowel in the aggregating suffix `ū` of Modern Kannada, which never appears at the beginning of the sentence,
+must be that if the vowel is not elongated, it becomes almost indistinguishable from the euphonic vowel `u` appended to consonant endings in Modern Kannada.
 
 Regarding the problem, why is the root vowel not elongated in the aggregating suffix `uṁ` of Old Kannada,
-I can offer no better solution than to merely observe that, as [listed](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md#ಕ್ರಿಯಾಪದಗಳಲ್ಲಿ-ಕಾಣುವ-ಲಗಂ-ಗತ) in the [same research article, 
+I can offer no better solution than to merely observe that, as [listed](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md#ಕ್ರಿಯಾಪದಗಳಲ್ಲಿ-ಕಾಣುವ-ಲಗಂ-ಗತ) in the same research article, 
 forms starting with `daDUM` rhythm occur more in Old Kannada in comparison with Modern Kannada
 and [Modern Kannada has intensified the removal](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md#ಸಾರಾಂಶ) of such forms.
 
