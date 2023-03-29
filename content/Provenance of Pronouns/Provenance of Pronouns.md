@@ -1641,7 +1641,7 @@ In IPA,
     - `=> e` - The nasalisation disappears in he first-personal suffix of verb finite forms in Tulu and spoken dialects of Kannada.
 
 So, seeing that the nasalisation-related set of processes produce all the variations of the first-person pronominal nominative,
-inflexional prefix and grammatical gender suffix of verb finite forms,
+inflexional prefix and grammatical person/gender suffix of verb finite forms,
 it is safe to says that *the trailing component in the first-person pronominal root is a nasalisation
 (or that the trailing component is not present in the root but the nasalisation mediates the appending of suffixes to it)*.
 
@@ -1658,8 +1658,8 @@ However, the inflexional prefix `en` of Old Kannada, Tamil and Tulu argues again
 Even more than this, the first-personal suffix of verb finite forms `ēn`, `en`, `ēne`, `ēnu`, `enu` of Kannada, Tamil and Tulu,
 all starting with a vowel, strongly opposes the case for the starting consonant `n`,
 because, as mentioned in the context of the second-person pronominal roots,
-the relationship between pronouns and the grammatical gender suffixes of verb finite forms is an ancient one
-and it is likely that the grammatical gender suffixes of verb finite forms are close to their corresponding pronominal roots.
+the relationship between pronouns and the grammatical person/gender suffixes of verb finite forms is an ancient one
+and it is likely that the grammatical person/gender suffixes of verb finite forms are close to their corresponding pronominal roots.
 Caldwell acknowledges and documents this in the context of the second-person pronoun. 
 This casts strong doubts about not only the starting component of the first-person pronominal root being the consonant `n`,
 but also the starting vowel being `a`.
@@ -1667,10 +1667,10 @@ The first-personal suffix of verb finite forms suggests that the starting vowel 
 Though this suggestion might be close the truth, it is not entirely accurate, the reasons for which will be discussed [later](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar).
 
 As seen in the context of the [second-person pronoun](#analysis-of-caldwells-arguments), Caldwell seems to weaken the opposition
-to the starting consonant `n` by grammatical gender suffixes of verb finite forms, by citing the example of the first-personal `vu` suffix
+to the starting consonant `n` by grammatical person/gender suffixes of verb finite forms, by citing the example of the first-personal `vu` suffix
 in Telugu verb finite forms which is really just the euphonic suffix and does not have any part of the original first-person pronominal root.
 Caldwell uses this example to conclude that it is not just that the pronominal roots may be much modified
-in the grammatical gender suffixes of verb finite form, but also,
+in the grammatical person/gender suffixes of verb finite form, but also,
 as in the case of Telugu first-personal suffix of verb finite forms, nothing of the corresponding pronominal root might be retained.
 But as already seen in the context of the second-person pronoun, while Caldwell is right that the first-personal suffix of verb finite forms in Telugu
 do not retain any component of the first-person pronominal root, such a phenomenon is not seen in the other Dravidian languages.
@@ -1755,15 +1755,15 @@ But we need not search too much for this intermediate vowel.
 As can be seen in ["drāviḍabhāṣegaḷa viśēṣasvaragaḷu"](../ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md#ಅರ್ಧ-ಎಕಾರ)
 (please note that the document is in Kannada and is yet to be translated to English),
 Tulu not only has the vowel `æ` (as well as and distinct from the vowel `e`), but uses it as the first-personal singular suffix
-of verb finite forms (for example, `ēnŭ batte` = `nānu baṁde`).
+of verb finite forms (for example, `ēnŭ battæ` = `nānu baṁde`).
 On careful observation, even in Kannada where `æ` is generally considered to be absent (it is certainly absent in the script),
 the `e` in the first-personal suffix of verb finite forms `enu`, while not identical to `æ`, is not fully `e` either.
 This becomes even more clear in the the alternate form `e` of the first-personal singular suffix of verb finite forms in the spoken dialects of Kannada
 (for example, `nānu baṁde`).
-The fact that Tulu uses `æ` as the first-personal suffix and `e` as the third-personal suffix of verb finite forms might be a reason why
+The fact that Tulu uses `æ` as the first-personal suffix and `e` as the third-personal suffix of verb finite forms (`āye batte = avanu baṁdanu`) might be a reason why
 Tulu has retained the distinction between `æ` and `e`.
 Because, pronouncing the first-personal suffix of verb finite forms as `e` instead of `æ` does not make too much of a difference to the semantics
-and the script anyway lacking the distinction between `æ` and `e`, the distinction between these vowels might have or be continuing to be blurred in Kannada.
+and with the script anyway lacking the distinction between `æ` and `e`, the distinction between these vowels might have or be continuing to be blurred in Kannada.
 However, if `æ` is pronounced as `e` in such contexts in Kannada, it might sound like toddler-speech or produce some comic effect.
 So, the distinction between `æ` and `e` might still remain in Kannada, but not as much as in Tulu.
 More details about this can be seen [here](../ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md#ಕನ್ನಡದಲ್ಲಿ-ಎ್ಕಾರ).
@@ -1808,7 +1808,7 @@ In ISO 15919,
 In IPA,
 - `æ̃ =>  ̃æ̃` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
 
-Such as clear pronunciation is suitable for undergoing the processes related to nasalisation on both the sides of the vowel
+Such a clear pronunciation is suitable for undergoing the processes related to nasalisation on both the sides of the vowel
 and the nasalisation turning into the consonant `n` is already seen above and [elsewhere](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ).
 I.e.,
 
@@ -1985,7 +1985,7 @@ In IPA,
         - `=> em` - `æ` turns into `e`.
 
 Thus, all the variations of the first-person pronominal nominative forms, their inflextional prefixes and the corresponding
-grammatical gender suffixes of verb finite forms are produced by these set of related processes acting on the nasalised vowel `æm̐`/`æ̃` (and `ǣm̐`/`æ̃ː`).
+grammatical person/gender suffixes of verb finite forms are produced by these set of related processes acting on the nasalised vowel `æm̐`/`æ̃` (and `ǣm̐`/`æ̃ː`).
 This leads to the inevitable conclusion that *the nasalised vowel `æm̐`/`æ̃` (and `ǣm̐`/`æ̃ː`), and not `nān`,
 is the first-person pronominal root in all the Dravidian languages*.
 A [cursory look](#indo-european-languages-2) at the the first-person pronoun forms in the Indo-European
@@ -2014,16 +2014,16 @@ first-person semantics is also eliminated by showing that the self-referential v
 is the first-person pronominal root.
 So, it turns out that, while it might have been difficult, it is not impossible to discover the ultimate principle behind the root vowels of
 all the first, second and third person pronominal roots in the Dravidian languages.
-With a small modification that the self-referential vowel `æ`, and indeed not the distal vowel `a`, is the first-person pronominal root,
+With a small modification that the self-referential vowel `æ`, and not the distal vowel `a`, is the first-person pronominal root,
 Caldwell's deep insight indeed turns out to be correct and is brought to a positive logical conclusion.
 Only a couple of unfortunate missteps such as an incomplete analysis of Tulu pronominal forms and a misconception about the pronunciation of the
 palatal nasal consonant `ñ` seem to have prevented Caldwell from reaching this positive conclusion himself.
-But this positive result was only possible by building on the continuous tradition of deep, broad, relentless research over the centuries
+But this positive result was only possible by building on the continuous tradition of deep, broad and relentless research over the centuries
 by all the great scholars including but not limited to Masti Venkatesha Iyengar, Caldwell and kēśirāja.
 I cannot but feel grateful for such a great tradition and heritage.
 
 As Caldwell remarks, the related set of processes acting on the root vowels, `a`, `i`, `u` and `æ` to form the first, second and third person pronominal forms
-as well as the corresponding grammatical gender suffixes of verb finite forms of such simple, logical and beautiful regularity 
+as well as the corresponding grammatical person/gender suffixes of verb finite forms of such simple, logical and beautiful regularity 
 in the Dravidian languages are second to none and probably unmatched.
 Because traces of this system is found, but with less regularity and consistency, in the other language families (for example, the Indo-European) as well,
 it can be speculated that the system is at least as old as a possible common ancestor of these families if they indeed have a shared ancestry.
@@ -2211,11 +2211,11 @@ This strengthens not only the argument that the nasalised vowel `æ` pronounced 
 but also the general insight that the nasalised vowels `a`, `i`, `u` and `æ` are variously the third, second, first and interrogative pronominal roots
 in the Dravidian languages.
 The fact that these vowels are used systematically in the Dravidian languages (and less systematically in the other language families)
-and the close resemblance these root vowels have to the initial utterances of babies seems to bridge the gap between the ancient roots of language
+and the close resemblance these root vowels have to the initial utterances of babies seem to bridge the gap between the ancient roots of language
 development and the roots of language learning in developmental biology,
 which makes it both ancient and ever-green.
 So, Caldwell using the adjective [Japhetic](https://en.wikipedia.org/wiki/Japhetites) to describe the antiquity of these root vowels seems beautifully appropriate;
-not literally, of course, but certainly appropriate metaphorically.
+not literally, of course, but metaphorically.
 
 #### The processes behind the interrogative/speculative/skeptical suffixes ē, ā, ō and the emphasising suffix ē in Kannada
 
@@ -2287,7 +2287,7 @@ So, the Indo-European languages seem to have taken their own different paths for
 #### On the elongation of the root vowel in the nominative and demonstrative determiner forms
 
 The root vowels being long in the nominative case but short in the inflexional prefixes of the non-nominative cases
-and in the grammatical gender suffixes of verb finite forms is already mentioned in the "Introduction and Context"
+and in the grammatical person/gender suffixes of verb finite forms is already mentioned in the "Introduction and Context"
 as well as [in this document](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i).
 What could be the reason for this peculiarity?
 I.e.,
