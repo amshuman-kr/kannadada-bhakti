@@ -2348,7 +2348,7 @@ As can be seen in the [same research article](../ವಕಾರದ%20ವಿಭಕ�
 I.e.,
 
 - `anu`/`nanu` - dada
-- tuḷuvinalli, `enŭ`/`yanŭ` - dada
+- In Tulu, `enŭ`/`yanŭ` - dada
 - `ninu` - dada
 
 Therefore, the vowel is elongated in the bisyllabic forms also to avoid this.
