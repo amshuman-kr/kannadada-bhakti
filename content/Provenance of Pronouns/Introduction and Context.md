@@ -23,6 +23,7 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
 - [About Transliteration](#about-transliteration)
 - [Content](#content)
 - [License](#license)
+- [ಬರೆಹಗಾರರು / Authors](#ಬರೆಹಗಾರರು--authors)
 - [Introduction](#introduction)
   - [Note](#note)
 - [Context](#context)
@@ -85,6 +86,10 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
 ## License
 
 [![GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://www.gnu.org/graphics/gplv3-127x51.png) ![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](../README.md#ಪರವಾನಗಿ--license)
+
+## ಬರೆಹಗಾರರು / Authors
+
+- [Amshuman K R](https://github.com/amshuman-kr)
 
 ## Introduction
 
