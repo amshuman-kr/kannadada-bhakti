@@ -27,8 +27,6 @@ function print_authors() {
         | sed 's/\(.*\), /\1, and /'
 }
 
-print_authors "content/ಎಕಾರದ ಆವೇಶ.md"
-
 ls -1t ./content | while read -r i; do
         ia=$(article_name "$i")
         ie=$(escape_space "$i")

@@ -23,6 +23,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of modification time
 
+- [ಅಂಕೆಗಳ ಅಟ್ಟಳಿಗೆ](content/ಅಂಕೆಗಳ%20ಅಟ್ಟಳಿಗೆ.md) ([ಗಣೇಶಕೃಷ್ಣ ಶಂಕರತೋಟ](https://github.com/smgk))
 - Provenance of Pronouns
 	 - [Introduction and Context](content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md) ([Amshuman K R](https://github.com/amshuman-kr))
 	 - [Provenance of Pronouns](content/Provenance%20of%20Pronouns/Provenance%20of%20Pronouns.md) ([Amshuman K R](https://github.com/amshuman-kr))
@@ -36,6 +37,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of creation time
 
+- [ಅಂಕೆಗಳ ಅಟ್ಟಳಿಗೆ](content/ಅಂಕೆಗಳ%20ಅಟ್ಟಳಿಗೆ.md) ([ಗಣೇಶಕೃಷ್ಣ ಶಂಕರತೋಟ](https://github.com/smgk))
 - Provenance of Pronouns
 	 - [Introduction and Context](content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md) ([Amshuman K R](https://github.com/amshuman-kr))
 	 - [Provenance of Pronouns](content/Provenance%20of%20Pronouns/Provenance%20of%20Pronouns.md) ([Amshuman K R](https://github.com/amshuman-kr))

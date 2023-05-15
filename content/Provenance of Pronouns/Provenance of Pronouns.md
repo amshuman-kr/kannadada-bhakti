@@ -312,7 +312,7 @@ In IPA,
             - `=> ɯmbɯkɯɭɯ => ɯmbakɯɭɯ` - The anusvāra is pronounced here as `m`.
 
 The appearance of an euphonic `b` as an infix after the anusvāra which is pronounced as `m` is similar to the linguistic processes
-in other languages, where an euphonic consonant comes as in fix after a nasal consonant.
+in other languages, where an euphonic consonant comes as infix after a nasal consonant.
 For example, the  name `Henry` has an alternate form `Hendry`; similarly, `Thomson` has the alternate form `Thompson`.
 So, *it would not be wrong to say that `ŭṁbye`, `ŭṁbaḷŭ`, `ŭṁberŭ` etc. are derived from `ŭmye`, `ŭmaḷŭ`,  `ŭmerŭ` etc., respectively*.
 Furthermore, the alternate forms of these pronouns which start with `i` instead of `ŭ` (`iṁbye`, `iṁbaḷŭ` etc.) must have been derived
