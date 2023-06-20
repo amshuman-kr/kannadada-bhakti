@@ -176,7 +176,7 @@ The following discussion about [neuter gender forms](#neuter-gender-forms) and [
 
 There is quite a bit of [supporting evidence](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಾನುಸ್ವಾರದ-ಜಾಡಿನಲ್ಲಿ) for mediating nasalisation after word fragments ending in the vowel `a`, in Kannada.
 The Tulu inflexed forms like `maroṁkŭ` (dative), `maroṁtŭ`/`marattŭ` (ablative), `maroṁta`/`maratta` (genitive), `maroṁṭŭ`/`maraṭṭŭ` (locative) etc. show that this is true in Tulu as well.
-Here, the alternative geminated forms like `marattŭ` and `maraṭṭŭ` are clearly derived from the corresponding nasalised forms (`maroṁtŭ` and `maroṁṭŭ`)
+Here, the alternative geminated forms like `marattŭ` and `maraṭṭŭ` are clearly derived from the corresponding nasalised forms (`maroṁtŭ` and `maroṁṭŭ`).
 
 In the case of word-fragments ending with other vowels, the traditional wisdom is that the nominative suffix (really, just a nasalisation) disappears when other suffixes apply.
 Some Tulu inflexed forms for word fragments with other vowel endings seem to reveal the influence of the nasalisation that is more than just disappearing.
