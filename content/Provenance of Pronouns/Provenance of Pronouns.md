@@ -41,6 +41,7 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
   - [Dravidian Languages](#dravidian-languages)
     - [Kannada, Tamil](#kannada-tamil)
     - [The euphonic infix v in the masculine and feminine singular and rational plural forms](#the-euphonic-infix-v-in-the-masculine-and-feminine-singular-and-rational-plural-forms)
+      - [Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu)
     - [Neuter Gender Forms](#neuter-gender-forms)
     - [Proximal demonstrative ŭ in Tulu](#proximal-demonstrative-ŭ-in-tulu)
     - [Dative Presentative ŭṁda of Tulu](#dative-presentative-ŭṁda-of-tulu)
@@ -168,8 +169,25 @@ In ISO 15919,
 
 In IPA,
 - `u + ̃ + əɾ => ũ + əɾ => uʋəɾ` - It can be considered that either the nasalisation has disappeared (and the euphonic infix `ʋ` has appeared between `u` and `ə` according to vakārāgama saṁdhi) or the nasalisation itself has turned into `ʋ`.
+ 
+The following discussion about [neuter gender forms](#neuter-gender-forms) and [Tulu third-person pronouns](#proximal-demonstrative-ŭ-in-tulu) seem to support the case for the mediating nasalisation processes.
 
-The following discussion about neuter gender forms and Tulu third-person pronouns seem to support the case for the mediating nasalisation processes.
+##### Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu
+
+There is quite a bit of [supporting evidence](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಾನುಸ್ವಾರದ-ಜಾಡಿನಲ್ಲಿ) for mediating nasalisation after word fragments ending in the vowel `a`, in Kannada.
+The Tulu inflexed forms like `maroṁkŭ` (dative), `maroṁtŭ`/`marattŭ` (ablative), `maroṁṭŭ`/`maraṭṭŭ` (genitive) etc. show that this is true in Tulu as well.
+Here, the alternative geminated forms like `marattŭ` and `maraṭṭŭ` are clearly derived from the corresponding nasalised forms (`maroṁtŭ` and `maroṁṭŭ`)
+
+In the case of word-fragments ending with other vowels, the traditional wisdom is that the nominative suffix (really, just a nasalisation) disappears when other suffixes apply.
+Some Tulu inflexed forms for word fragments with other vowel endings seem to reveal the influence of the nasalisation that is more than just disappearing.
+
+For example,
+
+- `naḍuṭŭ`/`naḍuṭṭŭ` - `naḍu` ends in `u`.
+- `puḍeṭŭ`/`puḍeṭṭŭ` - `puḍe` ends in `e`.
+- `bariṭŭ`/`bariṭṭŭ` - `bari` ends in `i`.
+
+Though no nasalisation exists in these examples, the optional gemination seems to betray an ancestry from an original nasalisation.
 
 #### Neuter Gender Forms
 
@@ -2394,6 +2412,7 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 ## Revisions
 
+- A small note about [indications of mediating nasalisation after word fragments ending with vowels other than `a` in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu) is added.
 - [Interrogative Pronominal Roots](#interrogative-pronominal-roots) and [Some Loose-ends](#some-loose-ends) sections are translated.
 - [First-person Pronominal Roots](#first-person-pronominal-roots) section is translated.
 - [Second-person Pronominal Roots](#second-person-pronominal-roots) section is translated.
