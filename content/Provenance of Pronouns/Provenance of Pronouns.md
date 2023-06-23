@@ -81,6 +81,7 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
 - [Some Loose-ends](#some-loose-ends)
   - [Dravidian Languages](#dravidian-languages-4)
     - [On the elongation of the root vowel in the nominative and demonstrative determiner forms](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms)
+    - [The derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada)
 - [Summary](#summary-1)
 - [Revisions](#revisions)
 
@@ -357,6 +358,8 @@ where the anusvāra is pronounced as `n` due to the `d` that follows (`ŭnda`).
 Here `ŭ` is used in both the proximal demonstrative as well the *presentative* senses.
 Kannada has the equivalent `ikō`/`igō` which are clearly derived from the proximal demonstrative `i`. 
 Also, the anusvāra/`n` here is clearly derived from the original nasalisation.
+
+The derivation of the Kannada equivalents for the Tulu `ŭṁda`, viz. `ikō`/`igō`, `akō`/`agō` can be seen [here](#the-derivation-of-the-akōikō-in-kannada).
 
 #### Origins of the form and semantics of the the root vowel u
 
@@ -2388,6 +2391,32 @@ I can offer no better solution than to merely observe that, as [listed](../ವ�
 forms starting with `daDUM` rhythm occur more in Old Kannada in comparison with Modern Kannada
 and [Modern Kannada has intensified the removal](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md#ಸಾರಾಂಶ) of such forms.
 
+#### The derivation of the akō/ikō in Kannada
+
+In the light of the insight that the nasalised vowels `im̐`/`ɪ̃`, `am̐`/`ə̃` are, respectively, the proximal and distal demonstrative pronominal roots,
+the derivation of the demonstrative determiner forms `ikō`/`igō` and `akō`/`agō` in Kannada also becomes clear.
+Here, the proximal and the distal demonstrative pronominal roots `im̐`/`ɪ̃`, `am̐`/`ə̃` are suffixed with verb [`kō`](https://kn.wiktionary.org/wiki/ಕೋ)
+in its imperative form.
+That is,
+
+In ISO 15919,
+
+- `im̐ + kō => ikō` - The nasalisation disappears.
+    - `=> igō` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
+
+- `am̐ + kō => akō` - The nasalisation disappears.
+    - `=> agō` - illi `ka`kāravu `ga`kāravāgide..
+
+In IPA,
+
+- `ɪ̃ + koː => ɪkoː` - The nasalisation disappears.
+    - `=> ɪgoː` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
+
+- `ə̃ + koː => əkoː` - The nasalisation disappears.
+    - `=> əgoː` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
+
+The plural forms of these being `ikoḷḷi`/`akoḷḷi` makes the presence of the verb `kō` in the sense of `koḷḷu` crystal clear.
+
 ## Summary
 
 Kannada and other Dravidian languages systematically use the nasalised vowels `am̐`/`ə̃`, `im̐`/`ĩ`, `um̐`/`ũ`, `æm̐`/`æ̃` (and their longer forms `ām̐`/`ɑ̃ː`, `īm̐`/`ĩː`, `ūm̐`/`ũː`, `ǣm̐`/`æ̃ː`) as distal, proximal, medial [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) third-person, second-person, first-person and [interrogative](https://en.wikipedia.org/wiki/Interrogative_word#Interrogative_pronoun) pronominal roots.
@@ -2412,6 +2441,7 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 ## Revisions
 
+- A small section on [the derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada) is added.
 - A small note about [indications of mediating nasalisation after word fragments ending with vowels other than `a` in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu) is added.
 - [Interrogative Pronominal Roots](#interrogative-pronominal-roots) and [Some Loose-ends](#some-loose-ends) sections are translated.
 - [First-person Pronominal Roots](#first-person-pronominal-roots) section is translated.
