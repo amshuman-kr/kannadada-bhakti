@@ -2405,7 +2405,7 @@ In ISO 15919,
     - `=> igō` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
 
 - `am̐ + kō => akō` - The nasalisation disappears.
-    - `=> agō` - illi `ka`kāravu `ga`kāravāgide..
+    - `=> agō` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
 
 In IPA,
 
