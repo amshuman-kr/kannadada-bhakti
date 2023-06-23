@@ -2415,7 +2415,12 @@ In IPA,
 - `ə̃ + koː => əkoː` - The nasalisation disappears.
     - `=> əgoː` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
 
-The plural forms of these being `ikoḷḷi`/`akoḷḷi` makes the presence of the verb `kō` in the sense of `koḷḷu` crystal clear.
+The plural and [honorific](https://en.wikipedia.org/wiki/Honorifics_(linguistics)) forms of these being `ikoḷḷi`/`akoḷḷi`
+makes the presence of the verb `kō` in the sense of `koḷḷu` crystal clear.
+So, unlike the [`ŭṁda` of Tulu](#dative-presentative-ŭṁda-of-tulu), `ikō`, `akō` of Kannada,
+are complete sentences in themselves (like `here/there you go` in English);
+losing the pronoun (in this case, the second-person) is natural to Kannada in such cases, especially in the spoken dialects,
+because the verbs are always inflected/conjugated for, among other things, grammatical person.
 
 ## Summary
 
