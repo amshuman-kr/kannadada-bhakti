@@ -6,6 +6,7 @@ As [mentioned](Introduction%20and%20Context.md#note) in the [Introduction and Co
 due to the complexity and subtlety involved in the investigation of the pronoun forms of Kannada and other Dravidian languages,
 this document has become unavaoidably detailed and long.
 So, for the ease of access, publishing, collaboration, revision tracking as well as for some technical reasons, this document has been split into two parts.
+
 - [Introduction and Context](Introduction%20and%20Context.md) - A brief introduction to the topic and the context for this investigation,
 such as a listing of the various pronoun forms in Kannada and other Dravidian languages and highlights of some relevant existing scholarly work can be seen here.
 - [Provenance of Pronouns](#provenance-of-pronouns) - The current document.
@@ -39,49 +40,49 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
 - [ಬರೆಹಗಾರರು / Authors](#ಬರೆಹಗಾರರು--authors)
 - [Third-person Pronominal Roots](#third-person-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages)
-    - [Kannada, Tamil](#kannada-tamil)
-    - [The euphonic infix v in the masculine and feminine singular and rational plural forms](#the-euphonic-infix-v-in-the-masculine-and-feminine-singular-and-rational-plural-forms)
-      - [Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu)
-    - [Neuter Gender Forms](#neuter-gender-forms)
-    - [Proximal demonstrative ŭ in Tulu](#proximal-demonstrative-ŭ-in-tulu)
-    - [Dative Presentative ŭṁda of Tulu](#dative-presentative-ŭṁda-of-tulu)
-    - [Origins of the form and semantics of the the root vowel u](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u)
-    - [Neuter gender singular suffixes of finite verb forms in Havyaka Kannada](#neuter-gender-singular-suffixes-of-finite-verb-forms-in-havyaka-kannada)
-    - [Neuter gender singular suffixes of finte verb forms in Kannada](#neuter-gender-singular-suffixes-of-finte-verb-forms-in-kannada)
-    - [The relationship between the anta of Tamil and anta, atta and antu of Kannada](#the-relationship-between-the-anta-of-tamil-and-anta-atta-and-antu-of-kannada)
-    - [Semantics of and the processes behind aṁta/iṁta/eṁta](#semantics-of-and-the-processes-behind-aṁtaiṁtaeṁta)
-    - [Are the third-person demonstrative pronominal roots nasalised?](#are-the-third-person-demonstrative-pronominal-roots-nasalised)
-    - [Third-person demonstrative pronouns in Kannada and their relationship to case suffixes](#third-person-demonstrative-pronouns-in-kannada-and-their-relationship-to-case-suffixes)
-    - [The medial/presentative udu and the aggregating suffix uṁ](#the-medialpresentative-udu-and-the-aggregating-suffix-uṁ)
-      - [Verse 133](#verse-133)
-        - [Summary](#summary)
+  - [Kannada, Tamil](#kannada-tamil)
+  - [The euphonic infix v in the masculine and feminine singular and rational plural forms](#the-euphonic-infix-v-in-the-masculine-and-feminine-singular-and-rational-plural-forms)
+  - [Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu)
+  - [Neuter Gender Forms](#neuter-gender-forms)
+  - [Proximal demonstrative ŭ in Tulu](#proximal-demonstrative-ŭ-in-tulu)
+  - [Dative Presentative ŭṁda of Tulu](#dative-presentative-ŭṁda-of-tulu)
+  - [Origins of the form and semantics of the the root vowel u](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u)
+  - [Neuter gender singular suffixes of finite verb forms in Havyaka Kannada](#neuter-gender-singular-suffixes-of-finite-verb-forms-in-havyaka-kannada)
+  - [Neuter gender singular suffixes of finte verb forms in Kannada](#neuter-gender-singular-suffixes-of-finte-verb-forms-in-kannada)
+  - [The relationship between the anta of Tamil and anta, atta and antu of Kannada](#the-relationship-between-the-anta-of-tamil-and-anta-atta-and-antu-of-kannada)
+  - [Semantics of and the processes behind aṁta/iṁta/eṁta](#semantics-of-and-the-processes-behind-aṁtaiṁtaeṁta)
+  - [Are the third-person demonstrative pronominal roots nasalised?](#are-the-third-person-demonstrative-pronominal-roots-nasalised)
+  - [Third-person demonstrative pronouns in Kannada and their relationship to case suffixes](#third-person-demonstrative-pronouns-in-kannada-and-their-relationship-to-case-suffixes)
+  - [The medial/presentative udu and the aggregating suffix uṁ](#the-medialpresentative-udu-and-the-aggregating-suffix-uṁ)
+  - [Verse 133](#verse-133)
+    - [Summary](#summary)
   - [Indo-European Languages](#indo-european-languages)
 - [Second-person Pronominal Roots](#second-person-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages-1)
-    - [Caldwell's arguments against nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-against-nīnninnīni-being-the-second-person-pronominal-roots)
-    - [Caldwell's arguments for nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-for-nīnninnīni-being-the-second-person-pronominal-roots)
-    - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments)
-    - [The process of producing nīn/nin from the second-person pronominal root vowel i](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i)
+  - [Caldwell's arguments against nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-against-nīnninnīni-being-the-second-person-pronominal-roots)
+  - [Caldwell's arguments for nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-for-nīnninnīni-being-the-second-person-pronominal-roots)
+  - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments)
+  - [The process of producing nīn/nin from the second-person pronominal root vowel i](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i)
   - [Indo-European Languages](#indo-european-languages-1)
 - [First-person Pronominal Roots](#first-person-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages-2)
-    - [Caldwell's arguments against nān/nā being the first-person pronominal roots](#caldwells-arguments-against-nānnā-being-the-first-person-pronominal-roots)
-    - [Caldwell's arguments for nān/nā being the first-person pronominal roots](#caldwells-arguments-for-nānnā-being-the-first-person-pronominal-roots)
-    - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments-1)
-    - [The vowel that is intermediate to ā and ē suggested by Masti Venkatesha Iyengar](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar)
-    - [An afterward on the first, second and third person pronominal roots](#an-afterward-on-the-first-second-and-third-person-pronominal-roots)
+  - [Caldwell's arguments against nān/nā being the first-person pronominal roots](#caldwells-arguments-against-nānnā-being-the-first-person-pronominal-roots)
+  - [Caldwell's arguments for nān/nā being the first-person pronominal roots](#caldwells-arguments-for-nānnā-being-the-first-person-pronominal-roots)
+  - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments-1)
+  - [The vowel that is intermediate to ā and ē suggested by Masti Venkatesha Iyengar](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar)
+  - [An afterward on the first, second and third person pronominal roots](#an-afterward-on-the-first-second-and-third-person-pronominal-roots)
   - [Indo-European Languages](#indo-european-languages-2)
 - [Interrogative Pronominal Roots](#interrogative-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages-3)
-    - [Features of the interrogative pronominal forms](#features-of-the-interrogative-pronominal-forms)
-    - [Interrogative pronominal root for all the variations starting with ā, e/ē, yā, ō and vā](#interrogative-pronominal-root-for-all-the-variations-starting-with-ā-eē-yā-ō-and-vā)
-    - [The difference between the self-referential æ and the interrogative æ](#the-difference-between-the-self-referential-æ-and-the-interrogative-æ)
-    - [The processes behind the interrogative/speculative/skeptical suffixes ē, ā, ō and the emphasising suffix ē in Kannada](#the-processes-behind-the-interrogativespeculativeskeptical-suffixes-ē-ā-ō-and-the-emphasising-suffix-ē-in-kannada)
+  - [Features of the interrogative pronominal forms](#features-of-the-interrogative-pronominal-forms)
+  - [Interrogative pronominal root for all the variations starting with ā, e/ē, yā, ō and vā](#interrogative-pronominal-root-for-all-the-variations-starting-with-ā-eē-yā-ō-and-vā)
+  - [The difference between the self-referential æ and the interrogative æ](#the-difference-between-the-self-referential-æ-and-the-interrogative-æ)
+  - [The processes behind the interrogative/speculative/skeptical suffixes ē, ā, ō and the emphasising suffix ē in Kannada](#the-processes-behind-the-interrogativespeculativeskeptical-suffixes-ē-ā-ō-and-the-emphasising-suffix-ē-in-kannada)
   - [Indo-European Languages](#indo-european-languages-3)
 - [Some Loose-ends](#some-loose-ends)
   - [Dravidian Languages](#dravidian-languages-4)
-    - [On the elongation of the root vowel in the nominative and demonstrative determiner forms](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms)
-    - [The derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada)
+  - [On the elongation of the root vowel in the nominative and demonstrative determiner forms](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms)
+  - [The derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada)
 - [Summary](#summary-1)
 - [Revisions](#revisions)
 
@@ -132,50 +133,56 @@ For example,
 Of these, only the form `uvar` appears in Kannada and Tamil; the other forms don't.
 
 So, some other kind of process is required to explain the appearance of the `v` infix in these forms (`avan`, `ivaḷ` etc.).
-A previous research article "[anusvārada anusāra](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ)" proposes such a set of processes (please note that the document is in Kannada and is yet to be translated to English).
+A previous research article "[A Nose for Nasalisation](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation)" proposes such a set of processes.
 In these processes, nasalisation appears to mediate whenever suffixes are appended to roots.
 This nasalisation then further transforms into many different forms according to a related set of processes.
 Turning into `m` or `v` is among such transforms that the mediating nasalisation enables.
 I.e.,
 
 In ISO 15919,
+
 - `a + m̐ + an => am̐ + an => avan`
 - `i + m̐ + aḷ => im̐ + aḷ => ivaḷ`
 
 In IPA,
+
 - `ə +  ̃ + ən̪ => ə̃ + ən̪ => əʋən̪`
 - `ɪ +  ̃ + əɭ => ɪ̃ + əɭ => ɪʋəɭ`
 
-I have proposed in "[anusvārada anusāra](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ)" that the ending `n` in the masculine singular suffix `an`
+I have proposed in "[A Nose for Nasalisation](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation)" that the ending `n` in the masculine singular suffix `an`
 is also originally just a nasalisation. 
 I.e., `an`/`ən̪` is originally derived from `am̐`/`ə̃`.
 In light of this hypothesis, it is easy to see how not just the Old Kannada form of `avan`/`əʋən̪` but also `avam̐`/`əʋə̃` of [Havyaka Kannada](https://en.wikipedia.org/wiki/Havigannada_dialect) as well as `ava`/`əʋə` (without the trailing `n`) found in some regional spoken dialects of Kannada are produced.
 
 In ISO 15919,
+
 - `a + m̐ + am̐ => am̐ + am̐ => avam̐` - The first nasalisation turns into `v`.
-    - `=> ava` - The trailing nasalisation disappears.
-    - `=> avan` - The trailing nasalisation turns into `n`.
+  - `=> ava` - The trailing nasalisation disappears.
+  - `=> avan` - The trailing nasalisation turns into `n`.
 
 In IPA,
+
 - `ə + ̃ + ə̃ => ə̃ + ə̃ => əʋə̃` - The first nasalisation turns into `ʋ`.
-    - `=> əʋə` - The training nasalisation disappears.
-    - `=> əʋən̪` - The trailing nasalisation turns into `n̪`.
+  - `=> əʋə` - The training nasalisation disappears.
+  - `=> əʋən̪` - The trailing nasalisation turns into `n̪`.
 
 When a mediating nasalisation can (among other things) turn into `v` or drop off, it wouldn't be incorrect, for the sake of logical consistency,
 to invoke the mediating nasalisation even in the forms involving the medial demonstrative pronominal root `u` as well.
 I.e.,
 
 In ISO 15919,
+
 - `u + m̐ + ar => um̐ + ar => uvar` - It can be considered that either the nasalisation has disappeared (and the euphonic infix `v` has appeared between `u` and `a` according to vakārāgama saṁdhi) or the nasalisation itself has turned into `v`.
 
 In IPA,
+
 - `u + ̃ + əɾ => ũ + əɾ => uʋəɾ` - It can be considered that either the nasalisation has disappeared (and the euphonic infix `ʋ` has appeared between `u` and `ə` according to vakārāgama saṁdhi) or the nasalisation itself has turned into `ʋ`.
  
 The following discussion about [neuter gender forms](#neuter-gender-forms) and [Tulu third-person pronouns](#proximal-demonstrative-ŭ-in-tulu) seem to support the case for the mediating nasalisation processes.
 
 ##### Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu
 
-There is quite a bit of [supporting evidence](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಾನುಸ್ವಾರದ-ಜಾಡಿನಲ್ಲಿ) for mediating nasalisation after word fragments ending in the vowel `a`, in Kannada.
+There is quite a bit of [supporting evidence](../A%20Nose%20for%20Nasalisation.md#on-the-trail-of-anusvāranasalisation) for mediating nasalisation after word fragments ending in the vowel `a`, in Kannada.
 The Tulu inflexed forms like `maroṁkŭ` (dative), `maroṁtŭ`/`marattŭ` (ablative), `maroṁta`/`maratta` (genitive), `maroṁṭŭ`/`maraṭṭŭ` (locative) etc. show that this is true in Tulu as well.
 Here, the alternative geminated forms like `marattŭ` and `maraṭṭŭ` are clearly derived from the corresponding nasalised forms (`maroṁtŭ` and `maroṁṭŭ`).
 
@@ -209,26 +216,29 @@ I.e.,
 This suggests the possibility of `tu` being the original neuter gender singular suffix,
 because `t` transforming into `d` is a natural process in Kannada and Dravidian languages.
 
-The reason for the optional [gemination]( https://en.wikipedia.org/wiki/Gemination) between `atu` and `attu` forms can be found in "[anusvārada anusāra](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಉಕಾರಾಂತವಾದ-ನಪುಂಸಕಲಿಂಗದ-ಏಕವಚನದ-ಸರ್ವನಾಮಗಳ-ಚತುರ್ಥೀ-ವಿಭಕ್ತಿರೂಪಗಳಲ್ಲಿರುವ-ಅಕಾರ-ವಿಕಲ್ಪದ್ವಿತ್ವ)", 
+The reason for the optional [gemination]( https://en.wikipedia.org/wiki/Gemination) between `atu` and `attu` forms can be found in "[A Nose for Nasalisation](../A%20Nose%20for%20Nasalisation.md#the-vowel-a-and-the-optional-gemination-in-the-dative-forms-of-the-neuter-gender-singular-pronouns)", 
 where the nasalisation mediating the appending of suffixes to the third-person pronominal roots can explain the the optional gemination between `atu` and `attu`.
 
 In ISP 15919,
+
 - `a + m̐ + tu => am̐tu`
-    - `=> atu` - The nasalisation disappears.
-    - `=> aṁtu` - Nasalisation turns into [anusvāra](https://en.wikipedia.org/wiki/anusvāra) which is pronounced as `n` because of the `t` that follows.
-        - `=> attu` - The anusvāra which was pronounced as `n` turns into a gemination of the following consonant `t`.
+  - `=> atu` - The nasalisation disappears.
+  - `=> aṁtu` - Nasalisation turns into [anusvāra](https://en.wikipedia.org/wiki/anusvāra) which is pronounced as `n` because of the `t` that follows.
+    - `=> attu` - The anusvāra which was pronounced as `n` turns into a gemination of the following consonant `t`.
 
 In IPA,
-- `ə + ̃ + t̪u => ə̃t̪u`
-    - `=> ət̪u` - The nasalisation disappears.
-    - `=> ən̪t̪u` - Nasalisation turns into anusvāra which is pronounced as `n̪` because of the `t̪` that follows.
-        - `=> ət̪t̪u` - The anusvāra which was pronounced as `n̪` turns into a gemination of the following consonant `t̪`.
 
-More details about these processes can be seen in "[anusvārada anusāra](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)".
+- `ə + ̃ + t̪u => ə̃t̪u`
+  - `=> ət̪u` - The nasalisation disappears.
+  - `=> ən̪t̪u` - Nasalisation turns into anusvāra which is pronounced as `n̪` because of the `t̪` that follows.
+    - `=> ət̪t̪u` - The anusvāra which was pronounced as `n̪` turns into a gemination of the following consonant `t̪`.
+
+More details about these processes can be seen in "[A Nose for Nasalisation](../A%20Nose%20for%20Nasalisation.md)".
 The fact that other such occurrences of optional gemination of words ending with `tu` survive in Modern Kannada (`haḷ + atu/attu => haḷatu/haḷattu`, `hos + atu/attu => hosatu/hosattu` etc.) strengthens this argument.
 
 So, *it can be supposed that the neuter gender singular suffix `du` has been derived from the original form `tu`*.
 I.e.
+
 - `atu => adu`
 
 But the forms like `ninadu`, `enadu`, `tanadu` do not appear in Kannada; only forms like `ninnadu`, `ennadu`, `tannadu` are found.
@@ -253,24 +263,26 @@ So, the trailing consonant `n` gets geminated (`ninnadu`, `ennadu`, `tannadu`) i
 The production sequences could be as follows.
 
 In ISO 15919,
+
 1. `nin + a + m̐ + tu => (nin + a + m̐) + tu => ninnam̐ + tu` - Because `ninam̐` would be in the (undesirable) `dada` rhythm.
-    - `=> ninnam̐tu => ninnatu` - The nasalisation disappears.
-        - `=> ninnadu` - `t` turns into `d`.
+  - `=> ninnam̐tu => ninnatu` - The nasalisation disappears.
+    - `=> ninnadu` - `t` turns into `d`.
 
 1. `nin + a + m̐ + tu => nin + (a + m̐ + tu) => nin + am̐tu => nin + aṁtu` - `aṁtu` is found in Kannada but with different semantics.
-    - `=> nin + aṁdu` - `t` turns into `d`. `aṁdu` is also found in Kannada but with different semantics.
-        - `=> ninnaṁdu` - Because `ninaṁdu` (`daDUMda`) would start with the (undesirable) `daDUM` rhythm.
-            - `=> ninnadu` - The anusvāra, which is pronounced as `n` here, disappears.
+  - `=> nin + aṁdu` - `t` turns into `d`. `aṁdu` is also found in Kannada but with different semantics.
+    - `=> ninnaṁdu` - Because `ninaṁdu` (`daDUMda`) would start with the (undesirable) `daDUM` rhythm.
+      - `=> ninnadu` - The anusvāra, which is pronounced as `n` here, disappears.
 
 In IPA,
+
 1. `n̪ɪn̪ + ə + ̃ + t̪u => (n̪ɪn̪ + ə + ̃) + t̪u => n̪ɪn̪n̪ə̃ + t̪u` - Because `n̪ɪn̪ə̃` would be in the (undesirable) `dada` rhythm.
-    - `=> n̪ɪn̪n̪ə̃t̪u => n̪ɪn̪n̪ət̪u` - The nasalisation disappears.
-        - `=> n̪ɪn̪n̪əd̪u` - `t̪` turns into `d̪`.
+  - `=> n̪ɪn̪n̪ə̃t̪u => n̪ɪn̪n̪ət̪u` - The nasalisation disappears.
+    - `=> n̪ɪn̪n̪əd̪u` - `t̪` turns into `d̪`.
 
 1. `n̪ɪn̪ + ə + ̃ + t̪u => n̪ɪn̪ + (ə + ̃ + t̪u) => n̪ɪn̪ + ə̃t̪u => n̪ɪn̪ + ən̪t̪u` - `ən̪t̪u` is found in Kannada but with different semantics.
-    - `=> n̪ɪn̪ + ən̪d̪u` - `ən̪d̪u` - `t̪` turns into `d̪`. `ən̪d̪u` is also found in Kannada but with different semantics.
-        - `=> n̪ɪn̪n̪ən̪d̪u` - Because `n̪ɪn̪ən̪d̪u` (`daDUMda`) would start with the (undesirable) `daDUM` rhythm.
-            - `=> n̪ɪn̪n̪əd̪u` - The anusvāra, which was pronounced as `n̪` here, disappears.
+  - `=> n̪ɪn̪ + ən̪d̪u` - `ən̪d̪u` - `t̪` turns into `d̪`. `ən̪d̪u` is also found in Kannada but with different semantics.
+    - `=> n̪ɪn̪n̪ən̪d̪u` - Because `n̪ɪn̪ən̪d̪u` (`daDUMda`) would start with the (undesirable) `daDUM` rhythm.
+      - `=> n̪ɪn̪n̪əd̪u` - The anusvāra, which was pronounced as `n̪` here, disappears.
 
 More details about these processes can be seen in "[vakārada vibhakti](../ವಕಾರದ%20ವಿಭಕ್ತಿ.md)".
 
@@ -289,46 +301,48 @@ a latter phenomenon that was not present in the root forms.
 I.e.,
 
 In ISO 15919,
+
 - `ŭ + m̐ + e` - `e` seems to be the root masculine singular suffix in Tulu.
-    - `=> ŭṁ + ye` - The nasalisation turns into anusvāra which is pronounced here as `m`
-    and an euphonic `y` infixes before `e`.
-        - `=> ŭṁye` - The anusvāra is pronounced here as `m`, `ŭmye`.
-            - `=> ŭṁbye` - Pronounced `ŭmbye`.
+  - `=> ŭṁ + ye` - The nasalisation turns into anusvāra which is pronounced here as `m`
+  and an euphonic `y` infixes before `e`.
+    - `=> ŭṁye` - The anusvāra is pronounced here as `m`, `ŭmye`.
+      - `=> ŭṁbye` - Pronounced `ŭmbye`.
 - `ŭ + m̐ + aḷŭ` - As in other Dravidian languages, `aḷŭ` is a feminine singular suffix in Tulu too.
-    - `=> ŭṁ + aḷŭ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
-        - `=> ŭṁaḷŭ` - The anusvāra is pronounced here as `m`, `ŭmaḷŭ`.
-            - `=> ŭṁbaḷŭ` - Pronounced `ŭmbaḷŭ`.
+  - `=> ŭṁ + aḷŭ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
+    - `=> ŭṁaḷŭ` - The anusvāra is pronounced here as `m`, `ŭmaḷŭ`.
+      - `=> ŭṁbaḷŭ` - Pronounced `ŭmbaḷŭ`.
 - `ŭ + m̐ + du` - As in other Dravidian languages, `du` is the neuter gender singular suffix in Tulu too.
-    - `=> ŭṁdu` - The nasalisation turns into anusvāra which is pronounced here as `n` due to the `d` that follows, `ŭndu`.
+  - `=> ŭṁdu` - The nasalisation turns into anusvāra which is pronounced here as `n` due to the `d` that follows, `ŭndu`.
 - `=> ŭ + m̐ + erŭ` - `erŭ` seems to be the root rational plural suffix in Tulu.
-    - `=> ŭṁ + erŭ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
-        - `=> ŭmerŭ` - The anusvāra is pronounced here as `m`.
-            - `=> ŭṁberŭ` - Pronounced `ŭmberŭ`.
+  - `=> ŭṁ + erŭ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
+    - `=> ŭmerŭ` - The anusvāra is pronounced here as `m`.
+      - `=> ŭṁberŭ` - Pronounced `ŭmberŭ`.
 - `ŭ + m̐ + kŭḷŭ` - `kŭḷŭ` (like `gaḷu` in Kannada) seems to be a plural suffix in Tulu.
-    - `=> ŭṁ + kŭḷŭ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
-        - `=> ŭṁkŭḷŭ` - The anusvāra is pronounced here as `m`, `ŭmkŭḷŭ`.
-            - `=> ŭṁbŭkŭḷŭ => ŭṁbakŭḷŭ` - The anusvāra is pronounced here as `m`, `=> ŭmbŭkŭḷŭ => ŭmbakŭḷŭ`.
+  - `=> ŭṁ + kŭḷŭ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
+    - `=> ŭṁkŭḷŭ` - The anusvāra is pronounced here as `m`, `ŭmkŭḷŭ`.
+      - `=> ŭṁbŭkŭḷŭ => ŭṁbakŭḷŭ` - The anusvāra is pronounced here as `m`, `=> ŭmbŭkŭḷŭ => ŭmbakŭḷŭ`.
 
 In IPA,
+
 - `ɯ + ̃ + e` - `e` seems to be the root masculine singular suffix in Tulu.
-    - `=> ɯm + je` - The nasalisation turns into anusvāra which is pronounced here as `m`
-    and an euphonic `j` infixes before `e`.
-        - `=> ɯmje` - The anusvāra is pronounced here as `m`.
-            - `=> ɯmbje` - The anusvāra is pronounced here as `m`.
+  - `=> ɯm + je` - The nasalisation turns into anusvāra which is pronounced here as `m`
+  and an euphonic `j` infixes before `e`.
+    - `=> ɯmje` - The anusvāra is pronounced here as `m`.
+      - `=> ɯmbje` - The anusvāra is pronounced here as `m`.
 - `ɯ + ̃ + əɭɯ` - As in other Dravidian languages, `əɭɯ` is a feminine singular suffix in Tulu too.
-    - `=> ɯm + əɭɯ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
-        - `=> ɯməɭɯ` - The anusvāra is pronounced here as `m`.
-            - `=> ɯmbəɭɯ` - The anusvāra is pronounced here as `m`.
+  - `=> ɯm + əɭɯ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
+    - `=> ɯməɭɯ` - The anusvāra is pronounced here as `m`.
+      - `=> ɯmbəɭɯ` - The anusvāra is pronounced here as `m`.
 - `ɯ + ̃ + d̪u` - As in other Dravidian languages, `d̪u` is the neuter gender singular suffix in Tulu too.
-    - `=> ɯn̪d̪u` - The nasalisation turns into anusvāra which is pronounced here as `n̪` due to the `d̪` that follows.
+  - `=> ɯn̪d̪u` - The nasalisation turns into anusvāra which is pronounced here as `n̪` due to the `d̪` that follows.
 - `=> ɯ + ̃ + eɾɯ` - `eɾɯ` seems to be the root rational plural suffix in Tulu.
-    - `=> ɯm + eɾɯ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
-        - `=> ɯmeɾɯ` - The anusvāra is pronounced here as `m`.
-            - `=> ɯmbeɾɯ` - The anusvāra is pronounced here as `m`.
+  - `=> ɯm + eɾɯ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
+    - `=> ɯmeɾɯ` - The anusvāra is pronounced here as `m`.
+      - `=> ɯmbeɾɯ` - The anusvāra is pronounced here as `m`.
 - `ɯ + ̃ + kɯɭɯ` - `kɯɭɯ` (like `gəɭu` in Kannada) seems to be a plural suffix in Tulu.
-    - `=> ɯm + kɯɭɯ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
-        - `=> ɯmkɯɭɯ` - The anusvāra is pronounced here as `m`.
-            - `=> ɯmbɯkɯɭɯ => ɯmbakɯɭɯ` - The anusvāra is pronounced here as `m`.
+  - `=> ɯm + kɯɭɯ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
+    - `=> ɯmkɯɭɯ` - The anusvāra is pronounced here as `m`.
+      - `=> ɯmbɯkɯɭɯ => ɯmbakɯɭɯ` - The anusvāra is pronounced here as `m`.
 
 The appearance of an euphonic `b` as an infix after the anusvāra which is pronounced as `m` is similar to the linguistic processes
 in other languages, where an euphonic consonant comes as infix after a nasal consonant.
@@ -378,7 +392,7 @@ For example,
 
 - `naḍe + udu => naḍevudu`
 - `naḍe + u => naḍeyu`
-    - `naḍeyu + udu => naḍeyuvudu`
+  - `naḍeyu + udu => naḍeyuvudu`
 - `tiḷi + udu => tiḷivudu`
 - `tiḷi + u + udu => tiḷiyuvudu`
 - `ā + da + udu => ādudu`
@@ -481,22 +495,24 @@ Of these forms of the third-person distal demonstrative pronoun, `atu`, `aṁtu`
 I.e.,
 
 In ISO 15919,
+
 - `a + m̐ + tu => am̐tu`
-    - `=> atu` - The nasalisation disappears.
-    - `=> aṁtu` - The nasalisation turns into anusvāra which is pronounced here as `n` due to the `t` that follows, `antu`.
-        - `=> attu` - The anusvāra turns into a gemination of the following consonant `t`.
-    - `=> am̐du` - `t` turns into `d`.
-        - `=> adu` - The nasalisation disappears.
-        - `=> aṁdu` - The nasalisation turns into anusvāra which is pronounced as `n` due to the `d` that follows, `andu`.
+  - `=> atu` - The nasalisation disappears.
+  - `=> aṁtu` - The nasalisation turns into anusvāra which is pronounced here as `n` due to the `t` that follows, `antu`.
+    - `=> attu` - The anusvāra turns into a gemination of the following consonant `t`.
+  - `=> am̐du` - `t` turns into `d`.
+    - `=> adu` - The nasalisation disappears.
+    - `=> aṁdu` - The nasalisation turns into anusvāra which is pronounced as `n` due to the `d` that follows, `andu`.
 
 In IPA,
+
 - `ə + ̃ + t̪u => ə̃t̪u`
-    - `=> ət̪u` - The nasalisation disappear.
-    - `=> ən̪t̪u` - The nasalisation turns into anusvāra which is pronounced here as `n̪` due to the `t̪` that follows.
-        - `=> ət̪t̪u` - The anusvāra turns into a gemination of the following consonant `t̪`.
-    - `=> ə̃d̪u` - `t̪` turns into `d̪`.
-        - `=> əd̪u` - The nasalisation disappears.
-        - `=> ən̪d̪u` - The nasalisation turns into anusvāra which is pronounced as `n̪` due to the `d̪` that follows.
+  - `=> ət̪u` - The nasalisation disappear.
+  - `=> ən̪t̪u` - The nasalisation turns into anusvāra which is pronounced here as `n̪` due to the `t̪` that follows.
+    - `=> ət̪t̪u` - The anusvāra turns into a gemination of the following consonant `t̪`.
+  - `=> ə̃d̪u` - `t̪` turns into `d̪`.
+    - `=> əd̪u` - The nasalisation disappears.
+    - `=> ən̪d̪u` - The nasalisation turns into anusvāra which is pronounced as `n̪` due to the `d̪` that follows.
 
 Of these forms, `atu`, `attu`, `adu` have the same semantics in Old Kannada as `adu` in Modern Kannada.
 But [`aṁtu`](https://kn.wiktionary.org/wiki/ಅಂತು) and [`aṁdu`](https://kn.wiktionary.org/wiki/ಅಂದು) have different semantics.
@@ -521,14 +537,16 @@ I.e.,
 - `aṁtu + a => aṁta`
 - `ittu + a => itta`
 
-The derivation of `anitu`/`initu`/`enitu` becomes clear by the set of processes explained in "[anusvārada anusāra](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)".
+The derivation of `anitu`/`initu`/`enitu` becomes clear by the set of processes explained in "[A Nose for Nasalisation](../A%20Nose%20for%20Nasalisation.md)".
 I.e., nasalisation mediates when the root vowels, distal `a`, proximal `i`, interrogative `e`, are suffixed with the proximal demonstrative neuter gender singular pronoun `itu` and the nasalisation then turns into `n`, resulting in `anitu`/`initu`/`enitu`.
 I.e.,
 
 In ISO 15919,
+
 - `e + m̐ + itu => enitu` - The nasalisation turns into `n`.
 
 In IPA,
+
 - `e + ̃ + ɪt̪u => en̪ɪt̪u` - The nasalisation turns into `n̪`.
 
 The [Kannada dictionary](https://archive.org/download/BVPKSPKANNADANIGHANTUSAMPOORNA) published by
@@ -544,12 +562,14 @@ to the root vowels, the distal `a`, the proximal `i` and the interrogative `e`.
 I.e.,
 
 In ISO 15919,
+
 - `a/i/e + m̐ + ivar => anivar/inivar/enivar` - The nasalisation turns into `n`.
-    - `=> anibar/inibar/enibar` - `v` turning into `b` is a common process in Kannada.
+  - `=> anibar/inibar/enibar` - `v` turning into `b` is a common process in Kannada.
 
 In IPA,
+
 - `ə/ɪ/e + ̃ + ɪʋəɾ => ən̪ɪʋəɾ/ɪn̪ɪʋəɾ/en̪ɪʋəɾ` - The nasalisation turns into `n`.
-    - `=> ən̪ɪbəɾ/ɪn̪ɪbəɾ/en̪ɪbəɾ` - `ʋ` turning into `b` is a common process in Kannada.
+  - `=> ən̪ɪbəɾ/ɪn̪ɪbəɾ/en̪ɪbəɾ` - `ʋ` turning into `b` is a common process in Kannada.
 
 So, *this confirms not only that `anitu`/`initu`/`enitu` contain the suffix `itu`,
 but also that `tu` is the original neuter gender singular suffix from which `du` is derived,
@@ -819,25 +839,27 @@ Now let's investigate the case for `attaṇiṁ` as an ablative suffix in Old Ka
 It is clear that `attaṇiṁ` is formed from the fragments `attu`, `aṇ` and `iṁ`.
 It is well known in Old Kannada grammar that the case declensions of directional words get an `aṇ` infix
 (śabdamaṇidarpaṇaṁ, verse [120](https://archive.org/details/abdamaidarpaa00kirjuoft/page/160/mode/2up)).
-But I have argued in a previous [research article](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ದಿಗ್ವಾಚಕಶಬ್ದಗಳಲ್ಲಿ-ಅಲ್ಲಲ್ಲಿ-ಕಾಣುವ-ಣಕಾರ) (please note that the document is in Kannada and is yet to be translated to English) that the `aṇ` infix is in fact derived from the [accusative](https://en.wikipedia.org/wiki/Accusative_case)
+But I have argued in a previous [research article](../A%20Nose%20for%20Nasalisation.md#the-nasal-consonant-ṇ-sometimes-seen-in-directional-words) that the `aṇ` infix is in fact derived from the [accusative](https://en.wikipedia.org/wiki/Accusative_case)
 suffix `aṁ`/`am̐`/`ə̃` mediating the case declension of such directional words (even in cases other than the accusative).
 I.e., including the process of derivation of `attu`, the process for deriving `attaṇiṁ` could be as follows.
 
 In ISO 15919,
+
 - `a + m̐ + tu + a + m̐ +  i +  m̐ =>  (a + m̐ + tu) + (a + m̐) + (i +  m̐)`
-    - `=> (am̐tu) + am̐ + (im̐)`
-        - `=> (aṁtu) + am̐ + iṁ` - The nasalisation turns into anusvāra which is pronounced as `n` because of the `t` that follows.
-            - `=> (attu + am̐) + iṁ` - The anusvāra turns into a gemination of the following consonant `t`. 
-                - `=> attam̐ + iṁ` - The trailing `u` disappears according to lōpasaṁdhi.
-                    - `=> attaṇiṁ` - The nasalisation turned into `ṇ`.
+  - `=> (am̐tu) + am̐ + (im̐)`
+    - `=> (aṁtu) + am̐ + iṁ` - The nasalisation turns into anusvāra which is pronounced as `n` because of the `t` that follows.
+      - `=> (attu + am̐) + iṁ` - The anusvāra turns into a gemination of the following consonant `t`. 
+        - `=> attam̐ + iṁ` - The trailing `u` disappears according to lōpasaṁdhi.
+          - `=> attaṇiṁ` - The nasalisation turned into `ṇ`.
 
 In IPA,
+
 - `ə + ̃ + t̪u + ə + ̃ + ɪ + ̃ => (ə + ̃ + t̪u) + (ə + ̃) + (ɪ + ̃)`
-    - `=> (ə̃t̪u) + ə̃ + (ɪ̃)`
-        - `=> (ən̪t̪u) + ə̃ + ɪm` - The nasalisation turns into anusvāra which is pronounced as `n̪` because of the `t̪` that follows.
-            - `=> (ət̪t̪u + ə̃) + ɪm` - The anusvāra turns into a gemination of the following consonant `t̪`. 
-                - `=> ət̪t̪ə̃ + ɪm` - The trailing `u` disappears according to lōpasaṁdhi.
-                    - `=> ət̪t̪əɳɪm` - The nasalisation turns into `ɳ`.
+  - `=> (ə̃t̪u) + ə̃ + (ɪ̃)`
+    - `=> (ən̪t̪u) + ə̃ + ɪm` - The nasalisation turns into anusvāra which is pronounced as `n̪` because of the `t̪` that follows.
+      - `=> (ət̪t̪u + ə̃) + ɪm` - The anusvāra turns into a gemination of the following consonant `t̪`. 
+        - `=> ət̪t̪ə̃ + ɪm` - The trailing `u` disappears according to lōpasaṁdhi.
+          - `=> ət̪t̪əɳɪm` - The nasalisation turns into `ɳ`.
 
 So, the Old Kannada grammarians, having decided that `iṁ`/`iṁda` are exclusively instrumental suffixes, seem to have settled on using
 the Proto-Dravidian third-person distal demonstrative pronominal form `attu` as the base for the ablative suffix
@@ -893,24 +915,24 @@ vr̥tti - am eṁduṁ um eṁdu pēḻva samuccayadoḷ uṁ eṁbudu dvitīyey
 am umgaḷ mikka vibhaktigaḷa mēle yathārūpamāgi pattuguṁ.
 
 prayōgaṁ -
-    dvitīyeyoḷagaṇumuviṁge:
-        - avarumanaṁtakanormeye
-          savinōḍal...                                              (1)
-        oṁdeḍeyoḷ kaṭṭuvude puliyumaṁ kavileyumaṁ                   (2)
-    mikka vibhaktigaḷa mēgaṇa samuccayakke:
-        naranuṁ naranaṁdananuṁ
-        guruvuṁ gurusutanuṁ                                         (3)
-        kāliṁdeyuṁ kaiyiṁdeyuṁ ghaṭṭisidaṁ.                         (4)
-    caturthiyoḷ vikalpaṁ:
-        drōṇaṁgaṁ ninagaṁ bil[-]
-        jāṇikeyadu sakkasamane...                                   (5)
-        vaṁcisuvudavaṁgeyuṁ ninageyuṁ sahajaṁ biḍisalke barkumē.    (6)
-        jādiyattaṇiṁdeyuṁ kēdageyattaṇiṁdeyuṁ kaṁpu baṁdudu.        (7)
-    saptamige am pattuvudu:
-        caladoḷamācāradoḷaṁ
-        kalitanadoḷaṁ...                                            (8)
-    allayeṁbudaṟa mēle uṁ pattuguṁ:
-        alliyumilliyumelliyaṁ naraṁ.                                (9)
+  dvitīyeyoḷagaṇumuviṁge:
+    - avarumanaṁtakanormeye
+      savinōḍal...                                              (1)
+    oṁdeḍeyoḷ kaṭṭuvude puliyumaṁ kavileyumaṁ                   (2)
+  mikka vibhaktigaḷa mēgaṇa samuccayakke:
+    naranuṁ naranaṁdananuṁ
+    guruvuṁ gurusutanuṁ                                         (3)
+    kāliṁdeyuṁ kaiyiṁdeyuṁ ghaṭṭisidaṁ.                         (4)
+  caturthiyoḷ vikalpaṁ:
+    drōṇaṁgaṁ ninagaṁ bil[-]
+    jāṇikeyadu sakkasamane...                                   (5)
+    vaṁcisuvudavaṁgeyuṁ ninageyuṁ sahajaṁ biḍisalke barkumē.    (6)
+    jādiyattaṇiṁdeyuṁ kēdageyattaṇiṁdeyuṁ kaṁpu baṁdudu.        (7)
+  saptamige am pattuvudu:
+    caladoḷamācāradoḷaṁ
+    kalitanadoḷaṁ...                                            (8)
+  allayeṁbudaṟa mēle uṁ pattuguṁ:
+    alliyumilliyumelliyaṁ naraṁ.                                (9)
 </pre>
 
 ###### Summary
@@ -933,16 +955,18 @@ so that the rest of the sentence can continue on about them.
 The derivation process could be as follows.
 
 In ISO 15919,
+
 - `um̐`
-    - `=> uṁ` - The nasalisation turns into anusvāra which is pronounced as `m`.
-    - `=> ū`- The nasalisation elongates the vowel that was nasalised.
-    More on this process can be seen [here](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms).
+  - `=> uṁ` - The nasalisation turns into anusvāra which is pronounced as `m`.
+  - `=> ū`- The nasalisation elongates the vowel that was nasalised.
+  More on this process can be seen [here](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms).
 
 In IPA,
+
 - `ũ`
-    - `=> um` - The nasalisation turns into anusvāra which is pronounced as `m`.
-    - `=> uː` The nasalisation elongates the vowel that was nasalised.
-    More on this process can be seen [here](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms).
+  - `=> um` - The nasalisation turns into anusvāra which is pronounced as `m`.
+  - `=> uː` The nasalisation elongates the vowel that was nasalised.
+  More on this process can be seen [here](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms).
 
 The presentative semantics of `ū` in `siṁhavū iliyū` is easy to see.
 Likewise, in `rāmanū lakṣmaṇanū sīteyū kāḍige hōdaru`, the usage of `ū` in the part `rāmanū lakṣmaṇanū sīteyū` presents `rāma`, `lakṣmaṇa` and `sītā`
@@ -1029,13 +1053,13 @@ First let's analyse the arguments Caldwell has mentioned for and against the cas
 
 - > In the personal terminations of the verb, this pronoun is much changed in all the Drâvidian dialects. It not only loses its initial 'n,' like the pronoun of the first person; but its final 'n' also disappears. Generally nothing remains in the verbal inflexions but the included vowel, and that also is more or less modified by use. In the Canarese verb it appears as 'i,' 'î,' 'îye,' and 'e:' in the ancient dialect of the Canarese it is 'âÿ,' as in Tamil.
 [From pages [306](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-306)
-    and [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
+  and [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
 
-    > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases. The dative has 'nan,' instead of nin; e.g., 'nanikka,' to thee - as if from a nominative in 'nan,' with 'a' as the included vowel. This use of 'a' is in accordance with the colloquial Tamil personal termination of the web, which is 'âÿ,' instead of 'îÿ.'
-    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+  > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases. The dative has 'nan,' instead of nin; e.g., 'nanikka,' to thee - as if from a nominative in 'nan,' with 'a' as the included vowel. This use of 'a' is in accordance with the colloquial Tamil personal termination of the web, which is 'âÿ,' instead of 'îÿ.'
+  [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
 
-    > In Tulu... The personal terminations of the verb in the second person singular is represented by 'a.'
-    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+  > In Tulu... The personal terminations of the verb in the second person singular is represented by 'a.'
+  [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
 
 - > ... In the colloquial obliques the initial 'n' entirely disappears, and does not leave even a 'y' behind it, as the initial 'n' of the first personal pronoun generally does. When the initial is discarded, the included vowel changes from 'i' to 'u.' 'u,' however, constitutes the included vowel of this pronoun, not only when the initial 'n' is lost, but sometimes, in the higher dialect, even when it is retained. 'nin,' 'nun,' and 'un' are severally used as the bases of the oblique cases.
 [From page [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307)]
@@ -1072,8 +1096,8 @@ First let's analyse the arguments Caldwell has mentioned for and against the cas
 
 - > The verbal inflexions of the Telugu, use only the final syllable of the nominative of each of the pronouns, viz., 'nu' (from 'nênu,' I), 'vu' (from 'nîvu,', thou), and 'ḍu' (from 'vâḍu,' he). The most important and essential part of each pronoun has thus been omitted; and the fragments which have been retained are merely formatives, or at most signs of gender and number.
 [From page [295](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-295)]
-    - > In the oblique cases the Telugu rejects the euphonic addition of 'vu,' and uses 'nî' as its inflexional base, and also as its possessive. ... In the personal terminations of the verb, the Telugu rejects every portion of the pronominal root, and employs only the euphonic addition 'vu' or 'vi.'
-    [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+  - > In the oblique cases the Telugu rejects the euphonic addition of 'vu,' and uses 'nî' as its inflexional base, and also as its possessive. ... In the personal terminations of the verb, the Telugu rejects every portion of the pronominal root, and employs only the euphonic addition 'vu' or 'vi.'
+  [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
 
 - > ... On a comparison of the various Drâvidian dialects we arrive at the conclusion that the primitive form of this pronouns was 'nî,' 'nû,' or 'na;' - most probably the first. The only essential part of the pronoun appears to be the initial consonant 'n;' just as in the Indo-European languages 't' is the only essential part of the corresponding pronoun. In each family the vowel by the help of which the initial consonant is enunciated varies considerably, but evinces, on the whole, a preference for 'i' in the Dravidian languages, for 'u; in the Indo-European.
 [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
@@ -1105,13 +1129,13 @@ I apologise if this causes confusion.
 
 - > In the personal terminations of the verb, this pronoun is much changed in all the Drâvidian dialects. It not only loses its initial 'n,' like the pronoun of the first person; but its final 'n' also disappears. Generally nothing remains in the verbal inflexions but the included vowel, and that also is more or less modified by use. In the Canarese verb it appears as 'i,' 'î,' 'îye,' and 'e:' in the ancient dialect of the Canarese it is 'âÿ,' as in Tamil.
 [From pages [306](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-306)
-    and [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307).
+  and [307](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-307).
 
-    > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases. The dative has 'nan,' instead of nin; e.g., 'nanikka,' to thee - as if from a nominative in 'nan,' with 'a' as the included vowel. This use of 'a' is in accordance with the colloquial Tamil personal termination of the web, which is 'âÿ,' instead of 'îÿ.'
-    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+  > ... In Malayâlam the nominative of this pronoun is 'nî;' but 'nin' is used, as in classical Tail, in the oblique cases. The dative has 'nan,' instead of nin; e.g., 'nanikka,' to thee - as if from a nominative in 'nan,' with 'a' as the included vowel. This use of 'a' is in accordance with the colloquial Tamil personal termination of the web, which is 'âÿ,' instead of 'îÿ.'
+  [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
 
-    > In Tulu... The personal terminations of the verb in the second person singular is represented by 'a.'
-    [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
+  > In Tulu... The personal terminations of the verb in the second person singular is represented by 'a.'
+  [From page [308](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-308)]
 
 This argument strongly opposes the case for the starting consonant `n` in `nī`/`ni` being essential to the second-person semantics,
 because the relationship between pronouns and the grammatical personal suffixes of finite verb forms seems to be an ancient one
@@ -1123,8 +1147,8 @@ the fact of this suffix not having the vowel `i` does not undermine this argumen
 
 - > The verbal inflexions of the Telugu, use only the final syllable of the nominative of each of the pronouns, viz., 'nu' (from 'nênu,' I), 'vu' (from 'nîvu,', thou), and 'ḍu' (from 'vâḍu,' he). The most important and essential part of each pronoun has thus been omitted; and the fragments which have been retained are merely formatives, or at most signs of gender and number.
 [From page [295](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-295)]
-    - > In the oblique cases the Telugu rejects the euphonic addition of 'vu,' and uses 'nî' as its inflexional base, and also as its possessive. ... In the personal terminations of the verb, the Telugu rejects every portion of the pronominal root, and employs only the euphonic addition 'vu' or 'vi.'
-    [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
+  - > In the oblique cases the Telugu rejects the euphonic addition of 'vu,' and uses 'nî' as its inflexional base, and also as its possessive. ... In the personal terminations of the verb, the Telugu rejects every portion of the pronominal root, and employs only the euphonic addition 'vu' or 'vi.'
+  [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
 
 Caldwell seems to have used this argument to weaken the strength of the argument by grammatical personal suffixes of finite verb forms
 against the starting consonant `n`.
@@ -1218,7 +1242,7 @@ without considering the obvious possibility that this might be a process specifi
 Likewise, the argument that `nīn` has turned first into `nīy` and then into `nī` doesn't hold water,
 because the trailing `n` in `nīn` is originally just a nasalisation; i.e., `nīm̐`/`n̪ĩː`; that nasalisation turns into `n` to form `nīn`
 or disappears to form `nī`.
-More details on these processes involving nasalisation can be seen [here](ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ).
+More details on these processes involving nasalisation can be seen [here](A%20Nose%20for%20Nasalisation.md#features-of-nasalisation).
 In fact, the process of `n` turning into `ñ`, then into `y` and eventually disappearing is inaccurate not just in the case of the
 second-person pronouns but also in the case the first-person as will be discussed [later](#analysis-of-caldwells-arguments-1).
 
@@ -1275,25 +1299,26 @@ are produced from the root vowel `i`, which will be picked next.
 #### The process of producing nīn/nin from the second-person pronominal root vowel i
 
 The clue for the process for producing `nīn`/`nin` from the second-person pronominal root vowel `ī`/`i` can be
-found in a previous research article ["anusvārada anusāra"](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md)
-(please note that the document is in Kannada and is yet to be translated to English),
-which investigates the phenomenon of [nasalisation mediating](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ)
+found in a previous research article ["anusvārada anusāra"](../A%20Nose%20for%20Nasalisation.md),
+which investigates the phenomenon of [nasalisation mediating](../A%20Nose%20for%20Nasalisation.md#nasalisation-appearing-before-other-case-suffixes)
 wherever suffixes are appended to the root words, eventually producing various different forms.
-Also, it is seen in the [previous document](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರವೇ-ಪ್ರತ್ಯಯವೇ-ನಕಾರವೇ-ಲಿಂಗವಾಚಕವಾಗಿ-ಪ್ರಕೃತಿಯ-ಭಾಗವೇ) on nasalisation
+Also, it is seen in the [previous document](../A%20Nose%20for%20Nasalisation.md#is-nasalisation-an-affix-is-the-trailing-n-a-part-of-the-word-fragmentroot-indicating-grammatical-gender) on nasalisation
 and also briefly [above](#are-the-third-person-demonstrative-pronominal-roots-nasalised) in this document,
 that saying nasalisation mediates when suffixes are appended to the roots is equivalent to saying that the roots themselves are nasalised
 and it does not make much difference to the processes and the forms that are produced.
-It is seen while [examining the variations in the nominative forms](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ)
+It is seen while [examining the variations in the nominative forms](../A%20Nose%20for%20Nasalisation.md#nasalisation-appearing-before-other-case-suffixes)
 like `ava`/`rāma`, `avam̐`/`rāmam̐`, `avan`/`rāman` etc., that the nasalisation originally existed in the nominative case too.
 With this background, it seems appropriate to suppose that the second-person pronominal root `ī`/`i` is also nasalised in the nominative case
 and Caldwell has already noted the phenomenon of the included vowel in the pronouns being elongated in the nominative forms.
 So, the nominative and the inflexional prefix forms of the second-person pronominal root would be as follows respectively. 
 
 In ISO 15919,
+
 - `īm̐` - Nominative
 - `im̐` - Inflexional prefix
 
 In IPA,
+
 - `ĩː` - Nominative
 - `ɪ̃` - Inflexional prefix
 
@@ -1302,11 +1327,13 @@ are produced from these nasalised root vowels.
 I.e.,
 
 In ISO 15919,
+
 - `īm̐ => ī` - The nasalisation disappears in Tulu and old literary Telugu.
 - `īm̐ + u => īvu` - The nasalisation turns into `v` in literary Telugu.
 - `im̐ + kŭḷŭ => iṁkŭḷŭ` - The nasalisation turns into anusvāra in Tulu, which is pronounced as `ṅ` because of the `k` that follows.
 
 In IPA,
+
 - `ĩː => iː` - The nasalisation has disappeared in Tulu and old literary Telugu.
 - `ĩː + u => iːʋu` - The nasalisation turns into `ʋ` in literary Telugu.
 - `ɪ̃ + kɯɭɯ => ɪŋkɯɭɯ` - The nasalisation turns into anusvāra in Tulu, which is pronounced as `ŋ` because of the `k` that follows.
@@ -1318,10 +1345,12 @@ Similarly, since nasalisation turning into `n` is also a known process, the trai
 I.e.,
 
 In ISO 15919,
+
 - `īm̐  => īn` - The nasalisation turns into `n`.
 - `im̐ => in` - The nasalisation turns into `n`
 
 In IPA,
+
 - `ĩː  => iːn̪` - The nasalisation turns into `n̪`.
 - `ɪ̃ => ɪn̪` - The nasalisation turns into `n̪`.
 
@@ -1332,7 +1361,7 @@ I.e.,
 
 - `um̐ => un` - The nasalisation turns into `n` in the inflexional prefix of non-nominative cases of the second-person pronoun in spoken dialects of Tamil.
 
-More details about these related set of processes of nasalisation disappearing, turning into anusvāra, `n`, `v` etc. can be seen [here](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md).
+More details about these related set of processes of nasalisation disappearing, turning into anusvāra, `n`, `v` etc. can be seen [here](../A%20Nose%20for%20Nasalisation.md).
 
 Now what remains is the process of producing the leading consonant `n` in `nīn`/`nin`.
 Caldwell has argued (rightly so) that prefixes are not natural to and rarely found in Dravidian languages
@@ -1353,11 +1382,13 @@ It might seem that `niṁkḷŭ` is produced by prefixing `n` to `iṁkḷŭ`.
 I.e.,
 
 In ISO 15919,
+
 - `n + im̐kḷŭ => nim̐kḷŭ`
 - `n + iṁkḷŭ => niṁkḷŭ`
 - `n + iṅkḷŭ => niṅkḷŭ`
 
 In IPA,
+
 - `n̪ + ɪ̃kɭɯ => n̪ɪ̃kɭɯ`
 - `n̪ + ɪŋkɭu => n̪ɪŋkɭu`
 
@@ -1370,19 +1401,23 @@ This process becomes even more clear while trying to pronounce just the nasalise
 I.e.,
 
 In ISO 15919,
+
 - `im̐ => m̐im̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `i`.
 
 In IPA,
+
 - `ɪ̃ =>  ̃ɪ̃` - The clear pronunciation of nasalisation can be heard almost before the vowel `ɪ`.
 
-Such a clear nasalisation is capable of producing the [transformations mediated by nasalisation](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ)
-both before and after the vowel `i` and the process of nasalisation turning into `n` is [already seen](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ).
+Such a clear nasalisation is capable of producing the [transformations mediated by nasalisation](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation)
+both before and after the vowel `i` and the process of nasalisation turning into `n` is [already seen](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation).
 I.e.,
 
 In ISO 15919,
+
 - `m̐im̐  => nin` - The nasalisation of the vowel `i` turns into `n` both before and after the vowel.
 
 In IPA,
+
 - ` ̃ɪ̃  => n̪ɪn̪` - The nasalisation of the vowel `ɪ` turns into `n̪` both before and after the vowel.
 
 In this process, there are no prefixes involved as objected to by Caldwell;
@@ -1393,24 +1428,26 @@ and inflexional prefix `nin` of Old Kannada, Tamil, Malayalam and Telugu from th
 could be as follows.
 
 In ISO 15919,
+
 - `īm̐` - The second-person nominative root form.
-    - `=> m̐īm̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `ī`.
-        - `=> nīm̐` - The nasalisation heard before the vowel `ī` turns into `n`.
-            - `=> nīn` - The nasalisation heard after the vowel `ī` turns into `n` as well.
-            - `=> nī` - The nasalisation heard after the vowel `ī` disappears.
+  - `=> m̐īm̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `ī`.
+    - `=> nīm̐` - The nasalisation heard before the vowel `ī` turns into `n`.
+      - `=> nīn` - The nasalisation heard after the vowel `ī` turns into `n` as well.
+      - `=> nī` - The nasalisation heard after the vowel `ī` disappears.
 - `im̐` - The root form of the second-person inflexional prefix.
-    - `=> m̐im̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `ī`.
-        - `=> nin` - The nasalisation heard on both sides of the vowel `i` turns into `n`.
+  - `=> m̐im̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `ī`.
+    - `=> nin` - The nasalisation heard on both sides of the vowel `i` turns into `n`.
 
 In IPA,
+
 - `ĩː` - The second-person nominative root form.
-    - `=>  ̃ĩː` - The clear pronunciation of nasalisation can be heard almost before the vowel `iː`.
-        - `=> n̪ĩː` - The nasalisation heard before the vowel `iː` turns into `n̪`.
-            - `=> n̪iːn̪` - The nasalisation heard after the vowel `iː` turns into `n̪` as well.
-            - `=> n̪iː` - The nasalisation heard after the vowel `iː` disappears.
+  - `=>  ̃ĩː` - The clear pronunciation of nasalisation can be heard almost before the vowel `iː`.
+    - `=> n̪ĩː` - The nasalisation heard before the vowel `iː` turns into `n̪`.
+      - `=> n̪iːn̪` - The nasalisation heard after the vowel `iː` turns into `n̪` as well.
+      - `=> n̪iː` - The nasalisation heard after the vowel `iː` disappears.
 - `ɪ̃` - The root form of the second-person inflexional prefix.
-    - `=>  ̃ɪ̃` - The clear pronunciation of nasalisation can be heard almost before the vowel `ɪ`.
-        - `=> n̪ɪn̪` - The nasalisation heard on both sides of the vowel `ɪ` turns into `n̪`.
+  - `=>  ̃ɪ̃` - The clear pronunciation of nasalisation can be heard almost before the vowel `ɪ`.
+    - `=> n̪ɪn̪` - The nasalisation heard on both sides of the vowel `ɪ` turns into `n̪`.
 
 In comparison with this set of processes involving nasalisation, the opposite process of losing the nasal consonant `n`
 (i.e., `na => ña => ya => a`) suggested by Caldwell seems less plausible, not the least because the intermediate forms
@@ -1421,24 +1458,26 @@ Similarly, the processes producing the second-person pronominal forms starting w
 in the spoken and literary Tamil could be as follows.
 
 In ISO 15919,
+
 - `um̐` - The presentative and second-person pronominal root form in the non-nominative cases in Tamil.
-    - `=> un` - The nasalisation turns into `n` in spoken dialects of Tamil.
-    - `=> um` - The nasalisation turns into `m` in the plural form of grammatical imperative mood of verbs in Tamil.
-    - `=> m̐um̐` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
-        - `=> nun` - The nasalisation heard on both sides of the vowel `u` turns into `n`.
+  - `=> un` - The nasalisation turns into `n` in spoken dialects of Tamil.
+  - `=> um` - The nasalisation turns into `m` in the plural form of grammatical imperative mood of verbs in Tamil.
+  - `=> m̐um̐` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
+    - `=> nun` - The nasalisation heard on both sides of the vowel `u` turns into `n`.
 
 In IPA,
+
 - `ũ` - The presentative and second-person pronominal root form in the non-nominative cases in Tamil.
-    - `=> un̪` - The nasalisation turns into `n̪` in spoken dialects of Tamil.
-    - `=> um` - The nasalisation turns into `m` in the plural form of grammatical imperative mood of verbs in Tamil.
-    - `=>  ̃ũ` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
-        - `=> nun` - The nasalisation heard on both sides of the vowel `u` turns into `n̪`.
+  - `=> un̪` - The nasalisation turns into `n̪` in spoken dialects of Tamil.
+  - `=> um` - The nasalisation turns into `m` in the plural form of grammatical imperative mood of verbs in Tamil.
+  - `=>  ̃ũ` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
+    - `=> nun` - The nasalisation heard on both sides of the vowel `u` turns into `n̪`.
 
 So, without invoking any processes involving prefixes, it is possible to produce the all the second-person pronominal forms
 found in the old and modern variants of Dravidian languages by a set of related processes where the clear pronunciation of
 nasalisation of the proximal demonstrative and second-person pronominal root vowel, `im̐`/`ɪ̃` (and `īm̐`/`ĩː`) and
 the presentative and second-person pronominal root vowel, `um̐`/`ũ`, is naturally heard on both sides of the vowel which then
-proceed to undergo the usual set of related processes already discussed in ["anusvārada anusāra"](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md).
+proceed to undergo the usual set of related processes already discussed in ["anusvārada anusāra"](../A%20Nose%20for%20Nasalisation.md).
 With this, the last of the objections, due to which Caldwell abandoned pursuing the possibility of
 the proximate demonstrative vowel `i`/`ī` being also the second-person pronominal root, is also rendered ineffective.
 Taking all these arguments together, it seems appropriate to say that *the nasalised third-person demonstrative pronominal root vowels,
@@ -1595,54 +1634,56 @@ Though kēśirāja specifies anusvāra for the trailing consonants `n` or `m` in
 the `nān` form with the trailing consonant `n` does appear in some explanations and examples for the verses,
 as can be seen in the "Introduction and Context".
 But since forms without the trailing consonant `n` also exist (for example, `nā` of Kannada, `nē` of Telugu),
-the trailing component must be originally just a nasalisation, as explained in "[anusvārada anusāra](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ)".
+the trailing component must be originally just a nasalisation, as explained in "[anusvārada anusāra](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation)".
 I.e.,
 
 In ISO 15919,
+
 - `nām̐`
-    - `=> nān` - The nasalisation turns into `n` in Old Kannada and Tamil.
-        - `nān + u`
-            - `=> nānu` - Kannada appends an euphonic vowel `u` to the consonant ending.
-    - `=> nā` - The nasalisation disappears in Kannada.
+  - `=> nān` - The nasalisation turns into `n` in Old Kannada and Tamil.
+    - `nān + u`
+      - `=> nānu` - Kannada appends an euphonic vowel `u` to the consonant ending.
+  - `=> nā` - The nasalisation disappears in Kannada.
 - `ām̐`
-    - `=> ān` - The nasalisation turns into `n` in Old Kannada.
-        - `ān + u`
-            - `=> ānu` - Middle and Havyaka Kannada append an euphonic vowel `u` to the consonant ending.
+  - `=> ān` - The nasalisation turns into `n` in Old Kannada.
+    - `ān + u`
+      - `=> ānu` - Middle and Havyaka Kannada append an euphonic vowel `u` to the consonant ending.
 - `nēm̐`
-    - `=> nēn` - The nasalisation turns into `n` in Telugu.
-        - `nēn + u`
-            - `=> nēnu` - Telugu appends an euphonic vowel `u` to the consonant ending.
-    - `=> nē` - The nasalisation disappears in Telugu.
+  - `=> nēn` - The nasalisation turns into `n` in Telugu.
+    - `nēn + u`
+      - `=> nēnu` - Telugu appends an euphonic vowel `u` to the consonant ending.
+  - `=> nē` - The nasalisation disappears in Telugu.
 - `ēm̐`
-    - `=> ēn` - The nasalisation turns into `n` in Tulu and literary Telugu.
-        - `ēn + ŭ`
-            - `=> ēnŭ` - Tulu appends an euphonic vowel `ŭ` to the consonant ending. 
-        - `ēn + u`
-            - `=> ēnu` - Telugu appends an euphonic vowel `u` to the consonant ending.
-    - `=> ē` - The nasalisation disappears in literary Telugu.
+  - `=> ēn` - The nasalisation turns into `n` in Tulu and literary Telugu.
+    - `ēn + ŭ`
+      - `=> ēnŭ` - Tulu appends an euphonic vowel `ŭ` to the consonant ending. 
+    - `ēn + u`
+      - `=> ēnu` - Telugu appends an euphonic vowel `u` to the consonant ending.
+  - `=> ē` - The nasalisation disappears in literary Telugu.
 
 In IPA,
+
 - `n̪ɑ̃ː`
-    - `=> n̪ɑːn̪` - The nasalisation turns into `n̪` in Old Kannada and Tamil.
-        - `n̪ɑːn̪ + u`
-            - `=> n̪ɑːn̪u` - Kannada appends an euphonic vowel `u` to the consonant ending.
-    - `=> n̪ɑː` - The nasalisation disappears in Kannada.
+  - `=> n̪ɑːn̪` - The nasalisation turns into `n̪` in Old Kannada and Tamil.
+    - `n̪ɑːn̪ + u`
+      - `=> n̪ɑːn̪u` - Kannada appends an euphonic vowel `u` to the consonant ending.
+  - `=> n̪ɑː` - The nasalisation disappears in Kannada.
 - `ɑ̃ː`
-    - `=> ɑːn̪` - The nasalisation turns into `n̪` in Old Kannada.
-        - `ɑːn̪ + u`
-            - `=> ɑːn̪u` - Middle and Havyaka Kannada append an euphonic vowel `u` to the consonant ending.
+  - `=> ɑːn̪` - The nasalisation turns into `n̪` in Old Kannada.
+    - `ɑːn̪ + u`
+      - `=> ɑːn̪u` - Middle and Havyaka Kannada append an euphonic vowel `u` to the consonant ending.
 - `n̪ẽː`
-    - `=> n̪eːn̪` - The nasalisation turns into `n̪` in Telugu.
-        - `n̪eːn̪ + u`
-            - `=> n̪eːn̪u` - Telugu appends an euphonic vowel `u` to the consonant ending.
-    - `=> n̪eː` - The nasalisation disappears in Telugu.
+  - `=> n̪eːn̪` - The nasalisation turns into `n̪` in Telugu.
+    - `n̪eːn̪ + u`
+      - `=> n̪eːn̪u` - Telugu appends an euphonic vowel `u` to the consonant ending.
+  - `=> n̪eː` - The nasalisation disappears in Telugu.
 - `ẽː`
-    - `=> eːn̪` - The nasalisation turns into `n̪` in Tulu and literary Telugu.
-        - `eːn̪ + ɯ`
-            - `=> ēnŭ` - Tulu appends an euphonic vowel `ɯ` to the consonant ending. 
-        - `eːn̪ + u`
-            - `=> eːn̪u` - Telugu appends an euphonic vowel `u` to the consonant ending.
-    - `=> eː` - The nasalisation disappears in literary Telugu.
+  - `=> eːn̪` - The nasalisation turns into `n̪` in Tulu and literary Telugu.
+    - `eːn̪ + ɯ`
+      - `=> ēnŭ` - Tulu appends an euphonic vowel `ɯ` to the consonant ending. 
+    - `eːn̪ + u`
+      - `=> eːn̪u` - Telugu appends an euphonic vowel `u` to the consonant ending.
+  - `=> eː` - The nasalisation disappears in literary Telugu.
 
 Caldwell mentions the first-personal suffix of verb finite forms only with a trailing consonant `n`,
 but single vowel `e` without the trailing consonant `n` is widely used in spoken dialects and even in poetry of Modern Kannada
@@ -1651,20 +1692,21 @@ for example, `nānu baṁde` etc.
 These variations of the first-personal suffix of verb finite forms as well as the inflexional prefixes is also explained by the nasalisation-related processes.
 I.e.,
 
-
 In ISO 15919,
+
 - `nam̐`
-    - `=> nan` - The nasalisation turns into `n` in the inflexional prefix of Kannada and Telugu.
+  - `=> nan` - The nasalisation turns into `n` in the inflexional prefix of Kannada and Telugu.
  - `em̐`
-    - `=> en` - The nasalisation turns into `n` in the inflexional prefix and the first-personal suffix of verb finite forms in Old Kannada, Tamil and Tulu.
-    - `=> e` - The nasalisation disappears in he first-personal suffix of verb finite forms in Tulu and spoken dialects of Kannada.
+  - `=> en` - The nasalisation turns into `n` in the inflexional prefix and the first-personal suffix of verb finite forms in Old Kannada, Tamil and Tulu.
+  - `=> e` - The nasalisation disappears in he first-personal suffix of verb finite forms in Tulu and spoken dialects of Kannada.
 
 In IPA,
+
 - `n̪ə̃`
-    - `=> n̪ən̪` - The nasalisation turns into `n̪` in the inflexional prefix of Kannada and Telugu.
+  - `=> n̪ən̪` - The nasalisation turns into `n̪` in the inflexional prefix of Kannada and Telugu.
 - `ẽ`
-    - `=> en̪` - The nasalisation turns into `n̪` in the inflexional prefix and the first-personal suffix of verb finite forms in Old Kannada, Tamil and Tulu.
-    - `=> e` - The nasalisation disappears in he first-personal suffix of verb finite forms in Tulu and spoken dialects of Kannada.
+  - `=> en̪` - The nasalisation turns into `n̪` in the inflexional prefix and the first-personal suffix of verb finite forms in Old Kannada, Tamil and Tulu.
+  - `=> e` - The nasalisation disappears in he first-personal suffix of verb finite forms in Tulu and spoken dialects of Kannada.
 
 So, seeing that the nasalisation-related set of processes produce all the variations of the first-person pronominal nominative,
 inflexional prefix and grammatical person/gender suffix of verb finite forms,
@@ -1733,8 +1775,7 @@ the obvious possibility that it might be specific to Malayalam seems unsound.
 
 - The third-personal singular suffix of verb finite forms in Tulu, `e` is probably the transformed form of the third-person demonstrative distal
 pronominal root `am̐`/`ə̃` (`am̐ => an => anu` or `ə̃ => ən̪ => ən̪u` in Kannada).
-More details on this can be seen [here](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅನುಸ್ವಾರ-ಮ-ವ-ಒಕಾರಗಳ-ಹಾಗೂ-ನ-ಎಕಾರಗಳ-ನುಡುವಣ-ಸಂಬಂಧ)
-(please note that the document is in Kannada and is yet to be translated to English).
+More details on this can be seen [here](../A%20Nose%20for%20Nasalisation.md#the-relationship-between-anusvāra-m-v-o-and-between-n-and-e).
 But even this process is rare in Tulu and unsuitable to be extended into processes in the Proto-Dravidian that transform the vowel `a` into `e`.
 
 If there were no other viable processes that can produce the variations in the starting component of the first-person pronominal root,
@@ -1798,15 +1839,15 @@ This vowel `æ` is clearly suitable to turn into `a` on the one side and `e` on 
 I.e.,
 
 - `æ`
-    - `=> a` - `æ` turns into `a`.
-    - `=> e` - `æ` turns into `e`.
+  - `=> a` - `æ` turns into `a`.
+  - `=> e` - `æ` turns into `e`.
 
 Similarly, the elongated vowel `ǣ` is suitable to turn into `ā` and `ē` in the first-person singular nominative case.
 I.e.,
 
 - `ǣ`
-    - `=> ā` - `ǣ` turns into `ā`.
-    - `=> ē` - `ǣ` turns into `ē`.
+  - `=> ā` - `ǣ` turns into `ā`.
+  - `=> ē` - `ǣ` turns into `ē`.
 
 This avoids the objection of Caldwell that, while there are many examples of `a` turning into `e` or `ai`,
 not enough examples exist of `e` or `ai` turning into `a`, because here `æ` turns into `a` or `e`.
@@ -1818,35 +1859,39 @@ For example, `apple` as `ಆ್ಯಪಲ್` or `bank` as `ಬ್ಯಾಂಕ್
 I.e.,
 
 - `ǣ`
-    `=> yā` - `ǣ` turns into `yā`,
+  `=> yā` - `ǣ` turns into `yā`,
 
 This process of `æ` turning into `ya` seems more convincing than the process of `na => ña => ya => a => e` argued for by Caldwell,
 because it is a common process found in many occasions in Kannada and even in other Dravidian languages.
 
 As already seen in the case of the [second-person](#dravidian-languages-1) pronominal roots,
-[nasalisation](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ) is either present in the pronominal roots or mediates when suffixes are appended to such pronominal roots
+[nasalisation](../A%20Nose%20for%20Nasalisation.md#nasalisation-appearing-before-other-case-suffixes) is either present in the pronominal roots or mediates when suffixes are appended to such pronominal roots
 and when the nasalisation of the vowel `æ` is pronounced clearly, it is heard almost before the vowel.
 I.e.,
 
 In ISO 15919,
+
 - `æm̐ => m̐æm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
 
 In IPA,
+
 - `æ̃ =>  ̃æ̃` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
 
 Such a clear pronunciation is suitable for undergoing the processes related to nasalisation on both the sides of the vowel
-and the nasalisation turning into the consonant `n` is already seen above and [elsewhere](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅರ್ಧಅನುಸ್ವಾರದ-ಸ್ವರೂಪ).
+and the nasalisation turning into the consonant `n` is already seen above and [elsewhere](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation).
 I.e.,
 
 In ISO 15919,
+
 - `m̐æm̐`
-    - `=> æn` - The nasalisation disappears before the vowel and turns into `n` after the vowel.
-    - `=> næn` - The nasalisation turns into `n` on both the sides of the vowel.
+  - `=> æn` - The nasalisation disappears before the vowel and turns into `n` after the vowel.
+  - `=> næn` - The nasalisation turns into `n` on both the sides of the vowel.
 
 In IPA,
+
 - ` ̃æ̃`
-    - `=> æn̪` - The nasalisation disappears before the vowel and turns into `n̪` after the vowel.
-    - `=> n̪æn̪` - The nasalisation turns into `n̪` on both the sides of the vowel.
+  - `=> æn̪` - The nasalisation disappears before the vowel and turns into `n̪` after the vowel.
+  - `=> n̪æn̪` - The nasalisation turns into `n̪` on both the sides of the vowel.
 
 As seen in the case of the second-person pronouns, these processes are not subject to Caldwell's objection that
 prefixes are rare and unnatural in Dravidian languages, because `n` is not just any old prefix but a nasal consonant
@@ -1857,119 +1902,125 @@ The short vowel `æ` seen in these processes becomes `ǣ` in the nominative case
 first-person pronominal singular nominative forms `ǣ`, `ǣn`, `nǣ`, `nǣn`.
 
 In ISO 15919,
+
 - `ǣm̐`
-    - `=> m̐ǣm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> nǣm̐` - The nasalisation turns in to `n` before the vowel.
-            - `=> nǣn` - The nasalisation turns in to `n` after the vowel too.
-            - `=> nǣ` - The nasalisation disappears after the vowel.
-    - `=> ǣn` - The nasalisation turns into `n` after the vowel.
-    - `=> ǣ` - The nasalisation disappears.
+  - `=> m̐ǣm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> nǣm̐` - The nasalisation turns in to `n` before the vowel.
+      - `=> nǣn` - The nasalisation turns in to `n` after the vowel too.
+      - `=> nǣ` - The nasalisation disappears after the vowel.
+  - `=> ǣn` - The nasalisation turns into `n` after the vowel.
+  - `=> ǣ` - The nasalisation disappears.
 
 In IPA,
+
 - `æ̃ː`
-    - ` =>  ̃æ̃ː` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> n̪æ̃ː` - The nasalisation turns in to `n̪` before the vowel.
-            - `=> n̪æːn̪` - The nasalisation turns in to `n̪` after the vowel too.
-            - `=> n̪ǣ` - The nasalisation disappears after the vowel.
-    - `=> æːn̪` - The nasalisation turns into `n̪` after the vowel.
-    - `=> æː` - The nasalisation disappears.
+  - ` =>  ̃æ̃ː` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> n̪æ̃ː` - The nasalisation turns in to `n̪` before the vowel.
+      - `=> n̪æːn̪` - The nasalisation turns in to `n̪` after the vowel too.
+      - `=> n̪ǣ` - The nasalisation disappears after the vowel.
+  - `=> æːn̪` - The nasalisation turns into `n̪` after the vowel.
+  - `=> æː` - The nasalisation disappears.
 
 Similarly, the first-person inflexional prefixes and suffixes of verb finite forms, `en`, `e`, `nēn` are also formed.
 I.e.,
 
 In ISO 15919,
+
 - `æm̐`,
-    - `=> m̐æm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> næm̐` - The nasalisation turns into `n` before the vowel.
-            - `=> næn` - The nasalisation turns into `n` after the vowel too.
-    - `=> æn` - The nasalisation turns into `n`.
-    - `=> æ` - The nasalisation disappears.
+  - `=> m̐æm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> næm̐` - The nasalisation turns into `n` before the vowel.
+      - `=> næn` - The nasalisation turns into `n` after the vowel too.
+  - `=> æn` - The nasalisation turns into `n`.
+  - `=> æ` - The nasalisation disappears.
 
 In IPA,
+
 - `æ̃`
-    - `=>  ̃æ̃` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> n̪æ̃` - The nasalisation turns into `n̪` before the vowel.
-            - `=> n̪æn̪` - The nasalisation turns into `n̪` after the vowel too.
-    - `=> æn̪` - The nasalisation turns into `n̪`.
-    - `=> æ` - The nasalisation disappears.
+  - `=>  ̃æ̃` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> n̪æ̃` - The nasalisation turns into `n̪` before the vowel.
+      - `=> n̪æn̪` - The nasalisation turns into `n̪` after the vowel too.
+  - `=> æn̪` - The nasalisation turns into `n̪`.
+  - `=> æ` - The nasalisation disappears.
 
 Taken together, these processes can be seen to produce all the variations of the first-person pronominal forms
 from just the nasalised vowels `æ`/`ǣ`.
 I.e.,
 
 In ISO 15919,
+
 - `ǣm̐`
-    - `=> m̐ǣm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> nǣm̐` - The nasalisation turns in to `n` before the vowel.
-            - `=> nǣn` - The nasalisation turns in to `n` after the vowel too.
-                - `=> nān` - `ǣ` turns into `ā` in Old Kannada and Tamil.
-                    - `nān + u`
-                        - `=> nānu` - Kannada appends an euphonic `u` to the consonant ending.
-                - `=> nēn` - `ǣ` turns into `ē`.
-                    - `nēn + u`
-                        - `=> nēnu` - Telugu appends an euphonic `u` to the consonant ending.
-            - `=> nǣ` - The nasalisation disappears after the vowel.
-                - `=> nē` - `ǣ` turns into `ē` in Telugu.
-    - `=> ǣn` - The nasalisation turns into `n`.
-        - `=> ān` - `ǣ` turns into `ā` in Old Kannada.
-            - `ān + u`
-                - `=> ānu` - Old Kannada and Havyaka Kannada (also in Telugu first-personal suffix of verb finite forms) append an euphonic `u` to the consonant ending.
-        - `=> ēn` - `ǣ` turns into `ē`.
-            - `ēn + ŭ`
-                - `=> ēnŭ` - Tulu appends an euphonic `ŭ` to the consonant ending.
-            - `ēn + u`
-                - `=> ēnu` - Literary Telugu appends an euphonic `u` to the consonant ending.
-        - `=> yān` - `ǣ` turns into `yā` in Tulu and literary Tamil.
-            - `yān + ŭ`
-                - `=> yānŭ` - Tulu appends an euphonic `ŭ` to the consonant ending.
-    - `=> ǣ` - The nasalisation disappears in literary Telugu.
+  - `=> m̐ǣm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> nǣm̐` - The nasalisation turns in to `n` before the vowel.
+      - `=> nǣn` - The nasalisation turns in to `n` after the vowel too.
+        - `=> nān` - `ǣ` turns into `ā` in Old Kannada and Tamil.
+          - `nān + u`
+            - `=> nānu` - Kannada appends an euphonic `u` to the consonant ending.
+        - `=> nēn` - `ǣ` turns into `ē`.
+          - `nēn + u`
+            - `=> nēnu` - Telugu appends an euphonic `u` to the consonant ending.
+      - `=> nǣ` - The nasalisation disappears after the vowel.
+        - `=> nē` - `ǣ` turns into `ē` in Telugu.
+  - `=> ǣn` - The nasalisation turns into `n`.
+    - `=> ān` - `ǣ` turns into `ā` in Old Kannada.
+      - `ān + u`
+        - `=> ānu` - Old Kannada and Havyaka Kannada (also in Telugu first-personal suffix of verb finite forms) append an euphonic `u` to the consonant ending.
+    - `=> ēn` - `ǣ` turns into `ē`.
+      - `ēn + ŭ`
+        - `=> ēnŭ` - Tulu appends an euphonic `ŭ` to the consonant ending.
+      - `ēn + u`
+        - `=> ēnu` - Literary Telugu appends an euphonic `u` to the consonant ending.
+    - `=> yān` - `ǣ` turns into `yā` in Tulu and literary Tamil.
+      - `yān + ŭ`
+        - `=> yānŭ` - Tulu appends an euphonic `ŭ` to the consonant ending.
+  - `=> ǣ` - The nasalisation disappears in literary Telugu.
 - `æm̐`
-    - `=> m̐æm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> næm̐` - The nasalisation turns into `n` before the vowel.
-            - `=> næn` - The nasalisation turns into `n` after the vowel too.
-                - `=> nan` - `æ` turns into `a` in the inflexional prefix in Kannada and Telugu.
-    - `=> æn` - The nasalisation turns into `n` in the first-personal suffix of verb finite forms in Kannada.
-        - `=> en` - `æ` turns into `e` in the inflectional prefixes of Old Kannada, Tamil, Tulu and in the first-personal suffixes of verb finite forms in Kannada.
-            - `en + u`
-                - `=> enu` - Kannada appends an euphonic `u` to the consonant ending.
-    - `=> æ` - The nasalisation disappears in the first-personal suffixes of verb finite forms in Tulu and Kannada.
+  - `=> m̐æm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> næm̐` - The nasalisation turns into `n` before the vowel.
+      - `=> næn` - The nasalisation turns into `n` after the vowel too.
+        - `=> nan` - `æ` turns into `a` in the inflexional prefix in Kannada and Telugu.
+  - `=> æn` - The nasalisation turns into `n` in the first-personal suffix of verb finite forms in Kannada.
+    - `=> en` - `æ` turns into `e` in the inflectional prefixes of Old Kannada, Tamil, Tulu and in the first-personal suffixes of verb finite forms in Kannada.
+      - `en + u`
+        - `=> enu` - Kannada appends an euphonic `u` to the consonant ending.
+  - `=> æ` - The nasalisation disappears in the first-personal suffixes of verb finite forms in Tulu and Kannada.
 
 In IPA,
+
 - `æ̃ː`
-    - ` =>  ̃æ̃ː` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> n̪æ̃ː` - The nasalisation turns in to `n̪` before the vowel.
-            - `=> n̪æːn̪` - The nasalisation turns in to `n̪` after the vowel too.
-                - `=> n̪ɑːn̪` - `æː` turns into `ɑː` in Old Kannada and Tamil.
-                    - `n̪ɑːn̪ + u`
-                        - `=> n̪ɑːn̪u` - Kannada appends an euphonic `u` to the consonant ending.
-                - `=> n̪eːn̪` - `æː` turns into `eː`.
-                    - `n̪eːn̪ + u`
-                        - `=> n̪eːn̪u` - Telugu appends an euphonic `u` to the consonant ending.
-            - `=> n̪æː` - The nasalisation disappears after the vowel.
-                - `=> n̪eː` - `æː` turns into `eː` in Telugu.
-    - `=> æːn̪` - The nasalisation turns into `n̪`.
-        - `=> ɑːn̪` - `æː` turns into `ɑː` in Old Kannada.
-            - `ɑːn̪ + u`
-                - `=> ɑːn̪u` - Old Kannada and Havyaka Kannada (also in Telugu first-personal suffix of verb finite forms) append an euphonic `u` to the consonant ending.
-        - `=> eːn̪` - `æː` turns into `eː`.
-            - `eːn̪ + ɯ`
-                - `=> eːn̪ɯ` - Tulu appends an euphonic `ɯ` to the consonant ending.
-            - `eːn̪ + u`
-                - `=> eːn̪u` - Literary Telugu appends an euphonic `u` to the consonant ending.
-        - `=> yɑːn̪` - `æː` turns into `yɑː` in Tulu and literary Tamil.
-            - `yɑːn̪ + ɯ`
-                - `=> yɑːn̪ɯ` - Tulu appends an euphonic `ɯ` to the consonant ending.
-    - `=> æː` - The nasalisation disappears in literary Telugu.
+  - `=>  ̃æ̃ː` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> n̪æ̃ː` - The nasalisation turns in to `n̪` before the vowel.
+      - `=> n̪æːn̪` - The nasalisation turns in to `n̪` after the vowel too.
+        - `=> n̪ɑːn̪` - `æː` turns into `ɑː` in Old Kannada and Tamil.
+          - `n̪ɑːn̪ + u`
+            - `=> n̪ɑːn̪u` - Kannada appends an euphonic `u` to the consonant ending.
+        - `=> n̪eːn̪` - `æː` turns into `eː`.
+          - `n̪eːn̪ + u`
+            - `=> n̪eːn̪u` - Telugu appends an euphonic `u` to the consonant ending.
+      - `=> n̪æː` - The nasalisation disappears after the vowel.
+        - `=> n̪eː` - `æː` turns into `eː` in Telugu.
+  - `=> æːn̪` - The nasalisation turns into `n̪`.
+    - `=> ɑːn̪` - `æː` turns into `ɑː` in Old Kannada.
+      - `ɑːn̪ + u`
+        - `=> ɑːn̪u` - Old Kannada and Havyaka Kannada (also in Telugu first-personal suffix of verb finite forms) append an euphonic `u` to the consonant ending.
+    - `=> eːn̪` - `æː` turns into `eː`.
+      - `eːn̪ + ɯ`
+        - `=> eːn̪ɯ` - Tulu appends an euphonic `ɯ` to the consonant ending.
+      - `eːn̪ + u`
+        - `=> eːn̪u` - Literary Telugu appends an euphonic `u` to the consonant ending.
+    - `=> yɑːn̪` - `æː` turns into `yɑː` in Tulu and literary Tamil.
+      - `yɑːn̪ + ɯ`
+        - `=> yɑːn̪ɯ` - Tulu appends an euphonic `ɯ` to the consonant ending.
+  - `=> æː` - The nasalisation disappears in literary Telugu.
 - `æ̃`
-    - `=>  ̃æ̃` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
-        - `=> n̪æ̃` - The nasalisation turns into `n̪` before the vowel.
-            - `=> n̪æn̪` - The nasalisation turns into `n̪` after the vowel too.
-                - `=> n̪ən̪` - `æ` turns into `ə` in the inflexional prefix in Kannada and Telugu.
-    - `=> æn̪` - The nasalisation turns into `n̪` in the first-personal suffix of verb finite forms in Kannada.
-        - `=> en̪` - `æ` turns into `e` in the inflectional prefixes of Old Kannada, Tamil, Tulu and in the first-personal suffixes of verb finite forms in Kannada.
-            - `en̪ + u`
-                - `=> en̪u` - Kannada appends an euphonic `u` to the consonant ending.
-    - `=> æ` - The nasalisation disappears in the first-personal suffixes of verb finite forms in Tulu and Kannada.
+  - `=>  ̃æ̃` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
+    - `=> n̪æ̃` - The nasalisation turns into `n̪` before the vowel.
+      - `=> n̪æn̪` - The nasalisation turns into `n̪` after the vowel too.
+        - `=> n̪ən̪` - `æ` turns into `ə` in the inflexional prefix in Kannada and Telugu.
+  - `=> æn̪` - The nasalisation turns into `n̪` in the first-personal suffix of verb finite forms in Kannada.
+    - `=> en̪` - `æ` turns into `e` in the inflectional prefixes of Old Kannada, Tamil, Tulu and in the first-personal suffixes of verb finite forms in Kannada.
+      - `en̪ + u`
+        - `=> en̪u` - Kannada appends an euphonic `u` to the consonant ending.
+  - `=> æ` - The nasalisation disappears in the first-personal suffixes of verb finite forms in Tulu and Kannada.
 
 As mentioned above, `n` turning into `ñ` is a natural process in Malayalam, which produces the `ñān` form.
 I.e.,
@@ -1979,7 +2030,7 @@ I.e.,
 Of the remaining first-person plural suffixes of verb finite forms `ōm`, `ām`, `am`, `em`, it is easy to see that `ām` can be produced from `ǣ`
 and `am`, `em` from `æ`, which leaves only the process for producing `ōm` to be explained.
 The process of words ending with the nasalised vowel `a` (even non-native, loan-words) being pronounced with the nasalised vowel `o`
-is already discussed in the [previous research document](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅನುಸ್ವಾರ-ಮ-ವ-ಒಕಾರಗಳ-ಹಾಗೂ-ನ-ಎಕಾರಗಳ-ನುಡುವಣ-ಸಂಬಂಧ) on processes related to nasalisation.
+is already discussed in the [previous research document](../A%20Nose%20for%20Nasalisation.md#the-relationship-between-anusvāra-m-v-o-and-between-n-and-e) on processes related to nasalisation.
 For example, `aparaṁ` is often pronounced as `aprom̐` in spoken dialects of Tamil.
 So, `ām` can turn into `ōm` by this natural process in Tamil, which has also been recorded and acknowledged by Caldwell.
 I.e.,
@@ -1989,26 +2040,28 @@ I.e.,
 Taken together, the processes of producing all the first-personal suffixes `ōm`, `ām`, `am`, `em` in Tamil from `ǣ`/`æ` could be as follows.
 
 In ISO 15919,
+
 - `ǣm̐`
-    - `=> ām̐` - `ǣ` turns into `ā` in the first-personal suffix of verb finite forms in Tamil. 
-        - `=> ām` - The nasalisation turns into `m` in the plural.
-        - `=> ōm̐`- The ending `ā`, when nasalised or followed by anusvāra or `m`, turns into `ō` in Tamil.
-            - `=> ōm` - The nasalisation turns into `m` in the plural.
+  - `=> ām̐` - `ǣ` turns into `ā` in the first-personal suffix of verb finite forms in Tamil. 
+    - `=> ām` - The nasalisation turns into `m` in the plural.
+    - `=> ōm̐`- The ending `ā`, when nasalised or followed by anusvāra or `m`, turns into `ō` in Tamil.
+      - `=> ōm` - The nasalisation turns into `m` in the plural.
 - `æm̐`
-    - `=> æm` - The nasalisation turns into `m` in the first-person plural suffix of verb finite forms in Tamil.
-        - `=> am` - `æ` turns into `a`.
-        - `=> em` - `æ` turns into `e`.
+  - `=> æm` - The nasalisation turns into `m` in the first-person plural suffix of verb finite forms in Tamil.
+    - `=> am` - `æ` turns into `a`.
+    - `=> em` - `æ` turns into `e`.
 
 In IPA,
+
 - `æ̃ː`
-    - `=> ɑ̃ː` - `æː` turns into `ɑː` in the first-personal suffix of verb finite forms in Tamil. 
-        - `=> ɑːm` - The nasalisation turns into `m` in the plural.
-        - `=> õː`- The ending `ɑː`, when nasalised or followed by anusvāra or `m`, turns into `oː` in Tamil.
-            - `=> oːm` - The nasalisation turns into `m` in the plural.
+  - `=> ɑ̃ː` - `æː` turns into `ɑː` in the first-personal suffix of verb finite forms in Tamil. 
+    - `=> ɑːm` - The nasalisation turns into `m` in the plural.
+    - `=> õː`- The ending `ɑː`, when nasalised or followed by anusvāra or `m`, turns into `oː` in Tamil.
+      - `=> oːm` - The nasalisation turns into `m` in the plural.
 - `æ̃`
-    - `=> æm` - The nasalisation turns into `m` in the first-person plural suffix of verb finite forms in Tamil.
-        - `=> əm` - `æ` turns into `ə`.
-        - `=> em` - `æ` turns into `e`.
+  - `=> æm` - The nasalisation turns into `m` in the first-person plural suffix of verb finite forms in Tamil.
+    - `=> əm` - `æ` turns into `ə`.
+    - `=> em` - `æ` turns into `e`.
 
 Thus, all the variations of the first-person pronominal nominative forms, their inflextional prefixes and the corresponding
 grammatical person/gender suffixes of verb finite forms are produced by these set of related processes acting on the nasalised vowel `æm̐`/`æ̃` (and `ǣm̐`/`æ̃ː`).
@@ -2129,35 +2182,37 @@ of these variations, `ā`, `e`/`ē`, `yā` can be produced from `æ`/`ǣ`.
 I.e.,
 
 - `æ`
-    - `=> a` - `æ` turns into `a` - This form is not found in the interrogative pronominal forms.
-    - `=> e` - `æ` turns into `e`.
-    - `=> ya` - `æ` turns into `ya` - This form is not found in the interrogative pronominal forms.
+  - `=> a` - `æ` turns into `a` - This form is not found in the interrogative pronominal forms.
+  - `=> e` - `æ` turns into `e`.
+  - `=> ya` - `æ` turns into `ya` - This form is not found in the interrogative pronominal forms.
 - `ǣ`
-    - `=> ā` - `ǣ` turns into `ā`.
-    - `=> ē` - `ǣ` turns into `ē`. 
-    - `=> yā` - `ǣ` turns into `yā`.
+  - `=> ā` - `ǣ` turns into `ā`.
+  - `=> ē` - `ǣ` turns into `ē`. 
+  - `=> yā` - `ǣ` turns into `yā`.
 
 As discussed in the sections on the first, second and the third person pronominal roots, 
-[nasalisation](ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಬೇರೆ-ವಿಭಕ್ತಿಪ್ರತ್ಯಯಗಳ-ಮೊದಲೂ-ಕಾಣುವ-ಅರ್ಧಾನುಸ್ವಾರ) either is part of pronominal roots
+[nasalisation](A%20Nose%20for%20Nasalisation.md#nasalisation-appearing-before-other-case-suffixes) either is part of pronominal roots
 or mediates the appending of suffixes to the pronominal roots, which leads to different pronominal forms.
 The process of producing `ō` from `ǣ` was also seen in the section on
 [first-person pronouns](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar),
-which is the same process [naturally found](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅನುಸ್ವಾರ-ಮ-ವ-ಒಕಾರಗಳ-ಹಾಗೂ-ನ-ಎಕಾರಗಳ-ನುಡುವಣ-ಸಂಬಂಧ) in Tamil and Tulu.
+which is the same process [naturally found](../A%20Nose%20for%20Nasalisation.md#the-relationship-between-anusvāra-m-v-o-and-between-n-and-e) in Tamil and Tulu.
 I.e.,
 
 In ISO 15919,
+
 - `ǣm̐`
-    - `=> ām̐` - `ǣ` turns into `ā`.
-        - `=> ōm̐` - The ending nasalised vowel `ā` turns into the nasalised vowel `ō`.
+  - `=> ām̐` - `ǣ` turns into `ā`.
+    - `=> ōm̐` - The ending nasalised vowel `ā` turns into the nasalised vowel `ō`.
 
 In IPA,
+
 - `æ̃ː`
-    - `=> ɑ̃ː` - `æː` turns into `ɑː`.
-        - `=> õː` - The ending nasalised vowel `ɑː` turns into the nasalised vowel `oː`.
+  - `=> ɑ̃ː` - `æː` turns into `ɑː`.
+    - `=> õː` - The ending nasalised vowel `ɑː` turns into the nasalised vowel `oː`.
 
 The `ō`, thus produced, can further produce the `vā` of Tulu,
 because, the vowels `u` and `o` turning into `v` is a common process in not just Tulu but also in most other languages.
-The reason for this is the fact, as mentioned in the [research article on nasalisation](../ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md#ಅನುಸ್ವಾರ-ಮ-ವ-ಒಕಾರಗಳ-ಹಾಗೂ-ನ-ಎಕಾರಗಳ-ನುಡುವಣ-ಸಂಬಂಧ),
+The reason for this is the fact, as mentioned in the [research article on nasalisation](../A%20Nose%20for%20Nasalisation.md#the-relationship-between-anusvāra-m-v-o-and-between-n-and-e),
 that the pronunciation of [`u`, `o`](https://en.wikipedia.org/wiki/Roundedness)
 and [`v`](https://en.wikipedia.org/wiki/Labial_consonant) are closely related and involve the use of the lips.
 I.e.,
@@ -2169,54 +2224,56 @@ Taking all these processes together, the processes producing all the variations 
 could be as follows.
 
 In ISO 15919,
+
 - `ǣm̐`
-    - `=> ēm̐` - `ǣ` turns into `ē` in most of the Dravidian languages.
-        - `=> ēn` - The nasalisation turns into `n` in Kannada and Tamil.
-            - `ēn + u`
-                - `=> ēnu` - Kannada appends an euphonic vowel `u` to the consonant ending.
-        - `=> ēm` - The nasalisation turns into `m` in Telugu.
-            - `ēm + i`
-                - `=> ēmi` - Telugu appends an euphonic vowel `i` to the consonant ending.
-    - `=> yām̐` - `ǣ` turns into `yā` in Kannada and Tamil.
-        - `yām̐ + am̐`
-            - `=> yāvam̐` - The initial nasalisation turns into `v`.
-                - `=> yāvan` - The final nasalisation turns into `n`.
-                    - `yāvan + u`
-                        - `=> yāvanu` - Kannada appends an euphonic vowel `u` to the consonant ending.
-    - `=> ām̐` - `ǣ` turns into `ā` in Old Kannada.
-        - `ām̐ + udu`
-            - `=> āvudu` - The nasalisation either has turned into `v` or has disappeared and the euphonic `v` has infixed between the vowels `ā` and `u`.
-        - `=> ōm̐` - The ending nasalised vowel `ā` turns into the nasalised vowel `ō` in Tulu.
-            - `ōm̐ + u`
-                - `=> ōvu` - The nasalisation turns into `v`.
-            - `ōm̐ + a`
-                - `=> ō + a` - The nasalisation disappears.
-                    - `=> vā` - `ō` turns into `v` and elongates the vowel animating it in Tulu.
+  - `=> ēm̐` - `ǣ` turns into `ē` in most of the Dravidian languages.
+    - `=> ēn` - The nasalisation turns into `n` in Kannada and Tamil.
+      - `ēn + u`
+        - `=> ēnu` - Kannada appends an euphonic vowel `u` to the consonant ending.
+    - `=> ēm` - The nasalisation turns into `m` in Telugu.
+      - `ēm + i`
+        - `=> ēmi` - Telugu appends an euphonic vowel `i` to the consonant ending.
+  - `=> yām̐` - `ǣ` turns into `yā` in Kannada and Tamil.
+    - `yām̐ + am̐`
+      - `=> yāvam̐` - The initial nasalisation turns into `v`.
+        - `=> yāvan` - The final nasalisation turns into `n`.
+          - `yāvan + u`
+            - `=> yāvanu` - Kannada appends an euphonic vowel `u` to the consonant ending.
+  - `=> ām̐` - `ǣ` turns into `ā` in Old Kannada.
+    - `ām̐ + udu`
+      - `=> āvudu` - The nasalisation either has turned into `v` or has disappeared and the euphonic `v` has infixed between the vowels `ā` and `u`.
+    - `=> ōm̐` - The ending nasalised vowel `ā` turns into the nasalised vowel `ō` in Tulu.
+      - `ōm̐ + u`
+        - `=> ōvu` - The nasalisation turns into `v`.
+      - `ōm̐ + a`
+        - `=> ō + a` - The nasalisation disappears.
+          - `=> vā` - `ō` turns into `v` and elongates the vowel animating it in Tulu.
 
 In IPA,
+
 - `æ̃ː`
-    - `=> ẽː` - `æː` turns into `eː` in most of the Dravidian languages.
-        - `=> eːn̪` - The nasalisation turns into `n̪` in Kannada and Tamil.
-            - `eːn̪ + u`
-                - `=> eːn̪u` - Kannada appends an euphonic vowel `u` to the consonant ending.
-        - `=> eːm` - The nasalisation turns into `m` in Telugu.
-            - `eːm + ɪ`
-                - `=> eːmɪ` - Telugu appends an euphonic vowel `ɪ` to the consonant ending.
-    - `=> jɑ̃ː` - `æː` turns into `jɑː` in Kannada and Tamil.
-        - `jɑ̃ː + ə̃`
-            - `=> jɑːʋə̃` - The initial nasalisation turns into `ʋ`.
-                - `=> jɑːʋən̪` - The final nasalisation turns into `n̪`.
-                    - `jɑːʋən̪ + u`
-                        - `=> jɑːʋən̪u` - Kannada appends an euphonic vowel `u` to the consonant ending.
-    - `=> ɑ̃ː` - `æː` turns into `ɑː` in Old Kannada.
-        - `ɑ̃ː + ud̪u`
-            - `=> ɑːʋud̪u` - The nasalisation either has turned into `ʋ` or has disappeared and the euphonic `ʋ` has infixed between the vowels `ɑː` and `u`.
-        - `=> õː` - The ending nasalised vowel `ɑː` turns into the nasalised vowel `oː` in Tulu.
-            - `õː + u`
-                - `=> õːʋu` - The nasalisation turns into `ʋ`.
-            - `õː + ə`
-                - `=> oː + ə` - The nasalisation disappears.
-                    - `=> ʋoː` - `oː` turns into `ʋ` and elongates the vowel animating it in Tulu.
+  - `=> ẽː` - `æː` turns into `eː` in most of the Dravidian languages.
+    - `=> eːn̪` - The nasalisation turns into `n̪` in Kannada and Tamil.
+      - `eːn̪ + u`
+        - `=> eːn̪u` - Kannada appends an euphonic vowel `u` to the consonant ending.
+    - `=> eːm` - The nasalisation turns into `m` in Telugu.
+      - `eːm + ɪ`
+        - `=> eːmɪ` - Telugu appends an euphonic vowel `ɪ` to the consonant ending.
+  - `=> jɑ̃ː` - `æː` turns into `jɑː` in Kannada and Tamil.
+    - `jɑ̃ː + ə̃`
+      - `=> jɑːʋə̃` - The initial nasalisation turns into `ʋ`.
+        - `=> jɑːʋən̪` - The final nasalisation turns into `n̪`.
+          - `jɑːʋən̪ + u`
+            - `=> jɑːʋən̪u` - Kannada appends an euphonic vowel `u` to the consonant ending.
+  - `=> ɑ̃ː` - `æː` turns into `ɑː` in Old Kannada.
+    - `ɑ̃ː + ud̪u`
+      - `=> ɑːʋud̪u` - The nasalisation either has turned into `ʋ` or has disappeared and the euphonic `ʋ` has infixed between the vowels `ɑː` and `u`.
+    - `=> õː` - The ending nasalised vowel `ɑː` turns into the nasalised vowel `oː` in Tulu.
+      - `õː + u`
+        - `=> õːʋu` - The nasalisation turns into `ʋ`.
+      - `õː + ə`
+        - `=> oː + ə` - The nasalisation disappears.
+          - `=> ʋoː` - `oː` turns into `ʋ` and elongates the vowel animating it in Tulu.
 
 With this, *it seems appropriate to say that the interrogative vowel `æ`/`ǣ` is the interrogative pronominal root*,
 but the same vowel also being the first-personal pronominal root seems confusing; this will be picked next for discussion.
@@ -2267,22 +2324,24 @@ then it seems reasonable to suppose that it might be the root of the interrogati
 I.e.,
 
 In ISO 15919,
+
 - `ǣm̐`
-    - `=> ēm̐` - `ǣ` turns into `ē`.
-        - `=> ē` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ē`.
-    - `=> ām̐` - `ǣ` turns into `ā`.
-        - `=> ā` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ā`.
-        - `=> ōm̐` - The nasalised ending vowel `ā` turns into the nasalised vowel `ō`.
-            - `=> ō` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ō`.
+  - `=> ēm̐` - `ǣ` turns into `ē`.
+    - `=> ē` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ē`.
+  - `=> ām̐` - `ǣ` turns into `ā`.
+    - `=> ā` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ā`.
+    - `=> ōm̐` - The nasalised ending vowel `ā` turns into the nasalised vowel `ō`.
+      - `=> ō` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ō`.
 
 In IPA,
+
 - `æ̃ː`
-    - `=> ẽː` - `æː` turns into `eː`.
-        - `=> eː` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `eː`.
-    - `=> ɑ̃ː` - `æː` turns into `ɑː`.
-        - `=> ɑː` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ɑː`.
-        - `=> õː` - The nasalised ending vowel `ɑː` turns into the nasalised vowel `oː`.
-            - `=> oː` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `oː`.
+  - `=> ẽː` - `æː` turns into `eː`.
+    - `=> eː` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `eː`.
+  - `=> ɑ̃ː` - `æː` turns into `ɑː`.
+    - `=> ɑː` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `ɑː`.
+    - `=> õː` - The nasalised ending vowel `ɑː` turns into the nasalised vowel `oː`.
+      - `=> oː` - The nasalisation disappears in the interrogative, speculative/skeptical suffix `oː`.
 
 These set of processes producing the interrogative, speculative/skeptical suffixes `ā`, `ō` and `ē`
 strengthen the argument that the root vowel `æ`, pronounced in an interrogative tone, is the interrogative pronominal root.
@@ -2317,6 +2376,7 @@ and in the grammatical person/gender suffixes of verb finite forms is already me
 as well as [in this document](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i).
 What could be the reason for this peculiarity?
 I.e.,
+
 - `āṁ`/`ān`/`ānu`/`nānu`/`nā` - The vowel is elongated in the nominative case (`ā`).
 - In Tulu, `ēnŭ`/`yānŭ` - The vowel is elongated in the nominative case (`ē`/`ā`).
 - `nīnu`/`nī` - The vowel is elongated in the nominative case (`ī`); in Tulu, the equivalent nominative form is `ī`.
@@ -2402,18 +2462,18 @@ That is,
 In ISO 15919,
 
 - `im̐ + kō => ikō` - The nasalisation disappears.
-    - `=> igō` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
+  - `=> igō` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
 
 - `am̐ + kō => akō` - The nasalisation disappears.
-    - `=> agō` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
+  - `=> agō` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
 
 In IPA,
 
 - `ɪ̃ + koː => ɪkoː` - The nasalisation disappears.
-    - `=> ɪgoː` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
+  - `=> ɪgoː` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
 
 - `ə̃ + koː => əkoː` - The nasalisation disappears.
-    - `=> əgoː` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
+  - `=> əgoː` - The consonant `k` turning into `g` (i.e. voicing of stops) is a common euphonic change in Dravidian languages.
 
 The plural and [honorific](https://en.wikipedia.org/wiki/Honorifics_(linguistics)) forms of these being `ikoḷḷi`/`akoḷḷi`
 makes the presence of the verb `kō` in the sense of `koḷḷu` crystal clear.
