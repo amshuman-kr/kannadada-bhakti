@@ -40,49 +40,49 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
 - [ಬರೆಹಗಾರರು / Authors](#ಬರೆಹಗಾರರು--authors)
 - [Third-person Pronominal Roots](#third-person-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages)
-  - [Kannada, Tamil](#kannada-tamil)
-  - [The euphonic infix v in the masculine and feminine singular and rational plural forms](#the-euphonic-infix-v-in-the-masculine-and-feminine-singular-and-rational-plural-forms)
-  - [Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu)
-  - [Neuter Gender Forms](#neuter-gender-forms)
-  - [Proximal demonstrative ŭ in Tulu](#proximal-demonstrative-ŭ-in-tulu)
-  - [Dative Presentative ŭṁda of Tulu](#dative-presentative-ŭṁda-of-tulu)
-  - [Origins of the form and semantics of the the root vowel u](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u)
-  - [Neuter gender singular suffixes of finite verb forms in Havyaka Kannada](#neuter-gender-singular-suffixes-of-finite-verb-forms-in-havyaka-kannada)
-  - [Neuter gender singular suffixes of finte verb forms in Kannada](#neuter-gender-singular-suffixes-of-finte-verb-forms-in-kannada)
-  - [The relationship between the anta of Tamil and anta, atta and antu of Kannada](#the-relationship-between-the-anta-of-tamil-and-anta-atta-and-antu-of-kannada)
-  - [Semantics of and the processes behind aṁta/iṁta/eṁta](#semantics-of-and-the-processes-behind-aṁtaiṁtaeṁta)
-  - [Are the third-person demonstrative pronominal roots nasalised?](#are-the-third-person-demonstrative-pronominal-roots-nasalised)
-  - [Third-person demonstrative pronouns in Kannada and their relationship to case suffixes](#third-person-demonstrative-pronouns-in-kannada-and-their-relationship-to-case-suffixes)
-  - [The medial/presentative udu and the aggregating suffix uṁ](#the-medialpresentative-udu-and-the-aggregating-suffix-uṁ)
-  - [Verse 133](#verse-133)
-    - [Summary](#summary)
+    - [Kannada, Tamil](#kannada-tamil)
+    - [The euphonic infix v in the masculine and feminine singular and rational plural forms](#the-euphonic-infix-v-in-the-masculine-and-feminine-singular-and-rational-plural-forms)
+      - [Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu)
+    - [Neuter Gender Forms](#neuter-gender-forms)
+    - [Proximal demonstrative ŭ in Tulu](#proximal-demonstrative-ŭ-in-tulu)
+    - [Dative Presentative ŭṁda of Tulu](#dative-presentative-ŭṁda-of-tulu)
+    - [Origins of the form and semantics of the the root vowel u](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u)
+    - [Neuter gender singular suffixes of finite verb forms in Havyaka Kannada](#neuter-gender-singular-suffixes-of-finite-verb-forms-in-havyaka-kannada)
+    - [Neuter gender singular suffixes of finte verb forms in Kannada](#neuter-gender-singular-suffixes-of-finte-verb-forms-in-kannada)
+    - [The relationship between the anta of Tamil and anta, atta and antu of Kannada](#the-relationship-between-the-anta-of-tamil-and-anta-atta-and-antu-of-kannada)
+    - [Semantics of and the processes behind aṁta/iṁta/eṁta](#semantics-of-and-the-processes-behind-aṁtaiṁtaeṁta)
+    - [Are the third-person demonstrative pronominal roots nasalised?](#are-the-third-person-demonstrative-pronominal-roots-nasalised)
+    - [Third-person demonstrative pronouns in Kannada and their relationship to case suffixes](#third-person-demonstrative-pronouns-in-kannada-and-their-relationship-to-case-suffixes)
+    - [The medial/presentative udu and the aggregating suffix uṁ](#the-medialpresentative-udu-and-the-aggregating-suffix-uṁ)
+      - [Verse 133](#verse-133)
+        - [Summary](#summary)
   - [Indo-European Languages](#indo-european-languages)
 - [Second-person Pronominal Roots](#second-person-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages-1)
-  - [Caldwell's arguments against nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-against-nīnninnīni-being-the-second-person-pronominal-roots)
-  - [Caldwell's arguments for nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-for-nīnninnīni-being-the-second-person-pronominal-roots)
-  - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments)
-  - [The process of producing nīn/nin from the second-person pronominal root vowel i](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i)
+    - [Caldwell's arguments against nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-against-nīnninnīni-being-the-second-person-pronominal-roots)
+    - [Caldwell's arguments for nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-for-nīnninnīni-being-the-second-person-pronominal-roots)
+    - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments)
+    - [The process of producing nīn/nin from the second-person pronominal root vowel i](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i)
   - [Indo-European Languages](#indo-european-languages-1)
 - [First-person Pronominal Roots](#first-person-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages-2)
-  - [Caldwell's arguments against nān/nā being the first-person pronominal roots](#caldwells-arguments-against-nānnā-being-the-first-person-pronominal-roots)
-  - [Caldwell's arguments for nān/nā being the first-person pronominal roots](#caldwells-arguments-for-nānnā-being-the-first-person-pronominal-roots)
-  - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments-1)
-  - [The vowel that is intermediate to ā and ē suggested by Masti Venkatesha Iyengar](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar)
-  - [An afterward on the first, second and third person pronominal roots](#an-afterward-on-the-first-second-and-third-person-pronominal-roots)
+    - [Caldwell's arguments against nān/nā being the first-person pronominal roots](#caldwells-arguments-against-nānnā-being-the-first-person-pronominal-roots)
+    - [Caldwell's arguments for nān/nā being the first-person pronominal roots](#caldwells-arguments-for-nānnā-being-the-first-person-pronominal-roots)
+    - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments-1)
+    - [The vowel that is intermediate to ā and ē suggested by Masti Venkatesha Iyengar](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar)
+    - [An afterward on the first, second and third person pronominal roots](#an-afterward-on-the-first-second-and-third-person-pronominal-roots)
   - [Indo-European Languages](#indo-european-languages-2)
 - [Interrogative Pronominal Roots](#interrogative-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages-3)
-  - [Features of the interrogative pronominal forms](#features-of-the-interrogative-pronominal-forms)
-  - [Interrogative pronominal root for all the variations starting with ā, e/ē, yā, ō and vā](#interrogative-pronominal-root-for-all-the-variations-starting-with-ā-eē-yā-ō-and-vā)
-  - [The difference between the self-referential æ and the interrogative æ](#the-difference-between-the-self-referential-æ-and-the-interrogative-æ)
-  - [The processes behind the interrogative/speculative/skeptical suffixes ē, ā, ō and the emphasising suffix ē in Kannada](#the-processes-behind-the-interrogativespeculativeskeptical-suffixes-ē-ā-ō-and-the-emphasising-suffix-ē-in-kannada)
+    - [Features of the interrogative pronominal forms](#features-of-the-interrogative-pronominal-forms)
+    - [Interrogative pronominal root for all the variations starting with ā, e/ē, yā, ō and vā](#interrogative-pronominal-root-for-all-the-variations-starting-with-ā-eē-yā-ō-and-vā)
+    - [The difference between the self-referential æ and the interrogative æ](#the-difference-between-the-self-referential-æ-and-the-interrogative-æ)
+    - [The processes behind the interrogative/speculative/skeptical suffixes ē, ā, ō and the emphasising suffix ē in Kannada](#the-processes-behind-the-interrogativespeculativeskeptical-suffixes-ē-ā-ō-and-the-emphasising-suffix-ē-in-kannada)
   - [Indo-European Languages](#indo-european-languages-3)
 - [Some Loose-ends](#some-loose-ends)
   - [Dravidian Languages](#dravidian-languages-4)
-  - [On the elongation of the root vowel in the nominative and demonstrative determiner forms](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms)
-  - [The derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada)
+    - [On the elongation of the root vowel in the nominative and demonstrative determiner forms](#on-the-elongation-of-the-root-vowel-in-the-nominative-and-demonstrative-determiner-forms)
+    - [The derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada)
 - [Summary](#summary-1)
 - [Revisions](#revisions)
 
@@ -116,7 +116,7 @@ i | ivan | ivaḷ | idu | ivar | ivu | ī
 u | uvan | uvaḷ | udu | uvar | uvu | ū
 
 Only the [Old Kannada](https://en.wikipedia.org/wiki/Old_Kannada) forms have been given here
-and Tamil and [Modern Kannada](https://en.wikipedia.org/wiki/Kannada#Modern_Kannada) forms have been omitted because vary very little from these forms.
+and Tamil and [Modern Kannada](https://en.wikipedia.org/wiki/Kannada#Modern_Kannada) forms have been omitted because they vary very little from these forms.
 
 #### The euphonic infix `v` in the masculine and feminine singular and rational plural forms
 
@@ -178,7 +178,7 @@ In IPA,
 
 - `u + ̃ + əɾ => ũ + əɾ => uʋəɾ` - It can be considered that either the nasalisation has disappeared (and the euphonic infix `ʋ` has appeared between `u` and `ə` according to vakārāgama saṁdhi) or the nasalisation itself has turned into `ʋ`.
  
-The following discussion about [neuter gender forms](#neuter-gender-forms) and [Tulu third-person pronouns](#proximal-demonstrative-ŭ-in-tulu) seem to support the case for the mediating nasalisation processes.
+The following discussion about [neuter gender forms](#neuter-gender-forms) and [Tulu third-person pronouns](#proximal-demonstrative-ŭ-in-tulu) seems to support the case for the mediating nasalisation processes.
 
 ##### Indications of mediating nasalisation after word fragments ending with vowels other than a in Tulu
 
@@ -264,22 +264,22 @@ The production sequences could be as follows.
 
 In ISO 15919,
 
-1. `nin + a + m̐ + tu => (nin + a + m̐) + tu => ninnam̐ + tu` - Because `ninam̐` would be in the (undesirable) `dada` rhythm.
+- `nin + a + m̐ + tu => (nin + a + m̐) + tu => ninnam̐ + tu` - Because `ninam̐` would be in the (undesirable) `dada` rhythm.
   - `=> ninnam̐tu => ninnatu` - The nasalisation disappears.
     - `=> ninnadu` - `t` turns into `d`.
 
-1. `nin + a + m̐ + tu => nin + (a + m̐ + tu) => nin + am̐tu => nin + aṁtu` - `aṁtu` is found in Kannada but with different semantics.
+- `nin + a + m̐ + tu => nin + (a + m̐ + tu) => nin + am̐tu => nin + aṁtu` - `aṁtu` is found in Kannada but with different semantics.
   - `=> nin + aṁdu` - `t` turns into `d`. `aṁdu` is also found in Kannada but with different semantics.
     - `=> ninnaṁdu` - Because `ninaṁdu` (`daDUMda`) would start with the (undesirable) `daDUM` rhythm.
       - `=> ninnadu` - The anusvāra, which is pronounced as `n` here, disappears.
 
 In IPA,
 
-1. `n̪ɪn̪ + ə + ̃ + t̪u => (n̪ɪn̪ + ə + ̃) + t̪u => n̪ɪn̪n̪ə̃ + t̪u` - Because `n̪ɪn̪ə̃` would be in the (undesirable) `dada` rhythm.
+- `n̪ɪn̪ + ə + ̃ + t̪u => (n̪ɪn̪ + ə + ̃) + t̪u => n̪ɪn̪n̪ə̃ + t̪u` - Because `n̪ɪn̪ə̃` would be in the (undesirable) `dada` rhythm.
   - `=> n̪ɪn̪n̪ə̃t̪u => n̪ɪn̪n̪ət̪u` - The nasalisation disappears.
     - `=> n̪ɪn̪n̪əd̪u` - `t̪` turns into `d̪`.
 
-1. `n̪ɪn̪ + ə + ̃ + t̪u => n̪ɪn̪ + (ə + ̃ + t̪u) => n̪ɪn̪ + ə̃t̪u => n̪ɪn̪ + ən̪t̪u` - `ən̪t̪u` is found in Kannada but with different semantics.
+- `n̪ɪn̪ + ə + ̃ + t̪u => n̪ɪn̪ + (ə + ̃ + t̪u) => n̪ɪn̪ + ə̃t̪u => n̪ɪn̪ + ən̪t̪u` - `ən̪t̪u` is found in Kannada but with different semantics.
   - `=> n̪ɪn̪ + ən̪d̪u` - `ən̪d̪u` - `t̪` turns into `d̪`. `ən̪d̪u` is also found in Kannada but with different semantics.
     - `=> n̪ɪn̪n̪ən̪d̪u` - Because `n̪ɪn̪ən̪d̪u` (`daDUMda`) would start with the (undesirable) `daDUM` rhythm.
       - `=> n̪ɪn̪n̪əd̪u` - The anusvāra, which was pronounced as `n̪` here, disappears.
@@ -363,7 +363,7 @@ In most of the other Dravidian languages, `i` and `u` are used as the proximal a
 But in Tulu, `ŭ` is used as the proximal demonstrative pronominal root
 and the medial demonstrative pronominal forms do not exist (at least in the modern dialects).
 
-Let's proceed investigate the reasons behind this peculiarity [next](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u).
+Let's proceed to investigate the reasons behind this peculiarity [next](#origins-of-the-form-and-semantics-of-the-the-root-vowel-u).
 
 #### Dative Presentative ŭṁda of Tulu
 
@@ -440,7 +440,7 @@ semantics.
 Because the presentative pronominal forms derived from `u` have now disappeared from use in Modern Kannada,
 the semantically related proximal demonstrative pronominal form `ivaru` seems to have been pressed into service in their stead.
 If the presentative pronouns derived from `u` were still in use in Kannada, it might have been more appropriate to use `uvaru` on such occasions.
-If it is unavoidable to lose one of either of the distal `u`, the proximal `i` or the presentative `u`, it might be more logical to lose the proximal `i` like in Tulu
+If it is unavoidable to lose one of either of the distal `a`, the proximal `i` or the presentative `u`, it might be more logical to lose the proximal `i` like in Tulu
 than to lose the presentative `u` like in Kannada. 
 But languages do not evolve based on logical analyses, of course.
 But that languages largely show logical consistency is undeniable 
@@ -481,7 +481,7 @@ For example,
 - `tin + itu => tiṁditu (with d infix)`
 - `hēḷ + itu => hēḷitu`
 
-But even in Old Kannada (and in many modern regional dialects), there alternate forms without the vowel `i`.
+But even in Old Kannada (and in many modern regional dialects), there are alternate forms without the vowel `i`.
 For example, `hōtu`, `tintu`, `hēḷtu`, etc.
 
 So, proximal `i` or presentative/medial `u` might sometimes appear at the beginning of neuter gender suffixes of finite verb forms.
@@ -522,13 +522,13 @@ Of these forms too, [`iṁtu`](https://kn.wiktionary.org/wiki/ಇಂತು), [`i
 Some forms (for example, `edu`) are in use only in some regional dialects,
 while others (for example, `etu`, `ettu`) are not at all found amongst the pronominal forms in Kannada.
 
-Some closely related forms to the above mentioned pronominal forms also notable here.
+Some closely related forms to the above mentioned pronominal forms are also notable here.
 For example, `aṁta`, [`atta`](https://kn.wiktionary.org/wiki/ಅತ್ತ), `anitu`.
 Their corresponding proximal `iṁta`, [`itta`](https://kn.wiktionary.org/wiki/ಇತ್ತ_ಕಡೆಗೆ), `initu`
 and interrogative `eṁta`, [`etta`](ttps://kn.wiktionary.org/wiki/ಎತ್ತ), `enitu` also exist.
 Of these too, some forms (for example, `eṁta`) are in use only in some regional dialects.
 
-For the sake of argument, let us first keep the semantic differences aside and analyse only the similarities in processes of derivation.
+For the sake of argument, let us first keep the semantic differences aside and analyse only the similarities in the processes of derivation.
 The similarities in the processes of derivation of
 `atu`/`itu`/`etu`, `aṁtu`/`iṁtu`/`eṁtu`, `attu`/`ittu`/`ettu`, `adu`/`idu`/`edu`, `aṁdu`/`iṁdu`/`eṁdu` are already shown above
 and the processes that derive the forms `aṁta`/`iṁta`/`eṁta`, `atta`/`itta`/`etta`, `anitu`/`initu`/`enitu` are not hard to see.
@@ -575,7 +575,7 @@ So, *this confirms not only that `anitu`/`initu`/`enitu` contain the suffix `itu
 but also that `tu` is the original neuter gender singular suffix from which `du` is derived,
 because, while `t` turning into `d` is a natural process in Kannada, `d` turning into `t` is not so common*.
 
-Having analysed the similarities in the process of derivation of these related pronominal forms in isolation,
+Having analysed the similarities in the processes of derivation of these related pronominal forms in isolation,
 let us now turn towards the differences in their semantics.
 
 As seen above, though not used as independent pronouns, `atu`/`attu`, `itu`/`ittu` were used in Old Kannada as suffixes
@@ -586,7 +586,7 @@ So, it is natural to question if it is possible to decide on the roots and proce
 based only on the similiarities in the pronominal root and  processes of derivation.
 
 These forms (or forms close to these) are found in other Dravidian languages.
-But in some cases their semantics is close to and in other cases very different from their counter-parts in Kannada.
+But in some cases their semantics are close to and in other cases very different from their counter-parts in Kannada.
 
 Please note that I am not very familiar with the transliteration of Tamil and Malayalam in ISO 15919.
 So, I might have made mistakes in the transliteration of Tamil and Malayalam here and elsewhere in this document.
@@ -633,7 +633,7 @@ In Tulu,
 - [`ini`](https://jnaanasootaka.blogspot.com/2022/08/ಇನ್ನು) - `this day`
 
 In the different Dravidian languages, these words seem to have been produced from similar roots and by similar processes of derivation.
-But not only are the semantic differences are obvious, there also seems to be difference in the semantic differences.
+But not only are the semantic differences obvious, there also seems to be difference in the semantic differences.
 I.e., there is no commonality even in the semantic difference.
 In other words, from language to language the ways by which semantics change also seem to be different.
 So, it doesn't seem appropriate to suppose that these words acquired different semantics because they were produced from
@@ -687,7 +687,7 @@ leading to the current Kannada semantics of `on/to which side`, `in which direct
 which includes the semantics of a distal demonstrative determiner like the much more widely used `ā`.
 This argument is supported by the fact that the related `aṁda` of Tamil (written as `aṁta`) is indeed used as a distal demonstrative determiner.
 But `aṁta` is rarely used in the distal demonstrative determiner in Kannada.
-Perhaps it can be found as a suffix in the words like `hāgaṁta`, `ēnaṁta`, though, it is possible that has a different derivation and semantics.
+Perhaps it can be found as a suffix in the words like `hāgaṁta`, `ēnaṁta`, though, it is possible, that has a different derivation and semantics.
 
 - `iṁta`/`iṁda` - When the original proximal (in the sense of space) demonstrative pronominal forms `iṁtu`/`iṁdu` (equivalents of `itu`/`idu`)
 is suffixed with `a` (which, among other things, has genitive semantics), (i.e., `iṁtu/iṁdu + a => iṁta/iṁda`),
@@ -703,10 +703,10 @@ More detailed discussion of these suffixes can be seen [here](#third-person-demo
 - `eṁta` - When the original interrogative (in the sense of space) pronominal form `eṁtu` (equivalent of `edu`) is suffixed with `a`,
 (which, among other things, has genitive semantics), (i.e., `eṁtu + a => eṁta`), it naturally acquires an interrogative directional semantics,
 which includes the semantics of an interrogative determiner like `yāva` or `which`.
-Since specific (for example, `which`) and general (for eample, `what`) interrogative determiner forms are closely related in many languages,
+Since the specific (for example, `which`) and the general (for eample, `what`) interrogative determiner forms are closely related in many languages,
 for example, in English, `Which delicacy is this?` vs. `What delicay is this?`,
 in Kannada, `yāva tiṁḍiyidu?` vs. `ēnu tiṁḍiyidu?`,
-it is not surprising that `eṁta` is used in some dialects of Kannada (like Havyaka Kannada, [Mangaluru Kannada](https://en.wikipedia.org/wiki/Mangalore_Kannada) etc.) in both the specific (`which`) and general (`what`) sense.
+it is not surprising that `eṁta` is used in some dialects of Kannada (like Havyaka Kannada, [Mangaluru Kannada](https://en.wikipedia.org/wiki/Mangalore_Kannada) etc.) in both the specific (`which`) and the general (`what`) sense.
 For example, `nīnu eṁta (eṁta = ēnu) hēḷiddu?` (`what did you say?`), `adu eṁta (eṁta = yāva) mara?` (`which/what kind of tree is that?`).
 
 - `anitu`/`initu`/`enitu`, `anibar`/`inibar`/`enibar` - When the original demonstrative root vowels, the distal `a`, the proximal `i` and the interrogative `e`,
@@ -718,7 +718,7 @@ Here, it seems that, the proximal demonstrative pronouns `itu` and `ivar` seem t
 Thus, when variant forms are produced by a related set of processes acting on the same roots and suffixes,
 the variant forms naturally develop variations in semantics over time and in time, if the original language diverges into dialects
 and languages, different branches of the divergence are likely to diverge in the variations of the semantics too, which
-is what is seen in these set of related words.
+is what is seen in these sets of related words.
 So, just because words have different semantics in the modern dialects of languages,
 it is not necessary to conclude that they must have been produced by different roots, suffixes and processes.
 
@@ -754,16 +754,16 @@ For example,
 - `eṁta hēḷtā iddi?` - meaning, `what are you saying?`
 - `niṁge illi eṁta kelasa?` - meaning, `what work/business do you have here?`
 - `adu eṁta mara?` - meaning, `what/which tree is that?`. It might seem the semantics of `what kind of` is also appropriate here,
-but seeing the above examples and the close relationship between the specific and general interrogative determiners,
+but seeing the above examples and the close relationship between the specific and the general interrogative determiners,
 the semantics of `what`/`which` seems to be more appropriate here.
 - `nīnu eṁtakke illi baṁdaddu?` - meaning, `why did you come here?`. It is notable that Tamil also uses the equivalent form `ennŭkkŭ`
 with the same semantics.
 
-From these example, it seems more appropriate to say that `eṁta`, as used in the western dialects (Mangaluru, Havyaka Kannada etc.),
-is derived when the interrogative neuter gender singular pronominal form `eṁtu` (equivalent of `etu`/`edu`) is suffixed with `a`,
+From these examples, it seems more appropriate to say that `eṁta`, as used in the western dialects (Mangaluru, Havyaka Kannada etc.),
+is produced when the interrogative neuter gender singular pronominal form `eṁtu` (equivalent of `etu`/`edu`) is suffixed with `a`,
 which, among other things, has genitive semantics, rather than to say that it is derived from `aṁtaha`/`iṁtaha`/`eṁtaha`.
 If there were no possbile set of processes to derive `aṁta`/`iṁta`/`eṁta` from anything other than `aṁtaha`/`iṁtaha`/`eṁtaha`,
-we might have had to be content conclude that that is indeed the derivation and the change in semantics in the western dialects
+we might have had to be content to conclude that that is indeed the derivation and the change in semantics in the western dialects
 might have happened over a period of divergence.
 But since process of producing `aṁta`/`iṁta`/`eṁta` by suffixing `a` to `aṁtu`/`iṁtu`/`eṁtu` is clear, as already shown [above](#the-relationship-between-the-anta-of-tamil-and-anta-atta-and-antu-of-kannada),
 it is appropriate to say that `eṁta` is also derived from `eṁtu` and hence has the interrogative neuter gender singular pronominal semantics too.
@@ -804,7 +804,7 @@ However, in the [passive voice](https://en.wikipedia.org/wiki/Passive_voice) con
 `rāmaniṁda ahalyeya śāpavimōcaneyāyitu`, `rāmaniṁda` is the instrumental form because `rāma` is instrumental in the lifting of `ahalya`'s curse.
 So, `iṁda` is indeed used as an instrumental suffix in Kannada in the passive voice constructions.
 But given that passive voice is unnatural and rare in Kannada, Sediyapu Krishna Bhat's thesis that the sufixes `iṁ`, `iṁda` etc. are
-mainly ablative suffixes in Kannada seems sound overall.
+mainly ablative suffixes in Kannada seems sound, overall.
 
 It is notable that `iṁta` suffix is only ever used in the ablative sense and never in the instrumental sense.
 
@@ -817,7 +817,7 @@ So, it is natural that they are used as ablative suffixes in Kannada.
 
 Taken together, this validates Sediyapu Krishna Bhat's argument that `iṁ`, `iṁda` etc. are ablative suffixes in Kannada,
 not only from the perspective of semantics and usage, but also from the Proto-Dravidian third-person proximal demonstrative pronominal root
-and the linguistic and grammatical processes that act on it.
+and the linguistic and grammatical processes that act on (or make use of) it.
 *This inexorably leads to the conclusion that the ablative/instrumental suffix `iṁ` in Kannada
 and the Proto-Dravidian third-person proximal demonstrative pronominal root `im̐`/`ɪ̃` are one and the same.
 I.e., Kannada has put the third-person proximal demonstrative pronominal root (`im̐`/`ɪ̃`) to use as the ablative/instrumental suffix too.*
@@ -825,10 +825,10 @@ I.e., Kannada has put the third-person proximal demonstrative pronominal root (`
 But Old Kannada scholars have insisted that `iṁ`/`iṁda`/`iṁde` are instrumental suffixes and `attaṇiṁ` is the ablative suffix
 (for example, śabdamaṇidarpaṇaṁ, verse [103](https://archive.org/details/abdamaidarpaa00kirjuoft/page/134/mode/2up)).
 Some Modern Kannada scholars have argued that `iṁ`/`iṁda`/`iṁde`  are indeed only instrumental suffixes,
-whereas `deseyiṁda` is the ablative suffix but an unnatural one, especially, in spoken dialects of Modern Kannada
+whereas `deseyiṁda` is the ablative suffix, but an unnatural one, especially, in the spoken dialects of Modern Kannada
 (for example , "kannaḍa kaipiḍi", pages [413](https://archive.org/details/ZeJJ_kannada-kaipidi-kannada-university-of-mysore/page/413/mode/1up), [414](https://archive.org/details/ZeJJ_kannada-kaipidi-kannada-university-of-mysore/page/414/mode/1up) and [406](https://archive.org/details/ZeJJ_kannada-kaipidi-kannada-university-of-mysore/page/406/mode/1up)).
 As already seen above, `iṁ`/`iṁda`/`iṁde` are not exclusively instrumental suffixes, but in fact, they are more naturally ablative suffixes
-(More details about the derivation of `iṁde` form, `iṁda + e => iṁde`, can be seen [here](../ಎಕಾರದ%20ಆವೇಶ.md#ಇಂದೆಯ-ಹಿಂದೆ-ಮುಂದೆ); please note that the document is in Kannada and is yet to be translated to English).
+(more details about the derivation of `iṁde` form, `iṁda + e => iṁde`, can be seen [here](../ಎಕಾರದ%20ಆವೇಶ.md#ಇಂದೆಯ-ಹಿಂದೆ-ಮುಂದೆ); please note that the document is in Kannada and is yet to be translated to English).
 However, `deseyiṁda` is indeed unnatural to Kannada and rare outside works on linguistics and grammar.
 Certainly, it did not catch on in speech.
 It is relevant here to note that though `deseyiṁda` has `dese` in the beginning which gives it the directional semantics,
@@ -864,7 +864,7 @@ In IPA,
 So, the Old Kannada grammarians, having decided that `iṁ`/`iṁda` are exclusively instrumental suffixes, seem to have settled on using
 the Proto-Dravidian third-person distal demonstrative pronominal form `attu` as the base for the ablative suffix
 because it has the appropriate distal directional semantics.
-But having realised that this doesn't achive the required ablative semantics fully, they seem to have resorted to appending the very same
+But having realised that this doesn't achieve the required ablative semantics fully, they seem to have resorted to appending the very same
 `iṁ` suffix (which they had decided was not the ablative suffix) before finally declaring that the required ablative semantics is achieved.
 The key reason for this futile exercise seems to be the confusion that `iṁ`/`iṁda` suffixes are exclusively instrumental
 and do not have the directional/separational semantics required for the ablative case.
@@ -883,14 +883,14 @@ are not without a sense of irony.
 
 It is lucky that ordinary Kannadigas did not fall into this trap as they have been using `iṁ`/`iṁda` as ablative suffixes freely.
 The constructions `attaṇiṁ` and `deseyiṁda` never really caught on.
-That even the grammarians who declared the motto "*prayōgaśaraṇāḥ vaiyākaraṇāḥ*" stumbled in this way is a reminder to us all
+That even the grammarians who declared the motto "*prayōgaśaraṇāḥ vaiyākaraṇāḥ*" stumbled in this way, is a reminder to us all
 to think a hundred times before declaring any usage in language as incorrect or ungrammatical.
 
 Now that it is clear that the third-person proximal demonstrative pronominal root `im̐`/`ɪ̃` is also used in Kannada as the instrumental/ablative suffix,
 it is not hard to see that its distal counterpart, the third-person distal demonstrative pronominal root `am̐`/`ə̃`,
 is also used in Kannada as the accusative suffix.
 This is because the accusative case indicates the target or object of the action indicated by the verb.
-For this a directional sense is need to be added to the root word's semantics to indicate the target or object of the action
+For this, a directional sense is need to be added to the root word's semantics to indicate the target or object of the action
 and the distal demonstrative/directional `am̐`/`ə̃` when added as a suffix is perfectly suited to add that directional semantics.
 I.e., appending the distal demonstrative/directional `am̐`/`ə̃`, makes the base word fragment the target or object of the action;
 thus, achieving the accusative semantics.
@@ -1033,7 +1033,7 @@ because Caldwell has used his arguments regarding the second-person pronominal r
 for his arguments regarding the first-person pronominal roots,
 it is necessary (even at the cost of lucidity) to discuss the second-person pronouns first.
 But it must be noted that the discussion of the second-person pronouns in this section
-and the discussion on the first-person pronouns in the subsequent section are two parts of the same discussion.
+and the discussion of the first-person pronouns in the subsequent section are two parts of the same discussion.
 
 ### Dravidian Languages
 
@@ -1249,7 +1249,7 @@ second-person pronouns but also in the case the first-person as will be discusse
 - > ... On a comparison of the various Drâvidian dialects we arrive at the conclusion that the primitive form of this pronouns was 'nî,' 'nû,' or 'na;' - most probably the first. The only essential part of the pronoun appears to be the initial consonant 'n;' just as in the Indo-European languages 't' is the only essential part of the corresponding pronoun. In each family the vowel by the help of which the initial consonant is enunciated varies considerably, but evinces, on the whole, a preference for 'i' in the Dravidian languages, for 'u; in the Indo-European.
 [From page [309](Introduction%20and%20Context.md#a-comparative-grammar-of-the-dravidian-chapter-pronouns-page-309)]
 
-Caldwell seems to have included `nu` and `ni` in the list of possible second-person pronominal roots
+Caldwell seems to have included `nu` and `na` in the list of possible second-person pronominal roots
 based on the Tamil second-person pronominal forms containing the vowel `u`
 and the Tulu, Malayalam grammatical personal suffix `a` of finite verb forms, correspondingly.
 But his conclusion that Dravidian languages lean towards the vowel `i` and the Indo-European languages towards the vowel `u`
@@ -1346,12 +1346,12 @@ I.e.,
 
 In ISO 15919,
 
-- `īm̐  => īn` - The nasalisation turns into `n`.
+- `īm̐ => īn` - The nasalisation turns into `n`.
 - `im̐ => in` - The nasalisation turns into `n`
 
 In IPA,
 
-- `ĩː  => iːn̪` - The nasalisation turns into `n̪`.
+- `ĩː => iːn̪` - The nasalisation turns into `n̪`.
 - `ɪ̃ => ɪn̪` - The nasalisation turns into `n̪`.
 
 But the `īn`, `in` forms are not found in Dravidian languages.
@@ -1414,11 +1414,11 @@ I.e.,
 
 In ISO 15919,
 
-- `m̐im̐  => nin` - The nasalisation of the vowel `i` turns into `n` both before and after the vowel.
+- `m̐im̐ => nin` - The nasalisation of the vowel `i` turns into `n` both before and after the vowel.
 
 In IPA,
 
-- ` ̃ɪ̃  => n̪ɪn̪` - The nasalisation of the vowel `ɪ` turns into `n̪` both before and after the vowel.
+- ` ̃ɪ̃ => n̪ɪn̪` - The nasalisation of the vowel `ɪ` turns into `n̪` both before and after the vowel.
 
 In this process, there are no prefixes involved as objected to by Caldwell;
 just the clear nasalisation of the vowel `i` has turned into `n` both before and after the vowel.
@@ -1452,7 +1452,7 @@ In IPA,
 In comparison with this set of processes involving nasalisation, the opposite process of losing the nasal consonant `n`
 (i.e., `na => ña => ya => a`) suggested by Caldwell seems less plausible, not the least because the intermediate forms
 are rarely found in any one Dravidian language 
-which is why Caldwell had to invoke examples for each form from a different Dravidian language).
+which is why Caldwell had to invoke examples for each form from a different Dravidian language.
 
 Similarly, the processes producing the second-person pronominal forms starting with or including the vowel `u`
 in the spoken and literary Tamil could be as follows.
@@ -1473,11 +1473,11 @@ In IPA,
   - `=>  ̃ũ` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
     - `=> nun` - The nasalisation heard on both sides of the vowel `u` turns into `n̪`.
 
-So, without invoking any processes involving prefixes, it is possible to produce the all the second-person pronominal forms
+So, without invoking any processes involving prefixes, it is possible to produce all the second-person pronominal forms
 found in the old and modern variants of Dravidian languages by a set of related processes where the clear pronunciation of
 nasalisation of the proximal demonstrative and second-person pronominal root vowel, `im̐`/`ɪ̃` (and `īm̐`/`ĩː`) and
 the presentative and second-person pronominal root vowel, `um̐`/`ũ`, is naturally heard on both sides of the vowel which then
-proceed to undergo the usual set of related processes already discussed in ["anusvārada anusāra"](../A%20Nose%20for%20Nasalisation.md).
+proceed to undergo the usual set of related processes already discussed in ["A Nose for Nasalisation"](../A%20Nose%20for%20Nasalisation.md).
 With this, the last of the objections, due to which Caldwell abandoned pursuing the possibility of
 the proximate demonstrative vowel `i`/`ī` being also the second-person pronominal root, is also rendered ineffective.
 Taking all these arguments together, it seems appropriate to say that *the nasalised third-person demonstrative pronominal root vowels,
@@ -1634,7 +1634,7 @@ Though kēśirāja specifies anusvāra for the trailing consonants `n` or `m` in
 the `nān` form with the trailing consonant `n` does appear in some explanations and examples for the verses,
 as can be seen in the "Introduction and Context".
 But since forms without the trailing consonant `n` also exist (for example, `nā` of Kannada, `nē` of Telugu),
-the trailing component must be originally just a nasalisation, as explained in "[anusvārada anusāra](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation)".
+the trailing component must be originally just a nasalisation, as explained in "[A Nose for Nasalisation](../A%20Nose%20for%20Nasalisation.md#features-of-nasalisation)".
 I.e.,
 
 In ISO 15919,
@@ -1696,7 +1696,7 @@ In ISO 15919,
 
 - `nam̐`
   - `=> nan` - The nasalisation turns into `n` in the inflexional prefix of Kannada and Telugu.
- - `em̐`
+- `em̐`
   - `=> en` - The nasalisation turns into `n` in the inflexional prefix and the first-personal suffix of verb finite forms in Old Kannada, Tamil and Tulu.
   - `=> e` - The nasalisation disappears in he first-personal suffix of verb finite forms in Tulu and spoken dialects of Kannada.
 
@@ -1757,8 +1757,8 @@ The reason for this sequence of transformations being rare and the misconception
 which is that, in most languages, `ñ` is rarely used as independent consonant outside of consonant clusters with trailing
 [palatal consonant](https://en.wikipedia.org/wiki/Palatal_consonant), i.e., `ñ` is rarely used with a vowel directly following it.
 So, the speakers of languages where `ñ` is not found immediately before a vowel, being unfamiliar with the clear pronunciation of the
-[palatal] nasal consonant `ñ`, pronounce it variously as `y` (for example, `jñāna =>  gyāna`),
-or `n` (for example, `jñāna => gnāna`), or as a consonant cluster of `n` follows by `y` (`ny`).
+palatal nasal consonant `ñ`, pronounce it variously as `y` (for example, `jñāna =>  gyāna`),
+or `n` (for example, `jñāna => gnāna`), or as a consonant cluster of `n` followed by `y` (`ny`).
 But in reality, there is no hint of the pronunciation of `n` or `y` in the pronunciation of the palatal nasal consonant `ñ`.
 Native speakers of languages where the palatal nasal consonant `ñ` is often followed by a vowel (like in Malayalam or Tulu),
 pronounce the palatal nasal consonant without any hint of the pronunciation of `n` or `y`.
@@ -1804,7 +1804,7 @@ the first-person plural suffixes of verb finite forms in Tamil.
 
 The argument that `a` can turn into `o`, `e` and `ai` but it is rare for `ai` or `e` to turn into `a` seems correct.
 So, Caldwell's case for the vowel in the first-person pronominal root being `a` might seem convincing.
-But the idea about the vowel in the first-person pronominal root from Masti Venkatesha Iyengar in "namma nudi" enables
+But the idea about the vowel in the first-person pronominal root from Masti Venkatesha Iyengar in "namma nuḍi" enables
 an even more convincing argument.
 
 #### The vowel that is intermediate to ā and ē suggested by Masti Venkatesha Iyengar
@@ -1815,7 +1815,7 @@ regarding the vowel in the first-person pronominal root.
 - > ... tamiḷinalli ān, nān eṁdu idda śabda teluginalli ēnu, nēnu eṁdāyitu eṁdu hēḷuvudu vāḍike. iveraḍakkū mūladalli oṁdu madhyasthavāda svara iddirabēku. adu oṁdu bhāṣege ā eṁdu innoṁdakke ē eṁdu iḷiyitu eṁdu hēḷuvudu heccu sariyāgabahudu. [From page [52](Introduction%20and%20Context.md#namma-nuḍi-chapter-vacana-vibhakti-pratyayagaḷu-page-52)]
 
 This is a key insight in unlocking the mystery of the first-person pronominal root.
-Masti Venkatesha Iyengar has not elaborated about what might the intermediate vowel between `a` and `e` be
+Masti Venkatesha Iyengar has not elaborated about what the intermediate vowel between `a` and `e` might be
 and if there are any modern Dravidian languages where it might still be surviving.
 But we need not search too much for this intermediate vowel.
 
@@ -2030,7 +2030,7 @@ I.e.,
 Of the remaining first-person plural suffixes of verb finite forms `ōm`, `ām`, `am`, `em`, it is easy to see that `ām` can be produced from `ǣ`
 and `am`, `em` from `æ`, which leaves only the process for producing `ōm` to be explained.
 The process of words ending with the nasalised vowel `a` (even non-native, loan-words) being pronounced with the nasalised vowel `o`
-is already discussed in the [previous research document](../A%20Nose%20for%20Nasalisation.md#the-relationship-between-anusvāra-m-v-o-and-between-n-and-e) on processes related to nasalisation.
+is already discussed in the [previous research document](../A%20Nose%20for%20Nasalisation.md#the-relationship-between-anusvāra-m-v-o-and-between-n-and-e) on the  processes related to nasalisation.
 For example, `aparaṁ` is often pronounced as `aprom̐` in spoken dialects of Tamil.
 So, `ām` can turn into `ōm` by this natural process in Tamil, which has also been recorded and acknowledged by Caldwell.
 I.e.,
@@ -2095,7 +2095,7 @@ So, it turns out that, while it might have been difficult, it is not impossible 
 all the first, second and third person pronominal roots in the Dravidian languages.
 With a small modification that the self-referential vowel `æ`, and not the distal vowel `a`, is the first-person pronominal root,
 Caldwell's deep insight indeed turns out to be correct and is brought to a positive logical conclusion.
-Only a couple of unfortunate missteps such as an incomplete analysis of Tulu pronominal forms and a misconception about the pronunciation of the
+Only a couple of unfortunate mis-steps such as an incomplete analysis of Tulu pronominal forms and a misconception about the pronunciation of the
 palatal nasal consonant `ñ` seem to have prevented Caldwell from reaching this positive conclusion himself.
 But this positive result was only possible by building on the continuous tradition of deep, broad and relentless research over the centuries
 by all the great scholars including but not limited to Masti Venkatesha Iyengar, Caldwell and kēśirāja.
@@ -2149,7 +2149,7 @@ but among the Dravidian languages there is a lot of commonality.
 An investigation of the interrogative pronominal roots turns out to be complementary to the investigation of the first, second and the third
 person pronominal roots.
 There is not much conflict amongst the views of scholars regarding the interrogative pronominal roots
-and where conflicts exist, they are easily resolved in the light of the discussion on the first-person pronominal root.
+and where conflicts exist, they are easily resolved in light of the discussion on the first-person pronominal root.
 So, let us briefly see the main points about the interrogative pronouns mentioned in the "Introduction and Context"
 and proceed to resolve any conflicts that might be there.
 
@@ -2479,7 +2479,7 @@ The plural and [honorific](https://en.wikipedia.org/wiki/Honorifics_(linguistics
 makes the presence of the verb `kō` in the sense of `koḷḷu` crystal clear.
 So, unlike the [`ŭṁda` of Tulu](#dative-presentative-ŭṁda-of-tulu), `ikō`, `akō` of Kannada,
 are complete sentences in themselves (like `here/there you go` in English);
-losing the pronoun (in this case, the second-person) is natural to Kannada in such cases, especially in the spoken dialects,
+losing the pronoun part of the sentence (in this case, the second-person) is natural to Kannada in such cases, especially in the spoken dialects,
 because the verbs are always inflected/conjugated for, among other things, grammatical person.
 
 ## Summary
@@ -2499,7 +2499,7 @@ It is also the root of the *emphasising* suffix `ē`.
 - `æm̐`/`æ̃` with an interrogative tone is the interrogative pronominal root.
 It is also the root of the interrogative/*speculative*/*skeptical* suffixes `ā`, `ē`, `ō`.
 
-This hypothesis, on the one hand, takes the provenance of of the pronouns back to a pre-historical (perhaps even a *proto-linguistic*) time and on the other, to baby-talk.
+This hypothesis, on one hand, takes the provenance of of the pronouns back to a pre-historical (perhaps even a *proto-linguistic*) time and on the other, to baby-talk.
 That these nasalised vowels are naturally suited to signify the above mentioned semantics can be pictorially represented as follows.
 
 <img style="width: 100%" src="Pronouns-image.png" alt="That these nasalised vowels are naturally suited to signify the above mentioned semantics can be pictorially represented as follows." />
