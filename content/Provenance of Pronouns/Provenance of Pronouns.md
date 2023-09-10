@@ -313,7 +313,7 @@ In ISO 15919,
       - `=> ŭṁbaḷŭ` - Pronounced `ŭmbaḷŭ`.
 - `ŭ + m̐ + du` - As in other Dravidian languages, `du` is the neuter gender singular suffix in Tulu too.
   - `=> ŭṁdu` - The nasalisation turns into anusvāra which is pronounced here as `n` due to the `d` that follows, `ŭndu`.
-- `=> ŭ + m̐ + erŭ` - `erŭ` seems to be the root rational plural suffix in Tulu.
+- `ŭ + m̐ + erŭ` - `erŭ` seems to be the root rational plural suffix in Tulu.
   - `=> ŭṁ + erŭ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
     - `=> ŭmerŭ` - The anusvāra is pronounced here as `m`.
       - `=> ŭṁberŭ` - Pronounced `ŭmberŭ`.
@@ -335,7 +335,7 @@ In IPA,
       - `=> ɯmbəɭɯ` - The anusvāra is pronounced here as `m`.
 - `ɯ + ̃ + d̪u` - As in other Dravidian languages, `d̪u` is the neuter gender singular suffix in Tulu too.
   - `=> ɯn̪d̪u` - The nasalisation turns into anusvāra which is pronounced here as `n̪` due to the `d̪` that follows.
-- `=> ɯ + ̃ + eɾɯ` - `eɾɯ` seems to be the root rational plural suffix in Tulu.
+- `ɯ + ̃ + eɾɯ` - `eɾɯ` seems to be the root rational plural suffix in Tulu.
   - `=> ɯm + eɾɯ` - The nasalisation turns into anusvāra which is pronounced here as `m`.
     - `=> ɯmeɾɯ` - The anusvāra is pronounced here as `m`.
       - `=> ɯmbeɾɯ` - The anusvāra is pronounced here as `m`.
@@ -1435,7 +1435,7 @@ In ISO 15919,
       - `=> nīn` - The nasalisation heard after the vowel `ī` turns into `n` as well.
       - `=> nī` - The nasalisation heard after the vowel `ī` disappears.
 - `im̐` - The root form of the second-person inflexional prefix.
-  - `=> m̐im̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `ī`.
+  - `=> m̐im̐` - The clear pronunciation of nasalisation can be heard almost before the vowel `i`.
     - `=> nin` - The nasalisation heard on both sides of the vowel `i` turns into `n`.
 
 In IPA,
@@ -1471,7 +1471,7 @@ In IPA,
   - `=> un̪` - The nasalisation turns into `n̪` in spoken dialects of Tamil.
   - `=> um` - The nasalisation turns into `m` in the plural form of grammatical imperative mood of verbs in Tamil.
   - `=>  ̃ũ` - The clear pronunciation of the nasalisation can be heard almost before the vowel `u`.
-    - `=> nun` - The nasalisation heard on both sides of the vowel `u` turns into `n̪`.
+    - `=> n̪un̪` - The nasalisation heard on both sides of the vowel `u` turns into `n̪`.
 
 So, without invoking any processes involving prefixes, it is possible to produce all the second-person pronominal forms
 found in the old and modern variants of Dravidian languages by a set of related processes where the clear pronunciation of
@@ -1859,7 +1859,7 @@ For example, `apple` as `ಆ್ಯಪಲ್` or `bank` as `ಬ್ಯಾಂಕ್
 I.e.,
 
 - `ǣ`
-  `=> yā` - `ǣ` turns into `yā`,
+  `=> yā` - `ǣ` turns into `yā`
 
 This process of `æ` turning into `ya` seems more convincing than the process of `na => ña => ya => a => e` argued for by Caldwell,
 because it is a common process found in many occasions in Kannada and even in other Dravidian languages.
@@ -1972,7 +1972,8 @@ In ISO 15919,
     - `=> yān` - `ǣ` turns into `yā` in Tulu and literary Tamil.
       - `yān + ŭ`
         - `=> yānŭ` - Tulu appends an euphonic `ŭ` to the consonant ending.
-  - `=> ǣ` - The nasalisation disappears in literary Telugu.
+  - `=> ǣ` - The nasalisation disappears.
+    - `=> ē` -`ǣ` turns into `ē` in literary Telugu.
 - `æm̐`
   - `=> m̐æm̐` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
     - `=> næm̐` - The nasalisation turns into `n` before the vowel.
@@ -2007,10 +2008,11 @@ In IPA,
         - `=> eːn̪ɯ` - Tulu appends an euphonic `ɯ` to the consonant ending.
       - `eːn̪ + u`
         - `=> eːn̪u` - Literary Telugu appends an euphonic `u` to the consonant ending.
-    - `=> yɑːn̪` - `æː` turns into `yɑː` in Tulu and literary Tamil.
-      - `yɑːn̪ + ɯ`
-        - `=> yɑːn̪ɯ` - Tulu appends an euphonic `ɯ` to the consonant ending.
-  - `=> æː` - The nasalisation disappears in literary Telugu.
+    - `=> jɑːn̪` - `æː` turns into `jɑː` in Tulu and literary Tamil.
+      - `jɑːn̪ + ɯ`
+        - `=> jɑːn̪ɯ` - Tulu appends an euphonic `ɯ` to the consonant ending.
+  - `=> æː` - The nasalisation disappears.
+    - `=> eː` - `æː` turns into `eː` in literary Telugu.
 - `æ̃`
   - `=>  ̃æ̃` - The clear pronunciation of the nasalisation can be heard on both sides of the vowel.
     - `=> n̪æ̃` - The nasalisation turns into `n̪` before the vowel.
@@ -2488,7 +2490,7 @@ Kannada and other Dravidian languages systematically use the nasalised vowels `a
 Other language families (for example, Indo-European), also use these but less systematically.
 In other words,
 
-- The distal demonstrative `am̐`/`ə̃` is the distral demonstrative pronominal root.
+- The distal demonstrative `am̐`/`ə̃` is the distal demonstrative pronominal root.
 In Kannada, it is also the [accusative](https://en.wikipedia.org/wiki/Accusative_case) suffix.
 - The proximal demonstrative `im̐`/`ĩ`, medial/[*presentative*](https://ygdp.yale.edu/phenomena/dative-presentatives) `um̐`/`ũ` are the proximal and medial/*presentative* demonstrative pronominal roots correspondingly.
 They both (`im̐`/`ĩ` and `um̐`/`ũ`) are also the second-person pronominal roots.
