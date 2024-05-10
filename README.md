@@ -23,6 +23,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of modification time
 
+- [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [A Nose for Nasalisation](content/A%20Nose%20for%20Nasalisation.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - Provenance of Pronouns
@@ -38,6 +39,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of creation time
 
+- [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [A Nose for Nasalisation](content/A%20Nose%20for%20Nasalisation.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಅಂಕೆಗಳ ಅಟ್ಟಳಿಗೆ](content/ಅಂಕೆಗಳ%20ಅಟ್ಟಳಿಗೆ.md) ([ಗಣೇಶಕೃಷ್ಣ ಶಂಕರತೋಟ](https://github.com/smgk))
 - Provenance of Pronouns
