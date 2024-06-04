@@ -1,0 +1,316 @@
+# ! d2 ಉತ್ತಮಪುರುಷ-ಎಲ್ಲ.d2 ../png/ಉತ್ತಮಪುರುಷ-ಎಲ್ಲ.png
+
+direction: down
+
+classes {
+  text: {shape: text}
+  bold: {
+    shape: text
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  node: {
+    shape: oval
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  highlight: {
+    shape: oval
+    style: { fill: lightgreen }
+    label: ""
+  }
+  plhighlight: {
+    shape: oval
+    style: { fill: mediumaquamarine }
+    label: ""
+  }
+  nv: { label: "ಬಲವಾದ (ಅರ್ಧ)ಅನುಸ್ವಾರದಿಂದ ಮೊದಲೂ ನಕಾರವುಂಟಾಗಿದೆ" }
+  vn: { label: "ಏಕವಚನದಲ್ಲಿ (ಅರ್ಧ)ಅನುಸ್ವಾರ > ಸ್ವರದನಂತರ ನಕಾರ" }
+  vm: { label: "ಬಹುವಚನದಲ್ಲಿ (ಅರ್ಧ)ಅನುಸ್ವಾರ > ಸ್ವರದನಂತರ ಮಕಾರ" }
+  ǣā: { label: "ಏ್ > ಆ"}
+  ǣē: { label: "ಏ್ > ಏ"}
+  ǣyā: { label: "ಏ್ > ಯಾ"}
+  āō: { label: "ಆ > ಓ"}
+  nñ: { label: "ನ್ > ಞ್"}
+  mv: { label: "ಮ್ > ವ್"}
+  u: { label: "+ ಉ"}
+  ŭ: { label: "+ ಉ್"}
+  v0: {label: "(ಅರ್ಧ)ಅನುಸ್ವಾರಲೋಪ"}
+  æa: {label: "ಎ್ > ಅ"}
+  æe: {label: "ಎ್ > ಎ"}
+}
+
+ಎ್ಁ {
+  class: node
+  label: ""
+
+  ಎ್ಁ {class: bold}
+  "ಉತ್ತಮಪುರುಷದ ಮೂಲ" {class: text}
+}
+
+ಏ್ಁ {
+  class: node
+  _.ಎ್ಁ -> _.ಏ್ಁ: "ಪ್ರತ್ಯಯವಿರದಾಗ ದೀರ್ಘ"
+}
+
+ನೇ್ಁ {
+  class: node
+  _.ಏ್ಁ -> _.ನೇ್ಁ {class: nv}
+}
+
+ನಾಁ {
+  class: node
+  _.ನೇ್ಁ -> _.ನಾಁ {class: ǣā}
+}
+
+ನಾನ್ {
+  class: highlight
+  ನಾನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಹಳಗನ್ನಡ, ತಮಿಳು" {class: text}
+  _.ನಾಁ -> _.ನಾನ್ {class: vn}
+}
+
+ನಾನು {
+  class: highlight
+  ನಾನು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಕನ್ನಡ" {class: text}
+  _.ನಾನ್ -> _.ನಾನು {class: u}
+}
+
+ಞಾನ್ {
+  class: highlight
+  ಞಾನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಮಲಯಾಳ" {class: text}
+  _.ನಾನ್ -> _.ಞಾನ್ {class: nñ}
+}
+
+ನಾಮ್ {
+  class: plhighlight
+  ನಾಮ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಬಹುವಚನ: ಹಳಗನ್ನಡ, ತಮಿಳು" {class: text}
+  _.ನಾಁ -> _.ನಾಮ್ {class: vm}
+}
+
+ನಾವ್ {
+  class: node
+  _.ನಾಮ್ -> _.ನಾವ್ {class: mv}
+}
+
+ನಾವು {
+  class: plhighlight
+  ನಾವು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಬಹುವಚನ: ಕನ್ನಡ" {class: text}
+  _.ನಾವ್ -> _.ನಾವು {class: u}
+}
+
+ನೇಁ {
+  class: node
+  _.ನೇ್ಁ -> _.ನೇಁ {class: ǣē}
+}
+
+ನೇನ್ {
+  class: node
+  _.ನೇಁ -> _.ನೇನ್ {class: vn}
+}
+
+ನೇನು {
+  class: highlight
+  ನೇನು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ತೆಲುಗು" {class: text}
+  _.ನೇನ್ -> _.ನೇನು {class: u}
+}
+
+ನಾ {
+  class: highlight
+  ನಾ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಕನ್ನಡ" {class: text}
+  _.ನಾಁ -> _.ನಾ {class: v0}
+}
+
+ನೇ {
+  class: highlight
+  ನೇ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ತೆಲುಗು" {class: text}
+  _.ನೇಁ -> _.ನೇ {class: v0}
+}
+
+ಏ್‍ನ್ {
+  class: node
+  _.ಏ್ಁ -> _.ಏ್‍ನ್ {class: vn}
+}
+
+ಆನ್ {
+  class: highlight
+  ಆನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಹಳಗನ್ನಡ" {class: text}
+  _.ಏ್‍ನ್ -> _.ಆನ್ {class: ǣā}
+}
+
+ಆನು {
+  class: highlight
+  ಆನು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಕನ್ನಡ" {class: text}
+  _.ಆನ್ -> _.ಆನು {class: u}
+}
+
+ಏ್‍ಮ್ {
+  class: node
+  _.ಏ್ಁ -> _.ಏ್‍ಮ್ {class: vm}
+}
+
+ಆಮ್ {
+  class: plhighlight
+  ಆಮ್ {class: bold}
+  a: |`
+    - ಪ್ರಥಮಾವಿಭಕ್ತಿ ಬಹುವಚನ: ಹಳಗನ್ನಡ
+    - ಉತ್ತಮಪುರುಷದ ಬಹುವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ತಮಿಳು
+  `| {class: text}
+  _.ಏ್‍ಮ್ -> _.ಆಮ್ {class: ǣā}
+}
+
+ಓಮ್ {
+  class: plhighlight
+  ಓಮ್ {class: bold}
+  "ಉತ್ತಮಪುರುಷದ ಬಹುವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ತಮಿಳು" {class: text}
+  _.ಆಮ್ -> _.ಓಮ್ {class: āō}
+}
+
+ಏನ್ {
+  class: node
+  _.ಏ್‍ನ್ -> _.ಏನ್ {class: ǣē}
+}
+
+ಏನು್ {
+  class: highlight
+  ಏನು್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ತುಳು" {class: text}
+  _.ಏನ್ -> _.ಏನು್ {class: ŭ}
+}
+
+ಏನು {
+  class: highlight
+  ಏನು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಹಳೆತೆಲುಗು" {class: text}
+  _.ಏನ್ -> _.ಏನು {class: u}
+}
+
+ಯಾನ್ {
+  class: highlight
+  ಯಾನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ತಮಿಳು" {class: text}
+  _.ಏ್‍ನ್ -> _.ಯಾನ್ {class: ǣyā}
+}
+
+ಯಾನು್ {
+  class: highlight
+  ಯಾನು್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ತುಳು" {class: text}
+  _.ಯಾನ್ -> _.ಯಾನು್ {class: ŭ}
+}
+
+ಏ್ {
+  class: node
+  _.ಏ್ಁ -> _.ಏ್ {class: v0}
+}
+
+ಏ {
+  class: highlight
+  ಏ {class: bold}
+  a: |`
+    - ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಹಳೆತೆಲುಗು
+    - ಅವಧಾರಣಾರ್ಥಕ ಪ್ರತ್ಯಯ: ಕನ್ನಡ, ತುಳು, ತಮಿಳು, ತೆಲುಗು, ಮಲಯಾಳ
+  `| {class: text}
+  _.ಏ್ -> _.ಏ {class: ǣē}
+}
+
+ನೆ್ಁ {
+  class: node
+  _.ಎ್ಁ -> _.ನೆ್ಁ {class: nv}
+}
+
+ನಁ {
+  class: node
+  _.ನೆ್ಁ -> _.ನಁ {class: æa}
+}
+
+ನನ್ {
+  class: highlight
+  ನನ್ {class: bold}
+  "ಏಕವಚನ ವಿಭಕ್ತರೂಪ: ಕನ್ನಡ, ತೆಲುಗು" {class: text}
+  _.ನಁ -> _.ನನ್ {class: vn}
+}
+
+ಎ್‌ನ್ {
+  class: node
+  _.ಎ್ಁ -> _.ಎ್‌ನ್ {class: vn}
+}
+
+ಎನ್ {
+  class: highlight
+  ಎನ್ {class: bold}
+  a: |`
+    - ಏಕವಚನ ವಿಭಕ್ತರೂಪ: ಹಳಗನ್ನಡ, ತುಳು, ತಮಿಳು
+    - ಉತ್ತಮಪುರುಷದ ಏಕವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ಕನ್ನಡ
+  `| {class: text}
+  _.ಎ್‌ನ್ -> _.ಎನ್ {class: æa}
+}
+
+ಎನು {
+  class: highlight
+  ಎನು {class: bold}
+  "ಉತ್ತಮಪುರುಷದ ಏಕವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ಕನ್ನಡ" {class: text}
+  _.ಎನ್ -> _.ಎನು {class: u}
+}
+
+ಎ್ {
+  class: highlight
+  ಎ್ {class: bold}
+  "ಉತ್ತಮಪುರುಷದ ಏಕವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ತುಳು" {class: text}
+  _.ಎ್ಁ -> _.ಎ್ {class: v0}
+}
+
+ಎ {
+  class: highlight
+  ಎ {class: bold}
+  "ಉತ್ತಮಪುರುಷದ ಏಕವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ಕನ್ನಡ" {class: text}
+  _.ಎ್ -> _.ಎ {class: æe}
+}
+
+ಎ್‌ಮ್ {
+  class: node
+  _.ಎ್ಁ -> _.ಎ್‌ಮ್ {class: vm}
+}
+
+ಎಮ್ {
+  class: plhighlight
+  ಎಮ್ {class: bold}
+  a: |`
+    - ಬಹುವಚನ ವಿಭಕ್ತರೂಪ: ಹಳಗನ್ನಡ
+    - ಉತ್ತಮಪುರುಷದ ಬಹುವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ಹಳಗನ್ನಡ, ತಮಿಳು?
+  `| {class: text}
+  _.ಎ್‌ಮ್ -> _.ಎಮ್ {class: æe}
+}
+
+ಎವ್ {
+  class: node
+  _.ಎಮ್ -> _.ಎವ್ {class: mv}
+}
+
+ಎವು {
+  class: plhighlight
+  ಎವು {class: bold}
+  "ಉತ್ತಮಪುರುಷದ ಬಹುವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ಕನ್ನಡ" {class: text}
+  _.ಎವ್ -> _.ಎವು {class: u}
+}
+
+ಅಮ್ {
+  class: plhighlight
+  ಅಮ್ {class: bold}
+  "ಉತ್ತಮಪುರುಷದ ಬಹುವಚನದ ಆಖ್ಯಾತಪ್ರತ್ಯಯ: ತಮಿಳು?" {class: text}
+  _.ಎ್‌ಮ್ -> _.ಅಮ್ {class: æa}
+}
+

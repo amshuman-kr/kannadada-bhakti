@@ -1,0 +1,316 @@
+# ! d2 first-person-all-ipa.d2 ../png/first-person-all-ipa.png
+
+direction: down
+
+classes {
+  text: {shape: text}
+  bold: {
+    shape: text
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  node: {
+    shape: oval
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  highlight: {
+    shape: oval
+    style: { fill: lightgreen }
+    label: ""
+  }
+  plhighlight: {
+    shape: oval
+    style: { fill: mediumaquamarine }
+    label: ""
+  }
+  nv: { label: "strong nasalisation produces n before the vowel" }
+  vn: { label: "singular: nasalisation > n after" }
+  vm: { label: "plural: nasalisation > m after" }
+  ǣā: { label: "æː > ɑː"}
+  ǣē: { label: "æː > eː"}
+  ǣyā: { label: "æː > jɑː"}
+  āō: { label: "ɑː > oː"}
+  nñ: { label: "n̪ > ɲ"}
+  mv: { label: "m > ʋ"}
+  u: { label: "+ u"}
+  ŭ: { label: "+ ɯ"}
+  v0: {label: "nasalisation disappears"}
+  æa: {label: "æ > ə"}
+  æe: {label: "æ > e"}
+}
+
+ಎ್ಁ {
+  class: node
+  label: ""
+
+  ಎ್ಁ: æ̃ {class: bold}
+  "First-person base" {class: text}
+}
+
+ಏ್ಁ: æ̃ː {
+  class: node
+  _.ಎ್ಁ -> _.ಏ್ಁ: "vowel lengthens in the absense of suffixes"
+}
+
+ನೇ್ಁ: n̪æ̃ː {
+  class: node
+  _.ಏ್ಁ -> _.ನೇ್ಁ {class: nv}
+}
+
+ನಾಁ: n̪ɑ̃ː {
+  class: node
+  _.ನೇ್ಁ -> _.ನಾಁ {class: ǣā}
+}
+
+ನಾನ್ {
+  class: highlight
+  ನಾನ್: n̪ɑːn̪ {class: bold}
+  "Nominative singular: Old Kanada, Tamil" {class: text}
+  _.ನಾಁ -> _.ನಾನ್ {class: vn}
+}
+
+ನಾನು {
+  class: highlight
+  ನಾನು: n̪ɑːn̪u {class: bold}
+  "Nominative singular: Kannada" {class: text}
+  _.ನಾನ್ -> _.ನಾನು {class: u}
+}
+
+ಞಾನ್ {
+  class: highlight
+  ಞಾನ್: ɲɑːn̪ {class: bold}
+  "Nominative singular: Malayalam" {class: text}
+  _.ನಾನ್ -> _.ಞಾನ್ {class: nñ}
+}
+
+ನಾಮ್ {
+  class: plhighlight
+  ನಾಮ್:n̪ɑːm {class: bold}
+  "Nominative plural: Old Kannada, Tamil" {class: text}
+  _.ನಾಁ -> _.ನಾಮ್ {class: vm}
+}
+
+ನಾವ್: n̪ɑːʋ {
+  class: node
+  _.ನಾಮ್ -> _.ನಾವ್ {class: mv}
+}
+
+ನಾವು {
+  class: plhighlight
+  ನಾವು: n̪ɑːʋu {class: bold}
+  "Nominative Plural: Kannada" {class: text}
+  _.ನಾವ್ -> _.ನಾವು {class: u}
+}
+
+ನೇಁ: n̪ẽː {
+  class: node
+  _.ನೇ್ಁ -> _.ನೇಁ {class: ǣē}
+}
+
+ನೇನ್: n̪eːn̪ {
+  class: node
+  _.ನೇಁ -> _.ನೇನ್ {class: vn}
+}
+
+ನೇನು {
+  class: highlight
+  ನೇನು: n̪eːn̪u {class: bold}
+  "Nominative singular: Telugu" {class: text}
+  _.ನೇನ್ -> _.ನೇನು {class: u}
+}
+
+ನಾ {
+  class: highlight
+  ನಾ: n̪ɑː {class: bold}
+  "Nominative singular: Kannada" {class: text}
+  _.ನಾಁ -> _.ನಾ {class: v0}
+}
+
+ನೇ {
+  class: highlight
+  ನೇ: n̪eː {class: bold}
+  "Nominative singular: Telugu" {class: text}
+  _.ನೇಁ -> _.ನೇ {class: v0}
+}
+
+ಏ್‍ನ್: æːn̪ {
+  class: node
+  _.ಏ್ಁ -> _.ಏ್‍ನ್ {class: vn}
+}
+
+ಆನ್ {
+  class: highlight
+  ಆನ್: ɑːn̪ {class: bold}
+  "Nominative singular: Old Kannada" {class: text}
+  _.ಏ್‍ನ್ -> _.ಆನ್ {class: ǣā}
+}
+
+ಆನು {
+  class: highlight
+  ಆನು: ɑːn̪u {class: bold}
+  "Nominative singular: Kannada" {class: text}
+  _.ಆನ್ -> _.ಆನು {class: u}
+}
+
+ಏ್‍ಮ್: æːm {
+  class: node
+  _.ಏ್ಁ -> _.ಏ್‍ಮ್ {class: vm}
+}
+
+ಆಮ್ {
+  class: plhighlight
+  ಆಮ್: ɑːm {class: bold}
+  a: |`
+    - Nominative plural: Old Kannada
+    - First-person plural finite verb suffix: Tamil
+  `| {class: text}
+  _.ಏ್‍ಮ್ -> _.ಆಮ್ {class: ǣā}
+}
+
+ಓಮ್ {
+  class: plhighlight
+  ಓಮ್: oːm {class: bold}
+  "First-person plural finite verb suffix: Tamil" {class: text}
+  _.ಆಮ್ -> _.ಓಮ್ {class: āō}
+}
+
+ಏನ್: eːn̪ {
+  class: node
+  _.ಏ್‍ನ್ -> _.ಏನ್ {class: ǣē}
+}
+
+ಏನು್ {
+  class: highlight
+  ಏನು್: eːn̪ɯ {class: bold}
+  "Nominative Singular: Tulu" {class: text}
+  _.ಏನ್ -> _.ಏನು್ {class: ŭ}
+}
+
+ಏನು {
+  class: highlight
+  ಏನು: eːn̪u {class: bold}
+  "Nominative singular: Old Telugu" {class: text}
+  _.ಏನ್ -> _.ಏನು {class: u}
+}
+
+ಯಾನ್ {
+  class: highlight
+  ಯಾನ್: jɑːn̪ {class: bold}
+  "Nominative singular: Tamil" {class: text}
+  _.ಏ್‍ನ್ -> _.ಯಾನ್ {class: ǣyā}
+}
+
+ಯಾನು್ {
+  class: highlight
+  ಯಾನು್: jɑːn̪ɯ {class: bold}
+  "Nominative singular: Tulu" {class: text}
+  _.ಯಾನ್ -> _.ಯಾನು್ {class: ŭ}
+}
+
+ಏ್: æː {
+  class: node
+  _.ಏ್ಁ -> _.ಏ್ {class: v0}
+}
+
+ಏ {
+  class: highlight
+  ಏ: eː {class: bold}
+  a: |`
+    - Nominative singular: Old Telugu
+    - Emphasising suffix: Kannada, Tulu, Tamil, Telugu, Malayalam
+  `| {class: text}
+  _.ಏ್ -> _.ಏ {class: ǣē}
+}
+
+ನೆ್ಁ: n̪æ̃ {
+  class: node
+  _.ಎ್ಁ -> _.ನೆ್ಁ {class: nv}
+}
+
+ನಁ: n̪ə̃  {
+  class: node
+  _.ನೆ್ಁ -> _.ನಁ {class: æa}
+}
+
+ನನ್ {
+  class: highlight
+  ನನ್: n̪ən̪ {class: bold}
+  "Inflectional prefix singular: Kannada, Telugu" {class: text}
+  _.ನಁ -> _.ನನ್ {class: vn}
+}
+
+ಎ್‌ನ್: æn̪ {
+  class: node
+  _.ಎ್ಁ -> _.ಎ್‌ನ್ {class: vn}
+}
+
+ಎನ್ {
+  class: highlight
+  ಎನ್: en̪ {class: bold}
+  a: |`
+    - Inflectional prefix singular: Old Kannada, Tamil, Tulu
+    - First-person singular finite verb suffix: Old Kannada
+  `| {class: text}
+  _.ಎ್‌ನ್ -> _.ಎನ್ {class: æa}
+}
+
+ಎನು {
+  class: highlight
+  ಎನು: en̪u {class: bold}
+  "First-person singular finite verb suffix: Kannada" {class: text}
+  _.ಎನ್ -> _.ಎನು {class: u}
+}
+
+ಎ್ {
+  class: highlight
+  ಎ್: æ {class: bold}
+  "First-person singular finite verb suffix: Tulu" {class: text}
+  _.ಎ್ಁ -> _.ಎ್ {class: v0}
+}
+
+ಎ {
+  class: highlight
+  ಎ: e {class: bold}
+  "First-person singular finite verb suffix: Kannada" {class: text}
+  _.ಎ್ -> _.ಎ {class: æe}
+}
+
+ಎ್‌ಮ್: æ {
+  class: node
+  _.ಎ್ಁ -> _.ಎ್‌ಮ್ {class: vm}
+}
+
+ಎಮ್ {
+  class: plhighlight
+  ಎಮ್: em {class: bold}
+  a: |`
+    - Inflectional prefix plural: Old Kannada
+    - First-person singular finite verb suffix: Old Kannada, Tamil?
+  `| {class: text}
+  _.ಎ್‌ಮ್ -> _.ಎಮ್ {class: æe}
+}
+
+ಎವ್: eʋ {
+  class: node
+  _.ಎಮ್ -> _.ಎವ್ {class: mv}
+}
+
+ಎವು {
+  class: plhighlight
+  ಎವು: eʋu {class: bold}
+  "First-person singular finite verb suffix: Kannada" {class: text}
+  _.ಎವ್ -> _.ಎವು {class: u}
+}
+
+ಅಮ್ {
+  class: plhighlight
+  ಅಮ್: əm {class: bold}
+  "First-person singular finite verb suffix: Tamil?" {class: text}
+  _.ಎ್‌ಮ್ -> _.ಅಮ್ {class: æa}
+}
+

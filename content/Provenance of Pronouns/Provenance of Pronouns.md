@@ -70,6 +70,7 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
     - [Caldwell's arguments for nān/nā being the first-person pronominal roots](#caldwells-arguments-for-nānnā-being-the-first-person-pronominal-roots)
     - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments-1)
     - [The vowel that is intermediate to ā and ē suggested by Masti Venkatesha Iyengar](#the-vowel-that-is-intermediate-to-ā-and-ē-suggested-by-masti-venkatesha-iyengar)
+      - [Producing all the various first-personal forms](#producing-all-the-various-first-personal-forms)
     - [An afterward on the first, second and third person pronominal roots](#an-afterward-on-the-first-second-and-third-person-pronominal-roots)
   - [Indo-European Languages](#indo-european-languages-2)
 - [Interrogative Pronominal Roots](#interrogative-pronominal-roots)
@@ -2073,6 +2074,12 @@ A [cursory look](#indo-european-languages-2) at the the first-person pronoun for
 (especially, in the reconstructed [Proto-Indo-European](https://en.wikipedia.org/wiki/Proto-Indo-European_language))
 seems to further support this conclusion.
 
+##### Producing all the various first-personal forms
+
+I have used IPA in the image because I could not get the ISO 15919 character `ಁ` to render properly in the image.
+
+![Producing all the various first-personal forms](../../images/png/first-person-all-ipa.png)
+
 #### An afterward on the first, second and third person pronominal roots
 
 The depth and breadth of Caldwell's insight in comparing the third-person pronominal roots with the first and second person
@@ -2508,6 +2515,7 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 ## Revisions
 
+- [Producing all the various first-personal forms](#producing-all-the-various-first-personal-forms) is added.
 - A small section on [the derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada) is added.
 - A small note about [indications of mediating nasalisation after word fragments ending with vowels other than `a` in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu) is added.
 - [Interrogative Pronominal Roots](#interrogative-pronominal-roots) and [Some Loose-ends](#some-loose-ends) sections are translated.
