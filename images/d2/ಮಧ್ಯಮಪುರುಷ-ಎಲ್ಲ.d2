@@ -1,0 +1,189 @@
+# ! d2 ಮಧ್ಯಮಪುರುಷ-ಎಲ್ಲ.d2 ../png/ಮಧ್ಯಮಪುರುಷ-ಎಲ್ಲ.png
+
+direction: down
+
+classes {
+  text: {shape: text}
+  bold: {
+    shape: text
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  node: {
+    shape: oval
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  highlight: {
+    shape: oval
+    style: { fill: lightgreen }
+    label: ""
+  }
+  plhighlight: {
+    shape: oval
+    style: { fill: mediumaquamarine }
+    label: ""
+  }
+  nv: { label: "ಬಲವಾದ (ಅರ್ಧ)ಅನುಸ್ವಾರದಿಂದ ಮೊದಲೂ ನಕಾರವುಂಟಾಗಿದೆ" }
+  vn: { label: "ಏಕವಚನದಲ್ಲಿ (ಅರ್ಧ)ಅನುಸ್ವಾರ > ಸ್ವರದನಂತರ ನಕಾರ" }
+  vm: { label: "ಬಹುವಚನದಲ್ಲಿ (ಅರ್ಧ)ಅನುಸ್ವಾರ > ಸ್ವರದನಂತರ ಮಕಾರ" }
+  mv: { label: "ಮ್ > ವ್"}
+  u: { label: "+ ಉ"}
+  ŭ: { label: "+ ಉ್"}
+  v0: {label: "(ಅರ್ಧ)ಅನುಸ್ವಾರಲೋಪ"}
+}
+
+ಇಁ {
+  class: node
+  label: ""
+
+  ಇಁ {class: bold}
+  "ಸಮೀಪಾರ್ಥಕ ಪ್ರಥಮಪುರುಷದ, ಮಧ್ಯಮಪುರುಷದ ಮೂಲ" {class: text}
+}
+
+ಈಁ {
+  class: node
+  _.ಇಁ -> _.ಈಁ: "ಪ್ರತ್ಯಯವಿರದಾಗ ದೀರ್ಘ"
+}
+
+ನೀಁ {
+  class: node
+  _.ಈಁ -> _.ನೀಁ {class: nv}
+}
+
+ನೀನ್ {
+  class: highlight
+  ನೀನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಹಳಗನ್ನಡ, ತಮಿಳು" {class: text}
+  _.ನೀಁ -> _.ನೀನ್ {class: vn}
+}
+
+ನೀನು {
+  class: highlight
+  ನೀನು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಕನ್ನಡ" {class: text}
+  _.ನೀನ್ -> _.ನೀನು {class: u}
+}
+
+ನೀಮ್ {
+  class: plhighlight
+ ನೀಮ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಬಹುವಚನ: ಹಳಗನ್ನಡ, ತಮಿಳು" {class: text}
+  _.ನೀಁ -> _.ನೀಮ್ {class: vm}
+}
+
+ನೀವ್ {
+  class: node
+  _.ನೀಮ್ -> _.ನೀವ್ {class: mv}
+}
+
+ನೀವು {
+  class: plhighlight
+  ನಾವು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಬಹುವಚನ: ಕನ್ನಡ" {class: text}
+  _.ನೀವ್ -> _.ನೀವು {class: u}
+}
+
+ನೀ {
+  class: highlight
+  ನೀ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ಕನ್ನಡ, ತೆಲುಗು" {class: text}
+  _.ನೀಁ -> _.ನೀ {class: v0}
+}
+
+ಈ {
+  class: highlight
+  ಈ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಏಕವಚನ: ತುಳು" {class: text}
+  _.ಈಁ -> _.ಈ {class: v0}
+}
+
+ಈಮ್ {
+  class: node
+  _.ಈಁ -> _.ಈಮ್ {class: vm}
+}
+
+ಈವ್ {
+  class: node
+  _.ಈಮ್ -> _.ಈವ್ {class: mv}
+}
+
+ಈವು {
+  class: plhighlight
+  ಈವು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಬಹುವಚನ: ಹಳೆತೆಲುಗು" {class: text}
+  _.ಈವ್ -> _.ಈವು {class: u}
+}
+
+ನಿಁ {
+  class: node
+  _.ಇಁ -> _.ನಿಁ {class: nv}
+}
+
+ನಿನ್ {
+  class: highlight
+  ನಿನ್ {class: bold}
+  "ಏಕವಚನ ವಿಭಕ್ತರೂಪ: ಕನ್ನಡ, ತೆಲುಗು, ತಮಿಳು, ತುಳು" {class: text}
+  _.ನಿಁ -> _.ನಿನ್ {class: vn}
+}
+
+ಇನ್ {
+  class: highlight
+  ಇನ್ {class: bold}
+  "ಏಕವಚನ ವಿಭಕ್ತರೂಪ: ತುಳು" {class: text}
+  _.ಇಁ -> _.ಇನ್ {class: vn}
+}
+
+ಉಁ {
+  class: node
+  label: ""
+
+  ಉಁ {class: bold}
+  "ಅನತಿದೂರಾರ್ಥಕ/ಪ್ರಸ್ತುತಾರ್ಥಕ ಪ್ರಥಮಪುರುಷದ, ಮಧ್ಯಮಪುರುಷದ ಮೂಲ" {class: text}
+}
+
+
+ನುಁ {
+  class: node
+  _.ಉಁ -> _.ನುಁ {class: nv}
+}
+
+ನುನ್ {
+  class: highlight
+  ನುನ್ {class: bold}
+  "ಏಕವಚನ ವಿಭಕ್ತರೂಪ: ತಮಿಳು" {class: text}
+  _.ನುಁ -> _.ನುನ್ {class: vn}
+}
+
+ಉನ್ {
+  class: highlight
+  ಉನ್ {class: bold}
+  "ಏಕವಚನ ವಿಭಕ್ತರೂಪ: ತಮಿಳು" {class: text}
+  _.ಉಁ -> _.ಉನ್ {class: vn}
+}
+
+ಉಮ್ {
+  class: plhighlight
+  ಉಮ್ {class: bold}
+  a: |`
+    - ಬಹುವಚನ ವಿಭಕ್ತರೂಪ: ತಮಿಳು
+    - ಸಮುಚ್ಚಯಪ್ರತ್ಯಯ: ಹಳಗನ್ನಡ, ತಮಿಳು
+  `| {class: text}
+  _.ಉಁ -> _.ಉಮ್ {class: vm}
+}
+
+ಉ {
+  class: node
+  _.ಉಁ -> _.ಉ {class: v0}
+}
+
+ಊ {
+  class: highlight
+  ಊ {class: bold}
+  "ಸಮುಚ್ಚಯಪ್ರತ್ಯಯ: ಕನ್ನಡ" {class: text}
+  _.ಉ -> _.ಊ: "ಪ್ರತ್ಯಯವಿರದಾಗ ದೀರ್ಘ"
+}

@@ -63,6 +63,7 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
     - [Caldwell's arguments for nīn/nin/nī/ni being the second-person pronominal roots](#caldwells-arguments-for-nīnninnīni-being-the-second-person-pronominal-roots)
     - [Analysis of Caldwell's arguments](#analysis-of-caldwells-arguments)
     - [The process of producing nīn/nin from the second-person pronominal root vowel i](#the-process-of-producing-nīnnin-from-the-second-person-pronominal-root-vowel-i)
+      - [Producing all the various second-personal forms](#producing-all-the-various-second-personal-forms)
   - [Indo-European Languages](#indo-european-languages-1)
 - [First-person Pronominal Roots](#first-person-pronominal-roots)
   - [Dravidian Languages](#dravidian-languages-2)
@@ -1488,6 +1489,12 @@ This brings the part of Caldwell's abandoned hypothesis equating the third-perso
 The sole remaining objection to the rest of Caldwell's abandoned hypothesis that the third-person demonstrative distal pronominal root vowel `a` 
 is not suited semantically to be the first-person pronominal root will be taken up in the section on the [first-person pronominal roots](#first-person-pronominal-roots).
 
+##### Producing all the various second-personal forms
+
+I have used IPA in the image because I could not get the ISO 15919 character `ಁ` to render properly in the image.
+
+![Producing all the various second-personal forms](../../images/png/second-person-all-ipa.png)
+
 ### Indo-European Languages
 
 As noted by Caldwell, the Dravidian languages favour the proximal demonstrative vowel `i` for the second-person pronominal forms,
@@ -2515,6 +2522,7 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 ## Revisions
 
+- [Producing all the various second-personal forms](#producing-all-the-various-second-personal-forms) is added.
 - [Producing all the various first-personal forms](#producing-all-the-various-first-personal-forms) is added.
 - A small section on [the derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada) is added.
 - A small note about [indications of mediating nasalisation after word fragments ending with vowels other than `a` in Tulu](#indications-of-mediating-nasalisation-after-word-fragments-ending-with-vowels-other-than-a-in-tulu) is added.
