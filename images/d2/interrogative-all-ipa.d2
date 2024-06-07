@@ -1,0 +1,318 @@
+# ! d2 interrogative-all-ipa.d2 ../png/interrogative-all-ipa.png
+
+direction: down
+
+classes {
+  text: {shape: text}
+  bold: {
+    shape: text
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  node: {
+    shape: oval
+    style: {
+      bold: true
+      font-size: 24
+    }
+  }
+  highlight: {
+    shape: oval
+    style: { fill: lightgreen }
+    label: ""
+  }
+  plhighlight: {
+    shape: oval
+    style: { fill: mediumaquamarine }
+    label: ""
+  }
+  vn: { label: "singular: nasalisation > n after" }
+  vm: { label: "plural: nasalisation > m after" }
+  vv: { label: "plural: nasalisation > (via m?) v after" }
+  ǣā: { label: "æː > ɑː"}
+  ǣē: { label: "æː > eː"}
+  ǣyā: { label: "æː > jɑː"}
+  āō: { label: "ɑː > oː"}
+  u: { label: "+ u"}
+  ŭ: { label: "+ ɯ"}
+  i: { label: "+ ɪ"}
+  a: { label: "genitive/adjectival + ə"}
+  an: { label: "masculine singular + ə̃"}
+  aḷ: { label: "feminine singular + əɭ"}
+  ar: { label: "rational plural + əɾ"}
+  udu: {label: "neuter singular + ud̪u"}
+  vu: {label: "neuter singular + ʋu"}
+  d: {label: "neuter singular + d̪"}
+  v0: {label: "nasalisation disappears"}
+  æa: {label: "æ > ɑ"}
+  æe: {label: "æ > e"}
+}
+
+ಎ್ಁ {
+  class: node
+  label: ""
+
+  ಎ್ಁ: æ̃ {class: bold}
+  "Interrogative base (with an interrogative uptick in tone)" {class: text}
+}
+
+ಏ್ಁ: æ̃ː {
+  class: node
+  _.ಎ್ಁ -> _.ಏ್ಁ: "vowel lengthens in the absence of suffixes"
+}
+
+ಏಁ: ẽː {
+  class: node
+  _.ಏ್ಁ -> _.ಏಁ {class: ǣē}
+}
+
+ಏನ್ {
+  class: highlight
+  ಏನ್: eːn̪ {class: bold}
+  "Nominative: Old Kannada" {class: text}
+  _.ಏಁ -> _.ಏನ್ {class: vn}
+}
+
+ಏನು {
+  class: highlight
+  ಏನು: eːn̪u {class: bold}
+  "Nominative: Kannada" {class: text}
+  _.ಏನ್ -> _.ಏನು {class: u}
+}
+
+ಏಮ್: eːm {
+  class: node
+  _.ಏಁ -> _.ಏಮ್ {class: vm}
+}
+
+ಏಮಿ {
+  class: highlight
+  ಏಮಿ: eːmɪ {class: bold}
+  "Nominative: Telugu" {class: text}
+  _.ಏಮ್ -> _.ಏಮಿ {class: i}
+}
+
+ಏ {
+  class: highlight
+  ಏ: eː {class: bold}
+  a: |`
+    - Interrogative determiner: Telugu
+    - Interrogative/speculative/skeptical suffix: Kannada
+  `| {class: text}
+  _.ಏಁ -> _.ಏ {class: v0}
+}
+
+ಏರ್: eːɾ {
+  class: node
+  _.ಏ -> _.ಏರ್ {class: ar}
+}
+
+ಏರು್ {
+  class: highlight
+  ಏರು್:eːɾɯ {class: bold}
+  "Nominative rational: Tulu" {class: text}
+  _.ಏರ್ -> _.ಏರು್ {class: ŭ}
+}
+
+ಯಾಁ: jɑ̃ː {
+  class: node
+  _.ಏ್ಁ -> _.ಯಾಁ {class: ǣyā}
+}
+
+ಯಾವ್: jɑːʋ {
+  class: node
+  _.ಯಾಁ -> _.ಯಾವ್ {class: vv}
+}
+
+ಯಾವಁ: jɑːʋə̃ {
+  class: node
+  _.ಯಾವ್ -> _.ಯಾವಁ {class: an}
+}
+
+ಯಾವನ್: jɑːʋən̪ {
+  class: node
+  _.ಯಾವಁ -> _.ಯಾವನ್ {class: vn}
+}
+
+ಯಾವನು {
+  class: highlight
+  ಯಾವನು: jɑːʋən̪u {class: bold}
+  "Noinative masculine singular: Kannada" {class: text}
+  _.ಯಾವನ್ -> _.ಯಾವನು {class: u}
+}
+
+ಯಾವಳ್: jɑːʋəɭ {
+  class: node
+  _.ಯಾವ್ -> _.ಯಾವಳ್ {class: aḷ}
+}
+
+ಯಾವಳು {
+  class: highlight
+  ಯಾವಳು: jɑːʋəɭu {class: bold}
+  "Nominative feminine singular: Kannada" {class: text}
+  _.ಯಾವಳ್ -> _.ಯಾವಳು {class: u}
+}
+
+ಯಾವುದು {
+  class: highlight
+  ಯಾವುದು: jɑːʋud̪u {class: bold}
+  "Nominative neuter singular: Kannada" {class: text}
+  _.ಯಾವ್ -> _.ಯಾವುದು {class: udu}
+}
+
+ಯಾ {
+  class: highlight
+  ಯಾ: jɑː {class: bold}
+  "Interrogative determiner: Kannada" {class: text}
+  _.ಯಾಁ -> _.ಯಾ {class: v0}
+}
+
+ಯಾರ್ {
+  class: highlight
+  ಯಾರ್: jɑːɾ {class: bold}
+  "Noinative rational: Tamil" {class: text}
+  _.ಯಾ -> _.ಯಾರ್ {class: ar}
+}
+
+ಯಾರು {
+  class: highlight
+  ಯಾರು: jɑːɾu {class: bold}
+  "Nominative rational: Kannada" {class: text}
+  _.ಯಾರ್ -> _.ಯಾರು {class: u}
+}
+
+ಆಁ: ɑ̃ː {
+  class: node
+  _.ಏ್ಁ -> _.ಆಁ {class: ǣā}
+}
+
+ಆವ್: ɑːʋ {
+  class: node
+  _.ಆಁ -> _.ಆವ್ {class: vv}
+}
+
+ಆವಁ: ɑːʋə̃ {
+  class: node
+  _.ಆವ್ -> _.ಆವಁ {class: an}
+}
+
+ಆವನ್: ɑːʋən̪ {
+  class: node
+  _.ಆವಁ -> _.ಆವನ್ {class: vn}
+}
+
+ಆವನು {
+  class: highlight
+  ಆವನು: ɑːʋən̪u {class: bold}
+  "Nominative masculine singular: Old Kannada" {class: text}
+  _.ಆವನ್ -> _.ಆವನು {class: u}
+}
+
+ಆವಳ್: ɑːʋəɭ {
+  class: node
+  _.ಆವ್ -> _.ಆವಳ್ {class: aḷ}
+}
+
+ಆವಳು {
+  class: highlight
+  ಆವಳು: ɑːʋəɭu {class: bold}
+  "Nominative feminine singular: Old Kannada" {class: text}
+  _.ಆವಳ್ -> _.ಆವಳು {class: u}
+}
+
+ಆವುದು {
+  class: highlight
+  ಆವುದು: ɑːʋud̪u {class: bold}
+  "Nominative neuter singular: Old Kannada" {class: text}
+  _.ಆವ್ -> _.ಆವುದು {class: udu}
+}
+
+ಆರ್ {
+  class: highlight
+  ಆರ್: ɑːɾ {class: bold}
+  "Nominative rational: Old Kannada" {class: text}
+  _.ಆ -> _.ಆರ್ {class: ar}
+}
+
+ಆರು {
+  class: highlight
+  ಆರು: ɑːɾu {class: bold}
+  "Nominative rational: Old Kannada" {class: text}
+  _.ಆರ್ -> _.ಆರು {class: u}
+}
+
+ಆ {
+  class: highlight
+  ಆ: ɑː {class: bold}
+  "Interrogative/speculative/skeptical suffix: Kannada, Tulu, Tamil" {class: text}
+  _.ಆಁ -> _.ಆ {class: v0}
+}
+
+ಓಁ: õː {
+  class: node
+  _.ಆಁ -> _.ಓಁ {class: āō}
+}
+
+ಓವ್: oːʋ {
+  class: node
+  _.ಓಁ -> _.ಓವ್ {class: vv}
+}
+
+ಓವು {
+  class: highlight
+  ಓವು: oːʋu {class: bold}
+  "Nominative neuter singular: Tulu" {class: text}
+  _.ಓವ್ -> _.ಓವು {class: vu}
+}
+
+ಓ {
+  class: highlight
+  ಓ: oː {class: bold}
+  "Interrogative/speculative/skeptical suffix: Kannada, Tulu, Tamil" {class: text}
+  _.ಓಁ -> _.ಓ {class: v0}
+}
+
+ವಾ {
+  class: highlight
+  ವಾ: ʋɑː {class: bold}
+  "Interrogative determiner: Tulu" {class: text}
+  _.ಓ -> _.ವಾ {class: a}
+}
+
+ಎಁ: ẽ {
+  class: node
+  _.ಎ್ಁ -> _.ಎಁ {class: æe}
+}
+
+ಎವ್: eʋ {
+  class: node
+  _.ಎಁ -> _.ಎವ್ {class: vv}
+}
+
+ಎವು {
+  class: highlight
+  ಎವು: eʋu {class: bold}
+  "Nominative neuter: Tulu" {class: text}
+  _.ಎವ್ -> _.ಎವು {class: vu}
+}
+
+ಎ: e {
+  class: node
+  _.ಎಁ -> _.ಎ {class: v0}
+}
+
+ಎದ್ {
+  class: highlight
+  ಎದ್: ed̪ {class: bold}
+  "Nominative neuter singular: Tamil" {class: text}
+  _.ಎ -> _.ಎದ್ {class: d}
+}
+
+ಎದು {
+  class: highlight
+  ಎದು: ed̪u {class: bold}
+  "Nominative neuter singular: Kannada" {class: text}
+  _.ಎದ್ -> _.ಎದು {class: u}
+}

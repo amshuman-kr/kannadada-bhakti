@@ -80,6 +80,7 @@ So, to make it clear at least in the transliteration, IPA transliteration (`​�
     - [Interrogative pronominal root for all the variations starting with ā, e/ē, yā, ō and vā](#interrogative-pronominal-root-for-all-the-variations-starting-with-ā-eē-yā-ō-and-vā)
     - [The difference between the self-referential æ and the interrogative æ](#the-difference-between-the-self-referential-æ-and-the-interrogative-æ)
     - [The processes behind the interrogative/speculative/skeptical suffixes ē, ā, ō and the emphasising suffix ē in Kannada](#the-processes-behind-the-interrogativespeculativeskeptical-suffixes-ē-ā-ō-and-the-emphasising-suffix-ē-in-kannada)
+    - [Producing all the various interrogative forms](#producing-all-the-various-interrogative-forms)
   - [Indo-European Languages](#indo-european-languages-3)
 - [Some Loose-ends](#some-loose-ends)
   - [Dravidian Languages](#dravidian-languages-4)
@@ -2365,6 +2366,12 @@ strengthen the argument that the root vowel `æ`, pronounced in an interrogative
 Though it can be said that the emphasising suffix `ē` is also derived from the interrogative root vowel `æ`,
 from the perspective of linguistics and semantics, it might be more appropriate to say that it is derived from the self-referential root vowel `æ`.
 
+#### Producing all the various interrogative forms
+
+I have used IPA in the image because I could not get the ISO 15919 character `ಁ` to render properly in the image.
+
+![Producing all the various interrogative forms](../../images/png/interrogative-all-ipa.png)
+
 ### Indo-European Languages
 
 The processes producing the interrogative pronominal forms in the Indo-European languages do not seem to be as systematic or consistent as 
@@ -2522,6 +2529,7 @@ That these nasalised vowels are naturally suited to signify the above mentioned 
 
 ## Revisions
 
+- [Producing all the various interrogative forms](#producing-all-the-various-interrogative-forms) is added.
 - [Producing all the various second-personal forms](#producing-all-the-various-second-personal-forms) is added.
 - [Producing all the various first-personal forms](#producing-all-the-various-first-personal-forms) is added.
 - A small section on [the derivation of the akō/ikō in Kannada](#the-derivation-of-the-akōikō-in-kannada) is added.
