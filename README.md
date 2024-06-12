@@ -23,13 +23,14 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of modification time
 
+- [A Proposal for Perfective Particples](content/A%20Proposal%20for%20Perfective%20Particples.md) ([Amshuman K R](https://github.com/amshuman-kr))
+- [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - Provenance of Pronouns
 	 - [Provenance of Pronouns](content/Provenance%20of%20Pronouns/Provenance%20of%20Pronouns.md) ([Amshuman K R](https://github.com/amshuman-kr))
 	 - [Introduction and Context](content/Provenance%20of%20Pronouns/Introduction%20and%20Context.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - ಸರ್ವನಾಮಗಳ ಸರ್ಗ
 	 - [ಸರ್ವನಾಮಗಳ ಸರ್ಗ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 	 - [ಪ್ರಸ್ತಾವನೆ ಮತ್ತು ಪೂರ್ವಪಕ್ಷ](content/ಸರ್ವನಾಮಗಳ%20ಸರ್ಗ/ಪ್ರಸ್ತಾವನೆ%20ಮತ್ತು%20ಪೂರ್ವಪಕ್ಷ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
-- [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [A Nose for Nasalisation](content/A%20Nose%20for%20Nasalisation.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [ಅಂಕೆಗಳ ಅಟ್ಟಳಿಗೆ](content/ಅಂಕೆಗಳ%20ಅಟ್ಟಳಿಗೆ.md) ([ಗಣೇಶಕೃಷ್ಣ ಶಂಕರತೋಟ](https://github.com/smgk))
@@ -39,6 +40,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of creation time
 
+- [A Proposal for Perfective Particples](content/A%20Proposal%20for%20Perfective%20Particples.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [A Nose for Nasalisation](content/A%20Nose%20for%20Nasalisation.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಅಂಕೆಗಳ ಅಟ್ಟಳಿಗೆ](content/ಅಂಕೆಗಳ%20ಅಟ್ಟಳಿಗೆ.md) ([ಗಣೇಶಕೃಷ್ಣ ಶಂಕರತೋಟ](https://github.com/smgk))
