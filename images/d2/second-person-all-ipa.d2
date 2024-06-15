@@ -58,21 +58,28 @@ classes {
 ನೀನ್ {
   class: highlight
   ನೀನ್: n̪iːn̪ {class: bold}
-  "Nominative singular: Old Kannada, Tamil" {class: text}
+  "Nominative singular: Old Kannada, Tamil, Kurukh, Malto" {class: text}
   _.ನೀಁ -> _.ನೀನ್ {class: vn}
 }
 
 ನೀನು {
   class: highlight
   ನೀನು: n̪iːn̪u {class: bold}
-  "Nominative singular: Kannada" {class: text}
+  "Nominative singular: Kannada, Kui, Kuvi" {class: text}
   _.ನೀನ್ -> _.ನೀನು {class: u}
+}
+
+ನೀನು್ {
+  class: highlight
+  ನೀನು್: n̪iːn̪ɯ {class: bold}
+  "Nominative singular: Kodava" {class: text}
+  _. ನೀನ್ -> _.ನೀನು್ {class: ŭ}
 }
 
 ನೀಮ್ {
   class: plhighlight
  ನೀಮ್: n̪iːm {class: bold}
-  "Nominative plural: Old Kannada, Tamil" {class: text}
+  "Nominative plural: Old Kannada, Tamil, Kurukh, Malto" {class: text}
   _.ನೀಁ -> _.ನೀಮ್ {class: vm}
 }
 
@@ -88,10 +95,27 @@ classes {
   _.ನೀವ್ -> _.ನೀವು {class: u}
 }
 
+ಈನ್ {
+  class: highlight
+  ಈನ್: iːn̪ {class: bold}
+  "Inflectional prefix singular: Parji, Ollari etc." {class: text}
+  _.ಈಁ -> _.ಈನ್ {class: vn}
+}
+
+ಈನು {
+  class: highlight
+  ಈನು: iːn̪u {class: bold}
+  "Inflectional prefix singular: Kui" {class: text}
+  _.ಈನ್ -> _.ಈನು {class: u}
+}
+
 ನೀ {
   class: highlight
   ನೀ: n̪iː {class: bold}
-  "Nominative singular: Kannada, Telugu" {class: text}
+  a: |`
+  - Nominative singular: Kannada, Telugu, Tamil, Kodava, Malayalam, Brahui.
+  - Inflectional prefix singular: Kodava, Telugu, Gondi, Kui, Kuvi etc.
+  `| {class: text}
   _.ನೀಁ -> _.ನೀ {class: v0}
 }
 
@@ -103,7 +127,9 @@ classes {
 }
 
 ಈಮ್: iːm {
-  class: node
+  class: plhighlight
+  ಈಮ್: iːm {class: bold}
+  "Nominative plural: Manda, Ollari etc." {class: text}
   _.ಈಁ -> _.ಈಮ್ {class: vm}
 }
 
@@ -127,15 +153,30 @@ classes {
 ನಿನ್ {
   class: highlight
   ನಿನ್: n̪ɪn̪ {class: bold}
-  "Inflectional prefix singular: Kannada, Telugu, Tamil, Tulu" {class: text}
+  "Inflectional prefix singular: Kannada, Telugu, Tamil, Tulu, Kodava, Kui" {class: text}
   _.ನಿಁ -> _.ನಿನ್ {class: vn}
+}
+
+ನಿಮ್ {
+  class: plhighlight
+  ನಿಮ್: n̪ɪm {class: bold}
+  "Inflectional prefix plural: Kannada, Kui, Kurukh, Malto" {class: text}
+  _.ನಿಁ -> _.ನಿಮ್ {class: vm}
 }
 
 ಇನ್ {
   class: highlight
   ಇನ್: ɪn̪ {class: bold}
-  "Inflectional prefix singular: Tulu" {class: text}
+  "Inflectional prefix singular: Tulu, Kolami, Naiki etc." {class: text}
   _.ಇಁ -> _.ಇನ್ {class: vn}
+}
+
+ಇಮ್ {
+  class: plhighlight
+  ಇಮ್: ɪm {class: bold}
+  "Inflectional prefix plural: Kolami, Naiki etc." {class: text}
+  _.ಇಁ -> _.ಇಮ್ {class: vm}
+
 }
 
 ಉಁ {
