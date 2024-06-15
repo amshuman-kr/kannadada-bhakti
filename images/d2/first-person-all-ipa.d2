@@ -70,15 +70,22 @@ classes {
 ನಾನ್ {
   class: highlight
   ನಾನ್: n̪ɑːn̪ {class: bold}
-  "Nominative singular: Old Kanada, Tamil" {class: text}
+  "Nominative singular: Old Kanada, Tamil, Konda" {class: text}
   _.ನಾಁ -> _.ನಾನ್ {class: vn}
 }
 
 ನಾನು {
   class: highlight
   ನಾನು: n̪ɑːn̪u {class: bold}
-  "Nominative singular: Kannada" {class: text}
+  "Nominative singular: Kannada, Kui, Kuvi" {class: text}
   _.ನಾನ್ -> _.ನಾನು {class: u}
+}
+
+ನಾನು್ {
+  class: highlight
+  ನಾನು್: n̪ɑːn̪ɯ {class: bold}
+  "Nominative singular: Kodava" {class: text}
+  _.ನಾನ್ -> _.ನಾನು್ {class: ŭ}
 }
 
 ಞಾನ್ {
@@ -91,7 +98,7 @@ classes {
 ನಾಮ್ {
   class: plhighlight
   ನಾಮ್:n̪ɑːm {class: bold}
-  "Nominative plural: Old Kannada, Tamil" {class: text}
+  "Nominative plural: Old Kannada, Tamil Kurukh, Malto" {class: text}
   _.ನಾಁ -> _.ನಾಮ್ {class: vm}
 }
 
@@ -127,7 +134,7 @@ classes {
 ನಾ {
   class: highlight
   ನಾ: n̪ɑː {class: bold}
-  "Nominative singular: Kannada" {class: text}
+  "Nominative singular: Kannada, Kodava" {class: text}
   _.ನಾಁ -> _.ನಾ {class: v0}
 }
 
@@ -146,15 +153,22 @@ classes {
 ಆನ್ {
   class: highlight
   ಆನ್: ɑːn̪ {class: bold}
-  "Nominative singular: Old Kannada" {class: text}
+  "Nominative singular: Old Kannada, Manda, Kolami etc." {class: text}
   _.ಏ್‍ನ್ -> _.ಆನ್ {class: ǣā}
 }
 
 ಆನು {
   class: highlight
   ಆನು: ɑːn̪u {class: bold}
-  "Nominative singular: Kannada" {class: text}
+  "Nominative singular: Kannada, Kui" {class: text}
   _.ಆನ್ -> _.ಆನು {class: u}
+}
+
+ಓನ್ {
+  class: highlight
+  ಓನ್: oːn̪ {class: bold}
+  "Nominal singular: Toda" {class: text}
+  _.ಆನ್ -> _.ಓನ್ {class: āō}
 }
 
 ಏ್‍ಮ್: æːm {
@@ -166,10 +180,17 @@ classes {
   class: plhighlight
   ಆಮ್: ɑːm {class: bold}
   a: |`
-    - Nominative plural: Old Kannada
+    - Nominative plural: Old Kannada, Manda, Kolami etc.
     - First-person plural finite verb suffix: Tamil
   `| {class: text}
   _.ಏ್‍ಮ್ -> _.ಆಮ್ {class: ǣā}
+}
+
+ಆಮು {
+  class: plhighlight
+  ಆಮು: ɑːmu {class: bold}
+  "Nominal plural: Kui" {class: text}
+  _.ಆಮ್ -> _.ಆಮು {class: u}
 }
 
 ಓಮ್ {
@@ -179,8 +200,10 @@ classes {
   _.ಆಮ್ -> _.ಓಮ್ {class: āō}
 }
 
-ಏನ್: eːn̪ {
-  class: node
+ಏನ್ {
+  class: highlight
+  ಏನ್: eːn̪ {class: bold}
+  "Nominal singular: Kurukh, Malto" {class: text}
   _.ಏ್‍ನ್ -> _.ಏನ್ {class: ǣē}
 }
 
@@ -210,6 +233,13 @@ classes {
   ಯಾನು್: jɑːn̪ɯ {class: bold}
   "Nominative singular: Tulu" {class: text}
   _.ಯಾನ್ -> _.ಯಾನು್ {class: ŭ}
+}
+
+ಏಮ್ {
+  class: plhighlight
+  ಏಮ್: eːm {class: bold}
+  "Nominative plural: Kurukh, Malto" {class: text}
+  _.ಏ್‍ಮ್ -> _.ಏಮ್ {class: ǣē}
 }
 
 ಏ್: æː {
@@ -253,10 +283,10 @@ classes {
   class: highlight
   ಎನ್: en̪ {class: bold}
   a: |`
-    - Inflectional prefix singular: Old Kannada, Tamil, Tulu
+    - Inflectional prefix singular: Old Kannada, Tamil, Tulu, Toda, Kodava etc.
     - First-person singular finite verb suffix: Old Kannada
   `| {class: text}
-  _.ಎ್‌ನ್ -> _.ಎನ್ {class: æa}
+  _.ಎ್‌ನ್ -> _.ಎನ್ {class: æe}
 }
 
 ಎನು {
@@ -264,6 +294,13 @@ classes {
   ಎನು: en̪u {class: bold}
   "First-person singular finite verb suffix: Kannada" {class: text}
   _.ಎನ್ -> _.ಎನು {class: u}
+}
+
+ಅನ್ {
+  class: highlight
+  ಅನ್: ən̪ {class: bold}
+  "Inflectional prefix singular: Kolami, Naiki etc." {class: text}
+  _.ಎ್‌ನ್ -> _.ಅನ್ {class: æa}
 }
 
 ಎ್ {
@@ -289,7 +326,7 @@ classes {
   class: plhighlight
   ಎಮ್: em {class: bold}
   a: |`
-    - Inflectional prefix plural: Old Kannada
+    - Inflectional prefix plural: Old Kannada, Tamil, Toda, Kurukh, Malto etc.
     - First-person singular finite verb suffix: Old Kannada, Tamil?
   `| {class: text}
   _.ಎ್‌ಮ್ -> _.ಎಮ್ {class: æe}
@@ -310,7 +347,10 @@ classes {
 ಅಮ್ {
   class: plhighlight
   ಅಮ್: əm {class: bold}
-  "First-person singular finite verb suffix: Tamil?" {class: text}
+  a: |`
+  - Inflectional prefix plural: Kolami, Naiki etc.
+  - First-person singular finite verb suffix: Tamil?
+  `| {class: text}
   _.ಎ್‌ಮ್ -> _.ಅಮ್ {class: æa}
 }
 
