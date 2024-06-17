@@ -28,6 +28,7 @@ classes {
     style: { fill: mediumaquamarine }
     label: ""
   }
+  nv: { label: "strong nasalisation produces n before the vowel" }
   vn: { label: "singular: nasalisation > n after" }
   vm: { label: "plural: nasalisation > m after" }
   vv: { label: "plural: nasalisation > (via m?) v after" }
@@ -43,11 +44,15 @@ classes {
   aḷ: { label: "feminine singular + əɭ"}
   ar: { label: "rational plural + əɾ"}
   udu: {label: "neuter singular + ud̪u"}
+  adu: {label: "neuter singular + ad̪u"}
+  adŭ: {label: "neuter singular + ad̪ɯ"}
   vu: {label: "neuter singular + ʋu"}
   d: {label: "neuter singular + d̪"}
+  dŭ: {label: "neuter singular + d̪ɯ"}
   v0: {label: "nasalisation disappears"}
   æa: {label: "æ > ɑ"}
   æe: {label: "æ > e"}
+  nd: {label: "n̪ > d̪"}
 }
 
 ಎ್ಁ {
@@ -94,14 +99,60 @@ classes {
   _.ಏಮ್ -> _.ಏಮಿ {class: i}
 }
 
+ಏವ್: eːʋ {
+  class: node
+  _.ಏ್ಁ -> _.ಏವ್ {class: vv}
+}
+
+ಏವಁ: eːʋə̃ {
+  class: node
+  _.ಏವ್ -> _.ಏವಁ {class: an}
+}
+
+ಏವನ್ {
+  class: highlight
+  ಏವನ್: eːʋən̪ {class: bold}
+  "Nominative masculine singular: Tamil, Malayalam" {class: text}
+  _.ಏವಁ -> _.ಏವನ್ {class: vn}
+}
+
+ಏವಳ್ {
+  class: highlight
+  ಏವಳ್: eːʋəɭ {class: bold}
+  "Nominative feminine singular: Tamil, Malayalam" {class: text}
+  _.ಏವ್ -> _.ಏವಳ್ {class: aḷ}
+}
+
+ಏವರ್ {
+  class: plhighlight
+  ಏವರ್: eːʋəɾ {class: bold}
+  "Nominative rational plural: Malayalam" {class: text}
+  _.ಏವ್ -> _.ಏವರ್ {class: ar}
+}
+
 ಏ {
   class: highlight
   ಏ: eː {class: bold}
   a: |`
-    - Interrogative determiner: Telugu
+    - Interrogative determiner: Telugu, Kolami
     - Interrogative/speculative/skeptical suffix: Kannada
   `| {class: text}
   _.ಏಁ -> _.ಏ {class: v0}
+}
+
+ಏದ್ {
+  class: highlight
+  ಏದ್: eːd̪ {class: bold}
+  "Nominative neuter singular: Parji" {class: text}
+  _.ಏ -> _.ಏದ್ {class: d}
+}
+
+ಏದು್ {
+  class: highlight
+  ಏದು್: eːd̪ɯ {class: bold}
+  "Noinative neuter singular: Tamil, Malayalam" {class: text}
+  _.ಏದ್ -> _.ಏದು್ {class: ŭ}
+
 }
 
 ಏರ್: eːɾ {
@@ -131,8 +182,10 @@ classes {
   _.ಯಾವ್ -> _.ಯಾವಁ {class: an}
 }
 
-ಯಾವನ್: jɑːʋən̪ {
-  class: node
+ಯಾವನ್ {
+  class: highlight
+  ಯಾವನ್: jɑːʋən̪  {class: bold}
+  "Nominative masculine singular: Tamil, Malayalam" {class: text}
   _.ಯಾವಁ -> _.ಯಾವನ್ {class: vn}
 }
 
@@ -143,8 +196,10 @@ classes {
   _.ಯಾವನ್ -> _.ಯಾವನು {class: u}
 }
 
-ಯಾವಳ್: jɑːʋəɭ {
-  class: node
+ಯಾವಳ್ {
+  class: highlight
+  ಯಾವಳ್: jɑːʋəɭ {class: bold}
+  "Nominative feminine singular: Tamil, Malayalam" {class: text}
   _.ಯಾವ್ -> _.ಯಾವಳ್ {class: aḷ}
 }
 
@@ -162,25 +217,58 @@ classes {
   _.ಯಾವ್ -> _.ಯಾವುದು {class: udu}
 }
 
+ಯಾವದು {
+  class: highlight
+  ಯಾವದು: jɑːʋəd̪u {class: bold}
+  "Nominative neuter singular: Kannada" {class: text}
+  _.ಯಾವ್ -> _.ಯಾವದು {class: adu}
+}
+
+ಯಾವದು್ {
+  class: highlight
+  ಯಾವದು್: jɑːʋəd̪ɯ {class: bold}
+  "Nominative neuter singular: Tamil" {class: text}
+  _.ಯಾವ್ -> _.ಯಾವದು್ {class: adŭ}
+}
+
+ಯಾವರ್ {
+  class: plhighlight
+  ಯಾವರ್: jɑːʋəɾ {class: bold}
+  "Nominative rational plural: Tamil, Malayalam" {class: text}
+  _.ಯಾವ್ -> _.ಯಾವರ್ {class: ar}
+}
+
 ಯಾ {
   class: highlight
   ಯಾ: jɑː {class: bold}
-  "Interrogative determiner: Kannada" {class: text}
+  "Interrogative determiner: Kannada, Tamil" {class: text}
   _.ಯಾಁ -> _.ಯಾ {class: v0}
 }
 
 ಯಾರ್ {
-  class: highlight
+  class: plhighlight
   ಯಾರ್: jɑːɾ {class: bold}
   "Noinative rational: Tamil" {class: text}
   _.ಯಾ -> _.ಯಾರ್ {class: ar}
 }
 
 ಯಾರು {
-  class: highlight
+  class: plhighlight
   ಯಾರು: jɑːɾu {class: bold}
   "Nominative rational: Kannada" {class: text}
   _.ಯಾರ್ -> _.ಯಾರು {class: u}
+}
+
+ಯಾದ್: jɑːd̪ {
+  class: node
+  _.ಯಾ -> _.ಯಾದ್ {class: d}
+}
+
+ಯಾದು್ {
+  class: highlight
+  ಯಾದು್: jɑːd̪ɯ {class: bold}
+  "Nominative neuter singular: Tamil, Malayalam" {class: text}
+  _.ಯಾದ್ -> _.ಯಾದು್ {class: ŭ}
 }
 
 ಆಁ: ɑ̃ː {
@@ -229,18 +317,32 @@ classes {
   _.ಆವ್ -> _.ಆವುದು {class: udu}
 }
 
+ಆವರ್ {
+  class: plhighlight
+  ಆವರ್: jɑːʋəɾ {class: bold}
+  "Nominative rational plural: Tamil" {class: text}
+  _.ಆವ್ -> _.ಆವರ್ {class: ar}
+}
+
 ಆರ್ {
-  class: highlight
+  class: plhighlight
   ಆರ್: ɑːɾ {class: bold}
-  "Nominative rational: Old Kannada" {class: text}
+  "Nominative rational: Old Kannada, Tamil" {class: text}
   _.ಆ -> _.ಆರ್ {class: ar}
 }
 
 ಆರು {
-  class: highlight
+  class: plhighlight
   ಆರು: ɑːɾu {class: bold}
   "Nominative rational: Old Kannada" {class: text}
   _.ಆರ್ -> _.ಆರು {class: u}
+}
+
+ಆರು್ {
+  class: plhighlight
+  ಆರು್: ɑːɾ̪̪̪ɯ {class: bold}
+  "Nominative rational plural: Kodava" {class: text}
+  _.ಆರ್ -> _.ಆರು್ {class: ŭ}
 }
 
 ಆ {
@@ -291,6 +393,25 @@ classes {
   _.ಎಁ -> _.ಎವ್ {class: vv}
 }
 
+ಎವಁ: eʋə̃ {
+  class: node
+  _.ಎವ್ -> _.ಎವಁ {class: an}
+}
+
+ಎವನ್ {
+  class: highlight
+  ಎವನ್: eʋən̪  {class: bold}
+  "Nominative masculine singular: Tamil" {class: text}
+  _.ಎವಁ -> _.ಎವನ್ {class: vn}
+}
+
+ಎವಳ್ {
+  class: highlight
+  ಎವಳ್: eʋəɭ {class: bold}
+  "Nominative feminine singular: Tamil" {class: text}
+  _.ಎವ್ -> _.ಎವಳ್ {class: aḷ}
+}
+
 ಎವು {
   class: highlight
   ಎವು: eʋu {class: bold}
@@ -298,16 +419,28 @@ classes {
   _.ಎವ್ -> _.ಎವು {class: vu}
 }
 
+ಎವರ್ {
+  class: plhighlight
+  ಎವರ್: eʋəɾ {class: bold}
+  "Nominative rational plural: Tamil" {class: text}
+  _.ಎವ್ -> _.ಎವರ್ {class: ar}
+}
+
 ಎ: e {
   class: node
   _.ಎಁ -> _.ಎ {class: v0}
 }
 
-ಎದ್ {
-  class: highlight
-  ಎದ್: ed̪ {class: bold}
-  "Nominative neuter singular: Tamil" {class: text}
+ಎದ್: ed̪ {
+  class: node
   _.ಎ -> _.ಎದ್ {class: d}
+}
+
+ಎದು್ {
+  class: highlight
+  ಎದು್: ed̪ɯ {class: bold}
+  "Nominative neuter singular: Tamil" {class: text}
+  _.ಎದ್ -> _.ಎದು್ {class: ŭ}
 }
 
 ಎದು {
@@ -315,4 +448,40 @@ classes {
   ಎದು: ed̪u {class: bold}
   "Nominative neuter singular: Kannada" {class: text}
   _.ಎದ್ -> _.ಎದು {class: u}
+}
+
+ನೇ್ಁ: n̪æ̃ː {
+  class: node
+  _.ಏ್ಁ -> _.ನೇ್ಁ {class: nv}
+}
+
+ನೇಁ: n̪ẽː {
+  class: node
+  _.ನೇ್ಁ -> _.ನೇಁ {class: ǣē}
+}
+
+ನೇ {
+  class: plhighlight
+  ನೇ: n̪eː {class: bold}
+  "Nominative rational plural: Kurukh" {class: text}
+  _.ನೇಁ -> _.ನೇ {class: v0}
+}
+
+ನೇರ್: n̪eːɾ {
+  class: node
+  _.ನೇ -> _.ನೇರ್ {class: ar}
+}
+
+ದೇರ್ {
+  class: plhighlight
+  ದೇರ್: d̪eːɾ {class: bold}
+  "Nominative rational plural: Brahui" {class: text}
+  _.ನೇರ್ -> _.ದೇರ್ {class: nd}
+}
+
+ದೇ {
+  class: plhighlight
+  ದೇ: d̪eː {class: bold}
+  "Nominative rational plural: Brahui" {class: text}
+  _.ನೇ -> _.ದೇ {class: nd}
 }

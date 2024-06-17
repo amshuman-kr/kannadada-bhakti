@@ -28,6 +28,7 @@ classes {
     style: { fill: mediumaquamarine }
     label: ""
   }
+  nv: { label: "ಬಲವಾದ (ಅರ್ಧ)ಅನುಸ್ವಾರದಿಂದ ಮೊದಲೂ ನಕಾರವುಂಟಾಗಿದೆ" }
   vn: { label: "(ಅರ್ಧ)ಅನುಸ್ವಾರ > ಸ್ವರದನಂತರ ನಕಾರ" }
   vm: { label: "(ಅರ್ಧ)ಅನುಸ್ವಾರ > ಸ್ವರದನಂತರ ಮಕಾರ" }
   vv: { label: "(ಅರ್ಧ)ಅನುಸ್ವಾರ > ಸ್ವರದನಂತರ (ಮಕಾರದ ಮೂಲಕ?) ವಕಾರ" }
@@ -43,11 +44,15 @@ classes {
   aḷ: { label: "ಏಕವಚನ ಸ್ತ್ರೀಲಿಂಗವಾಚಕ + ಅಳ್"}
   ar: { label: "ಬಹುವಚನ ಪುಂಸ್ತ್ರೀಲಿಂಗವಾಚಕ + ಅರ್"}
   udu: {label: "ಏಕವಚನ ನಪುಂಸಕಲಿಂಗ + ಉದು"}
+  adu: {label: "ಏಕವಚನ ನಪುಂಸಕಲಿಂಗ + ಅದು"}
+  adŭ: {label: "ಏಕವಚನ ನಪುಂಸಕಲಿಂಗ + ಅದು್"}
   vu: {label: "ಏಕವಚನ ನಪುಂಸಕಲಿಂಗ + ವು"}
   d: {label: "ಏಕವಚನ ನಪುಂಸಕಲಿಂಗ + ದ್"}
+  dŭ: {label: "ಏಕವಚನ ನಪುಂಸಕಲಿಂಗ + ದು್"}
   v0: {label: "(ಅರ್ಧ)ಅನುಸ್ವಾರಲೋಪ"}
   æa: {label: "ಎ್ > ಅ"}
   æe: {label: "ಎ್ > ಎ"}
+  nd: {label: "ನ್ > ದ್"}
 }
 
 ಎ್ಁ {
@@ -94,14 +99,60 @@ classes {
   _.ಏಮ್ -> _.ಏಮಿ {class: i}
 }
 
+ಏವ್ {
+  class: node
+  _.ಏ್ಁ -> _.ಏವ್ {class: vv}
+}
+
+ಏವಁ {
+  class: node
+  _.ಏವ್ -> _.ಏವಁ {class: an}
+}
+
+ಏವನ್ {
+  class: highlight
+  ಏವನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಲ್ಲಿಂಗ: ತಮಿಳು, ಮಲಯಾಳ" {class: text}
+  _.ಏವಁ -> _.ಏವನ್ {class: vn}
+}
+
+ಏವಳ್ {
+  class: highlight
+  ಏವಳ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಸ್ತ್ರೀಲಿಂಗ: ತಮಿಳು, ಮಲಯಾಳ" {class: text}
+  _.ಏವ್ -> _.ಏವಳ್ {class: aḷ}
+}
+
+ಏವರ್ {
+  class: plhighlight
+  ಏವರ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಮಲಯಾಳ" {class: text}
+  _.ಏವ್ -> _.ಏವರ್ {class: ar}
+}
+
 ಏ {
   class: highlight
   ಏ {class: bold}
   a: |`
-    - ಗುಣವಾಚಕ, ನಿರ್ದೇಶನಾರ್ಥಕ: ತೆಲುಗು
+    - ಗುಣವಾಚಕ, ನಿರ್ದೇಶನಾರ್ಥಕ: ತೆಲುಗು, ಕೊಲಮಿ
     - ಪ್ರಶ್ನಾರ್ಥಕ, ಸಂದೇಹಾರ್ಥಕ ಪ್ರತ್ಯಯ: ಕನ್ನಡ
   `| {class: text}
   _.ಏಁ -> _.ಏ {class: v0}
+}
+
+ಏದ್ {
+  class: highlight
+  ಏದ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ಪಾರ್ಜಿ" {class: text}
+  _.ಏ -> _.ಏದ್ {class: d}
+}
+
+ಏದು್ {
+  class: highlight
+  ಏದು್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ತಮಿಳು, ಮಲಯಾಳ" {class: text}
+  _.ಏದ್ -> _.ಏದು್ {class: ŭ}
+
 }
 
 ಏರ್ {
@@ -132,7 +183,9 @@ classes {
 }
 
 ಯಾವನ್ {
-  class: node
+  class: highlight
+  ಯಾವನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಲ್ಲಿಂಗ: ತಮಿಳು, ಮಲಯಾಳ" {class: text}
   _.ಯಾವಁ -> _.ಯಾವನ್ {class: vn}
 }
 
@@ -144,7 +197,9 @@ classes {
 }
 
 ಯಾವಳ್ {
-  class: node
+  class: highlight
+  ಯಾವಳ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಸ್ತ್ರೀಲಿಂಗ: ತಮಿಳು, ಮಲಯಾಳ" {class: text}
   _.ಯಾವ್ -> _.ಯಾವಳ್ {class: aḷ}
 }
 
@@ -162,25 +217,58 @@ classes {
   _.ಯಾವ್ -> _.ಯಾವುದು {class: udu}
 }
 
+ಯಾವದು {
+  class: highlight
+  ಯಾವದು {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ಕನ್ನಡ" {class: text}
+  _.ಯಾವ್ -> _.ಯಾವದು {class: adu}
+}
+
+ಯಾವದು್ {
+  class: highlight
+  ಯಾವದು್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ತಮಿಳು" {class: text}
+  _.ಯಾವ್ -> _.ಯಾವದು್ {class: adŭ}
+}
+
+ಯಾವರ್ {
+  class: plhighlight
+  ಯಾವರ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ತಮಿಳು, ಮಲಯಾಳ" {class: text}
+  _.ಯಾವ್ -> _.ಯಾವರ್ {class: ar}
+}
+
 ಯಾ {
   class: highlight
   ಯಾ {class: bold}
-  "ಗುಣವಾಚಕ, ನಿರ್ದೇಶನಾರ್ಥಕ: ಕನ್ನಡ" {class: text}
+  "ಗುಣವಾಚಕ, ನಿರ್ದೇಶನಾರ್ಥಕ: ಕನ್ನಡ, ತಮಿಳು" {class: text}
   _.ಯಾಁ -> _.ಯಾ {class: v0}
 }
 
 ಯಾರ್ {
-  class: highlight
+  class: plhighlight
   ಯಾರ್ {class: bold}
   "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ತಮಿಳು" {class: text}
   _.ಯಾ -> _.ಯಾರ್ {class: ar}
 }
 
 ಯಾರು {
-  class: highlight
+  class: plhighlight
   ಯಾರು {class: bold}
   "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಕನ್ನಡ" {class: text}
   _.ಯಾರ್ -> _.ಯಾರು {class: u}
+}
+
+ಯಾದ್ {
+  class: node
+  _.ಯಾ -> _.ಯಾದ್ {class: d}
+}
+
+ಯಾದು್ {
+  class: highlight
+  ಯಾದು್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ತಮಿಳು, ಮಲಯಾಳ" {class: text}
+  _.ಯಾದ್ -> _.ಯಾದು್ {class: ŭ}
 }
 
 ಆಁ {
@@ -229,18 +317,32 @@ classes {
   _.ಆವ್ -> _.ಆವುದು {class: udu}
 }
 
+ಆವರ್ {
+  class: plhighlight
+  ಆವರ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ತಮಿಳು" {class: text}
+  _.ಆವ್ -> _.ಆವರ್ {class: ar}
+}
+
 ಆರ್ {
-  class: highlight
+  class: plhighlight
   ಆರ್ {class: bold}
-  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಹಳಗನ್ನಡ" {class: text}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಹಳಗನ್ನಡ, ತಮಿಳು" {class: text}
   _.ಆ -> _.ಆರ್ {class: ar}
 }
 
 ಆರು {
-  class: highlight
+  class: plhighlight
   ಆರು {class: bold}
   "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಹಳಗನ್ನಡ" {class: text}
   _.ಆರ್ -> _.ಆರು {class: u}
+}
+
+ಆರು್ {
+  class: plhighlight
+  ಆರು್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಕೊಡವ" {class: text}
+  _.ಆರ್ -> _.ಆರು್ {class: ŭ}
 }
 
 ಆ {
@@ -291,11 +393,37 @@ classes {
   _.ಎಁ -> _.ಎವ್ {class: vv}
 }
 
+ಎವಁ {
+  class: node
+  _.ಎವ್ -> _.ಎವಁ {class: an}
+}
+
+ಎವನ್ {
+  class: highlight
+  ಎವನ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಲ್ಲಿಂಗ: ತಮಿಳು" {class: text}
+  _.ಎವಁ -> _.ಎವನ್ {class: vn}
+}
+
+ಎವಳ್ {
+  class: highlight
+  ಎವಳ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಸ್ತ್ರೀಲಿಂಗ: ತಮಿಳು" {class: text}
+  _.ಎವ್ -> _.ಎವಳ್ {class: aḷ}
+}
+
 ಎವು {
   class: highlight
   ಎವು {class: bold}
   "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ತುಳು" {class: text}
   _.ಎವ್ -> _.ಎವು {class: vu}
+}
+
+ಎವರ್ {
+  class: plhighlight
+  ಎವರ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ತಮಿಳು" {class: text}
+  _.ಎವ್ -> _.ಎವರ್ {class: ar}
 }
 
 ಎ {
@@ -304,10 +432,15 @@ classes {
 }
 
 ಎದ್ {
-  class: highlight
-  ಎದ್ {class: bold}
-  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ತಮಿಳು" {class: text}
+  class: node
   _.ಎ -> _.ಎದ್ {class: d}
+}
+
+ಎದು್ {
+  class: highlight
+  ಎದು್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ತಮಿಳು" {class: text}
+  _.ಎದ್ -> _.ಎದು್ {class: ŭ}
 }
 
 ಎದು {
@@ -315,4 +448,40 @@ classes {
   ಎದು {class: bold}
   "ಪ್ರಥಮಾವಿಭಕ್ತಿ ನಪುಂಸಕಲಿಂಗ: ಕನ್ನಡ" {class: text}
   _.ಎದ್ -> _.ಎದು {class: u}
+}
+
+ನೇ್ಁ {
+  class: node
+  _.ಏ್ಁ -> _.ನೇ್ಁ {class: nv}
+}
+
+ನೇಁ {
+  class: node
+  _.ನೇ್ಁ -> _.ನೇಁ {class: ǣē}
+}
+
+ನೇ {
+  class: plhighlight
+  ನೇ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಕುರಕ್" {class: text}
+  _.ನೇಁ -> _.ನೇ {class: v0}
+}
+
+ನೇರ್ {
+  class: node
+  _.ನೇ -> _.ನೇರ್ {class: ar}
+}
+
+ದೇರ್ {
+  class: plhighlight
+  ದೇರ್ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಬ್ರಾಹುಯಿ" {class: text}
+  _.ನೇರ್ -> _.ದೇರ್ {class: nd}
+}
+
+ದೇ {
+  class: plhighlight
+  ದೇ {class: bold}
+  "ಪ್ರಥಮಾವಿಭಕ್ತಿ ಪುಂಸ್ತ್ರೀಲಿಂಗ: ಬ್ರಾಹುಯ್" {class: text}
+  _.ನೇ -> _.ದೇ {class: nd}
 }
