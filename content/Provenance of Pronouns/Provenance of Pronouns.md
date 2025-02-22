@@ -166,7 +166,7 @@ In ISO 15919,
 In IPA,
 
 - `ə + ̃ + ə̃ => ə̃ + ə̃ => əʋə̃` - The first nasalisation turns into `ʋ`.
-  - `=> əʋə` - The training nasalisation disappears.
+  - `=> əʋə` - The trailing nasalisation disappears.
   - `=> əʋən̪` - The trailing nasalisation turns into `n̪`.
 
 When a mediating nasalisation can (among other things) turn into `v` or drop off, it wouldn't be incorrect, for the sake of logical consistency,
