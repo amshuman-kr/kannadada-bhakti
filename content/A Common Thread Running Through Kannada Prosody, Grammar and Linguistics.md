@@ -114,8 +114,8 @@ no metrical units should ever start with a pattern of a `light` syllable followe
 
 > ī gaṇagaḷoḷage yāvudondu gaṇada ādiyalliyū oṇṭi laghu iruvudilla! idakke kāraṇavēnendare, ā laghuyugmagaḷu āyā vargada prathamagaṇada ādyakṣaravāda guruvina pratirūpagaḷāgi alli bandavugaḷāgive. munde baruva pratiyondu laghuvū prathamagaṇada itara ondondu guruvina pratirūpavāgiruttade; ī kāraṇadinda ivu mātra paṭhanadalli gurūccāravannu paḍeyatakkavugaḷāgive; gaṇādiya laghuyugmavu ondu gurvakṣarada pratirūpavāgiruva kāraṇa, ā yugmada laghugaḷu gurūccārakke anarhavādavugaḷāgiruttave. idē ī gaṇavyavastheya vaiśiṣṭya. ī rahasyavannaritare - ī gaṇagaḷinda ghaṭitavāgiruva piriyakkara modalāda ā "jāti"gaḷannōduva kelasavu susūtravāgi kaigūḍuttade; mattu hāḍina pratiyondu tāḷakhaṇḍada ādiyalliyū lagōccāra(lagam)vannu niṣēdhisuvudakkāgiyē, ondiṣṭu vicitravāgi kāṇuvantaha, ī gaṇavargada nirmāṇavāyitembudū gottāguttade.
 
-Readers can themselves verify by going through all the variations of all the three types of the `aṁśagaṇa` matric units that none of them start with a `DaDum` pattern.
-`DaDum` pattern are allowed after the begging of the metrical units, as can be seen in examples like `jāhnavī` (`DumDaDum`), `janakajā` (`DaDaDaDum`) etc. which are valid.
+Readers can themselves verify by going through all the variations of all the three types of the `aṁśagaṇa` metric units that none of them start with a `DaDum` pattern.
+`DaDum` pattern is allowed after the begging of the metrical units, as can be seen in examples like `jāhnavī` (`DumDaDum`), `janakajā` (`DaDaDaDum`) etc. which are valid.
 
 Additionally, it must be noted that in bisyllabic units, the first syllable is always `heavy`.
 For example, `bāḷu`, `tenku` etc.
@@ -126,15 +126,15 @@ Discussing this matter further, Sediyapu Krishna Bhat proposes that such avoidan
 at the beginning of the metrical units, is a nature of not just the native Kannada prosody,
 but is also a feature seen across native Dravidian prosody in general.
 This seems to be the case, indeed.
-This nature seems have influenced even the use of other imported (`syllablic`, `syllabo-quantitative` and `quantitative`) metres, where `DaDumDa` pattern (called `jagaṇa`, from the famous [`yāmātārājabhānasalaDum`](https://kannadakanaja-vyakarana.blogspot.com/2018/02/blog-post_28.html))
-seems to avoided or reduced even when compared to their use in Sanskrit poetry.
+This nature seems to have influenced even the use of other imported (`syllablic`, `syllabo-quantitative` and `quantitative`) metres, where `DaDumDa` pattern (called `jagaṇa`, from the famous [`yāmātārājabhānasalagam`](https://kannadakanaja-vyakarana.blogspot.com/2018/02/blog-post_28.html))
+seems to be avoided or reduced when compared to their use in Sanskrit poetry.
 When they do appear in the use of such imported meter in Kannada at the beginning of metrical units,
 it often sounds jarring to the Kannada ears.
 
 To be clear, this avoidance of `DaDum` pattern at the beginning of metrical units is not a universal feature across all languages.
 For example, the famous English [`iambic pentameter`](https://en.wikipedia.org/wiki/Iambic_pentameter) is actually based on the very same [`iambic`](https://en.wikipedia.org/wiki/Iamb_(poetry)) (i.e. `DaDum`) unit.
 English has [many such metres](https://en.wikipedia.org/wiki/Iamb_(poetry)#Types_of_meter) based on the `iambic` unit.
-Sanskrity prosody also has many metres starting with a `jagaṇa` (`DaDumDa`) or `yagaṇa` (`DaDumDum`) pattern.
+Sanskrit prosody also has many metres starting with a `jagaṇa` (`DaDumDa`) or a `yagaṇa` (`DaDumDum`) pattern.
 Hence, this feature of avoiding `DaDum` pattern at the beginning of metrical units seems to be unique to only the native prosody of the Dravidian family of languages.
 
 Sediyapu Krishna Bhat has proposed this feature of avoiding the `DaDum` pattern at the begging of metrical units only to analyse metrical units in the native Kannada prosody.
@@ -149,8 +149,8 @@ Now let us examine the seemingly unrelated phenomena of `dvitvasandhi` ([geminat
 in his work [`śabdamaṇidarpaṇa`](https://kn.wikipedia.org/wiki/kēśirāja#śabdamaṇidarpaṇa)
 (verses [79](https://archive.org/details/abdamaidarpaa00kirjuoft/page/100/mode/2up), [80](https://archive.org/details/abdamaidarpaa00kirjuoft/page/102/mode/2up) and [81](https://archive.org/details/abdamaidarpaa00kirjuoft/page/104/mode/2up)).
 
-The main feature here is that, when two morphene come together, if the first morpheme ends with a consonant, the consonant becomes geminated, if there is a single `light` syllable before that consonant.
-There is not gemination if the ending consonant of the first morphene is preceded (not counting the ending consonant) by either a `heavy` syllable or multiple syllables.
+The main feature here is that, when two morphemes come together, if the first morpheme ends with a consonant, the consonant becomes geminated, if there is a single `light` syllable before that consonant.
+There is no gemination if the ending consonant of the first morpheme is preceded (not counting the ending consonant) by either a `heavy` syllable or multiple syllables.
 For example,
 
 No gemination when preceded by a single `heavy` syllable,
@@ -174,20 +174,20 @@ Gemination when preceeded by a single `light` syllable,
 - `tan + aṣṭakke => tannaṣṭakke` - `ta` before the ending `n` is `light`
 
 It must be noted that, when an ending consonant is geminated before a preceding single `light` syllable,
-the said `monosyllable` is reliably transformed into a `heavy` syllable irrespective of whether the said consonant is followed by a vowel of another consonant from beginning of the following morpheme
+the said `monosyllable` is reliably transformed into a `heavy` syllable irrespective of whether the said consonant is followed by a vowel or another consonant from the beginning of the following morpheme
 (a syllable preceding a consonant cluster or gemination qualifies as `heavy`).
 Even the possibility of the occurrance of `DaDum` pattern at the beginning of the compound (word/morpheme) is thus eliminated.
 
 To be sure, let us examine what would happen if the ending consonant is not geminated when preceded by a single `light` syllable, in some of the examples given above.
 
-- `kaṇ + imda => kaṇinda` - *DaDum*Da
+- `kaṇ + inda => kaṇinda` - *DaDum*Da
 - `tan + aṣṭakke => tanaṣṭakke` - *DaDum*DumDa
 
 These compound forms do not appear in Kannada because they manifest the `DaDum` pattern at the beginning.
 
-However, it must be noted that formation of such `DaDum` pattern at the beginning is a possibility only is some of such compounds.
+However, it must be noted that the formation of such `DaDum` pattern at the beginning is a possibility only is some of such compounds.
 Sometimes a `DaDum` pattern may not manifest at the beginning of such compounds even when gemination is prevented (for the sake of argument).
-In some of those cases, the compounds could be bisyllabic, made up of only two `light` syllables,
+In some of those cases, the resulting compounds could be bisyllabic, made up of only two `light` syllables,
 which is also not a valid metrical unit in native Kannada prosody, as discussed [above](#structure-of-metrical-units-in-native-kannada-prosody).
 For example,
 
@@ -205,21 +205,21 @@ For example,
 - `hon + ali => honali` - *DaDaDa*
 - `heṇ + in + a => heṇina` - *DaDaDa*
 
-But these forms are not seen in Kannada.
-Suffix forms like `anu` `ali` etc. are found mostly when preceded by multiple syllable.
+Yet these forms are not seen in Kannada.
+Suffix forms like `anu` `ali` etc. are found mostly when preceded by multiple syllables.
 For example,`maravanu`, `rāmanali` etc.
 
 The reason for this (such compound forms without gemination that are valid metrical units not occuring in Kannada) is that,
 suffixes like `anu` `ali` are themselves further composed of smaller morphemes `aṁ`/`am̐`/`an`, `al`, `iṁ`/`im̐`/`in`.
-Therefore, when the above exampels are examined in more details,
-we can see that the `DaDum` pattern indeed forms in the intermediate compound, before disapparing from the proposed hypothetical final compound without gemination.
+Therefore, when the above examples are examined in more detail,
+we can see that the `DaDum` pattern indeed forms in the intermediate compound, before disapparing from the proposed hypothetical final compound without the gemination.
 For example,
 
 - `ben + aṁ/an + u => benaṁ/benan (DaDum) + u => benanu (DaDaDa)`
 - `hon + al + i => honal (DaDum) + i =>  honali (DaDaDa)`
 - `heṇ + in + a => heṇin (DaDum) + a => heṇina (DaDaDa)`
 
-Thus, it looks like the `DaDum` pattern is avoid even in the intermediate compound forms in Kannada;
+Thus, it looks like the `DaDum` pattern is avoided even in the intermediate compound forms in Kannada;
 not just in the final compound forms.
 
 ### Note
@@ -252,13 +252,13 @@ Epenthetic `w` when preceded by a single `light` syllable,
 - `hasu + in + a => hasuvina` - `ha` before `su` is `light`
 - `karu + annu => karuvannu` - `ka` before `ru` is `light`
 
-The process behind the `-iaṇn` infix is discussed in detail in [A Nose for Nasalisation](A%20Nose%20for%20Nasalisation.md#the-nasal-consonant-ṇ-sometimes-seen-in-directional-words).
+The process behind the `-aṇ` infix is discussed in detail in [A Nose for Nasalisation](A%20Nose%20for%20Nasalisation.md#the-nasal-consonant-ṇ-sometimes-seen-in-directional-words).
 
 The epenthetic `w` after two light syllables, ensures that the compound always starts with a `DaDa` pattern irresepective of whether the following morpheme starts with a consonant or vowel,
 thus, eliminating even the possibility of a starting `DaDum` pattern.
 
 To be sure, let us examine what would happen if such epenthetic `w` does not occur in such examples.
-Since the first morpheme all end with the vowel `u`, dropping that vowel (`lōpasandhi`) is the only hypothetical alternative.
+Since the first morpheme all such examples end with the vowel `u`, dropping that vowel (`lōpasandhi`) is the only hypothetical alternative.
 
 - `paḍu + alli => paḍalli` - *DaDum*Da
 - `hasu + inda => hasinda` - *DaDum*Da
@@ -266,7 +266,7 @@ Since the first morpheme all end with the vowel `u`, dropping that vowel (`lōpa
 
 These compound forms do not appear in Kannada because they manifest the `DaDum` pattern at the beginning.
 
-However, it must be noted that formation of such `DaDum` pattern at the beginning is a possibility only is some of such compounds.
+However, it must be noted that the formation of such `DaDum` pattern at the beginning is a possibility only is some of such compounds.
 Sometimes a `DaDum` pattern may not manifest at the beginning of such compounds even when the epenthetic `w` is prevented (for the sake of argument).
 In some of those cases, the compounds could be bisyllabic, made up of only two `light` syllables,
 which is also not a valid metrical unit in native Kannada prosody, as discussed [above](#structure-of-metrical-units-in-native-kannada-prosody).
@@ -287,10 +287,10 @@ For example,
 - `hasu + in + a => hasina` - *DaDaDa*
 
 But these forms are not seen in Kannada.
-The reason for this (such compound forms without gemination that are valid metrical units not occuring in Kannada) is that,
+The reason for this (such compound forms without the epenthetic `w` that are valid metrical units not occuring in Kannada) is that,
 suffixes like `anu` `ali` are themselves further composed of smaller morphemes `aṁ`/`am̐`/`an`, `al`, `iṁ`/`im̐`/`in`.
-Therefore, when the above exampels are examined in more details,
-we can see that the `DaDum` pattern indeed forms in the intermediate compound, before disapparing from the proposed hypothetical final compound without epenthetic `w`.
+Therefore, when the above examples are examined in more detail,
+we can see that the `DaDum` pattern indeed forms in the intermediate compound, before disapparing from the proposed hypothetical final compound without the epenthetic `w`.
 For example,
 
 - `karu + aṁ/an + u => karaṁ/karan (DaDum) + u => karanu (DaDaDa)`
@@ -299,7 +299,7 @@ For example,
 - `hasu + in + a => hasin (DaDum) + a => hasina (DaDaDa)`
 
 As seen in the case of gemination [above](#gemination-at-morpheme-boundaries),
-it looks like the `DaDum` pattern is avoid even in the intermediate compound forms in Kannada;
+it looks like the `DaDum` pattern is avoided even in the intermediate compound forms in Kannada;
 not just in the final compound forms.
 
 ## Occasional elongation of the short vowel in the initial syllable
@@ -316,7 +316,7 @@ For example,
 - `eraḍu + kaṭṭu => ir + kaṭṭu => irkaṭṭu => ikkaṭṭu`
 - `piridu + pāruva => per + pāruva => perbāruva => hebbāra`
 
-But in some compounds, these very same `or`, `ir`, `per`, sometimes appear with the vowel in their first syllable elongated/
+But in some compounds, these very same `or`, `ir`, `per`, sometimes appear with the vowel in their first syllable elongated.
 For example,
 
 - `ondu + āne => or + āne => ōr + āne => ōrāne` - `o` has elongated to `ō`
@@ -332,7 +332,7 @@ For example,
 - `irēḷu` - *DaDum*Da
 - `perāne/herāne` - *DaDum*Da
 
-Thus, elongation of the vowel in the first syllable also seems to be among the process that help avoid an initial `DaDum` pattern at the beginning of metrical units.
+Thus, elongation of the vowel in the first syllable also seems to be among the processes that help avoid an initial `DaDum` pattern in the metrical units.
 
 ## Initial `DaDum` pattern in verbs
 
@@ -372,7 +372,7 @@ For example,
 - `bemarda (DaDumDa) => bevarida (DaDaDaDa)`
 - `kaṟumbu (DaDumDa) => karubu (DaDaDa)`
 
-It seems like Modern (even Middle) Kannada seems to have extended the scope of the origifnal feature found in Old Kannada of avoiding intial `DaDum` pattern, beyond the nouns, even to the verbs.
+It seems like Modern (even Middle) Kannada seems to have extended the scope of the original feature found in Old Kannada of avoiding intial `DaDum` pattern, beyond the nouns, even to the verbs.
 The phenomenon of the loss of nasal consonants or nasalisation in these verbs in Modern Kannada is discussed in [A Nose for Nasalisation](A%20Nose%20for%20Nasalisation.md#why-is-nasalisation-not-seen-in-the-dative-case-many-times).
 It is perhaps arguable that the extending of the scope of the feature of avoiding initial `DaDum` pattern to verbs in Modern Kannada, might have given an impetus to the process of loss of nasalisation in such cases.
 
@@ -382,7 +382,7 @@ A sentence might span multiple metrical units.
 But it is possible to circumvent the the `DaDum` patterns in the metrical units that come later in the sentence,
 by regrouping the words and syllables in such as way that these `DaDum` patterns do not appear at the beginning
 of any of those metrical units
-(here, the flexibility of stretching and strinking the vowel lengths later in the metrical units comes in handy).
+(here, the flexibility of stretching and shrinking the vowel lengths later in the metrical units comes in handy).
 But in nouns, pronouns and their case inflexions that are more likely to appear at the beginning of the sentence than verbs,
 it is difficult to circumvent initial `DaDum` pattern if they occur.
 So, it may be argued that such initial `DaDum` pattern is tolerated in Old Kannada more in verbs than in nouns and pronouns.
@@ -408,7 +408,7 @@ The phenomenon of the existence of the variations of dative forms with both gemi
 
 ### Seemingly unnecessary elongation of the short vowel in the first syllable in some compounds
 
-There are execeptions to the phenomenon of the elongation of the `short` vowel in the first syllable in some compounds
+There are exceptions to the phenomenon of the elongation of the `short` vowel in the first syllable in some compounds
 mentioned [above](#occasional-elongation-of-the-short-vowel-in-the-initial-syllable).
 For example,
 
@@ -417,7 +417,7 @@ For example,
 - `karidu + mugilu => kar + mugilu => kārmugilu` - even if the vowel remains short (`kar`), no initial `DaDum` pattern would manifest (`karmugilu` - `DumDaDaDa`). The word is indeed found in Old Kannada as `karmugil` with a `short` vowel.
 - `karidu + mōḍa => kar + mōḍa => kārmōḍa` - even if the vowel remains short (`kar`) , no initial `DaDum` pattern would manifest (`karmōḍa` - `DumDumDa`). The word is indeed found in Old Kannada as `karmōḍa` with a `short` vowel.
 
-Given that there other such exceptions apart from these examples, it must be admitted that these processes have complete scope even in Modern Kannada.
+Given that there other such exceptions apart from these examples, it must be admitted that these processes do not have complete scope even in Modern Kannada.
 
 ## The ending vowel `u` sometimes added in the nominative forms of some nouns not ending with the vowel `a`
 
@@ -429,7 +429,7 @@ This is mentioned in [A Nose for Nasalisation](A%20Nose%20for%20Nasalisation.md#
 
 ha.ga., na.ga.gaḷalli illade idda oṁdu viśēṣa prayōgavu - akārāntagaḷallada śabdagaḷigū u pratyayavannu sērisuvudu - ho.ga.dalli grānthikabhāṣeyalli mātra kaṇḍubaruttade. idakke u embudu pra.vi.pratyayaveṁba bhrameyē kāraṇa. ha.ga.dallina vyañjanāntagaḷellavū svarnṁtagaḷāguvudariṁda, adaralliyū mukhyavāgi ukārāntagaḷāguvudarinda u embudannu pra.vi.pratyayavendu bhāvisuvudu tappu.
 >
-> [haḷagannaḍavannu ha.ga. endū, naḍugannaḍavannu na.ga. endū, hosagannaḍavannu ho.ga. endū, prathamā vibhaktiyannu pra.vi. endū mūladallē sankṣēpisalāgide.]
+> [haḷagannaḍavannu ha.ga. endū, naḍugannaḍavannu na.ga. endū, hosagannaḍavannu ho.ga. endū, prathamā vibhaktiyannu pra.vi. endū mūladallē saṅkṣēpisalāgide.]
 
 For example,
 
@@ -468,9 +468,9 @@ an misconception that `-u` is a nominative suffix.
 Thus, the common feature behind the [distinct structure of the metrical units in native Kannada prosody](#structure-of-metrical-units-in-native-kannada-prosody),
 the [gemination at morpheme boundaries](#gemination-at-morpheme-boundaries), the [epenthetic `w` in some case inflexions](#occasional-elongation-of-the-short-vowel-in-the-initial-syllable)
 and the [occasional elongation of the `short` vowel in the first syllable in compounds](#occasional-elongation-of-the-short-vowel-in-the-initial-syllable),
-is the very same feature of avoiding an initial `DaDum` pattern at the beginning of metrical units,
+is the very same feature of avoiding a `DaDum` pattern at the beginning of metrical units,
 first proposed by Sediyapu Krishna Bhat as, common across the prosody native to the Dravidian family of languages.
-Modern Kannada seems to extend the the scope of this feature even to avoid the initial `DaDum` pattern
+Modern Kannada seems to extend the scope of this feature to avoid the initial `DaDum` pattern
 even in verbs and to some extent even the occurrance of such a pattern in imported metres.
 
 ## Revisions
