@@ -24,6 +24,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 ### ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of modification time
 
 - [A Common Thread Running Through Kannada Prosody, Grammar and Linguistics](content/A%20Common%20Thread%20Running%20Through%20Kannada%20Prosody%2C%20Grammar%20and%20Linguistics.md) ([Amshuman K R](https://github.com/amshuman-kr))
+- [ವಕಾರದ ವಿಭಕ್ತಿ](content/ವಕಾರದ%20ವಿಭಕ್ತಿ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [A Proposal for Perfective Particples](content/A%20Proposal%20for%20Perfective%20Particples.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - Provenance of Pronouns
@@ -36,7 +37,6 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 - [ಅನುಸ್ವಾರದ ಅನುಸಾರ](content/ಅನುಸ್ವಾರದ%20ಅನುಸಾರ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [ಅಂಕೆಗಳ ಅಟ್ಟಳಿಗೆ](content/ಅಂಕೆಗಳ%20ಅಟ್ಟಳಿಗೆ.md) ([ಗಣೇಶಕೃಷ್ಣ ಶಂಕರತೋಟ](https://github.com/smgk))
 - [ದ್ರಾವಿಡಭಾಷೆಗಳ ವಿಶೇಷಸ್ವರಗಳು](content/ದ್ರಾವಿಡಭಾಷೆಗಳ%20ವಿಶೇಷಸ್ವರಗಳು.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
-- [ವಕಾರದ ವಿಭಕ್ತಿ](content/ವಕಾರದ%20ವಿಭಕ್ತಿ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [ಎಕಾರದ ಆವೇಶ](content/ಎಕಾರದ%20ಆವೇಶ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of creation time
