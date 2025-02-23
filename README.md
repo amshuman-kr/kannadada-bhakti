@@ -23,6 +23,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of modification time
 
+- [A Common Thread Running Through Kannada Prosody, Grammar and Linguistics](content/A%20Common%20Thread%20Running%20Through%20Kannada%20Prosody%2C%20Grammar%20and%20Linguistics.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [A Proposal for Perfective Particples](content/A%20Proposal%20for%20Perfective%20Particples.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - Provenance of Pronouns
@@ -40,6 +41,7 @@ Please feel free to create a [new issue](../../issues/new) if necessary.
 
 ### ಮೊದಲ ಆವೃತ್ತಿಯ ಸಮಯದ ವಿಲೋಮಾನುಕ್ರಮವಾಗಿ / By reverse chronology of creation time
 
+- [A Common Thread Running Through Kannada Prosody, Grammar and Linguistics](content/A%20Common%20Thread%20Running%20Through%20Kannada%20Prosody%2C%20Grammar%20and%20Linguistics.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [A Proposal for Perfective Particples](content/A%20Proposal%20for%20Perfective%20Particples.md) ([Amshuman K R](https://github.com/amshuman-kr))
 - [ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ ಪುರಾಣ](content/ಪೂರ್ವಕಾಲಕ್ರಿಯೆಯ%20ಪುರಾಣ.md) ([ಅಂಶುಮಾನ್ ಕೆ ಆರ್](https://github.com/amshuman-kr))
 - [A Nose for Nasalisation](content/A%20Nose%20for%20Nasalisation.md) ([Amshuman K R](https://github.com/amshuman-kr))
